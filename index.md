@@ -27,7 +27,7 @@ Generated from page frontmatter by tools/ingest.py; do not edit by hand.
 - [MCU Firmware Fuzzing](wiki/index-mcu-firmware-fuzzing.md) — 6 entries
 - [Hardware Reverse Engineering Multitools](wiki/index-hardware-reverse-engineering-multitools.md) — 6 entries
 - [Hardware Debug Interfaces](wiki/index-hardware-debug-interfaces.md) — 5 entries
-- [USB Protocol Analysis](wiki/index-usb-protocol-analysis.md) — 4 entries
+- [USB Protocol Analysis](wiki/index-usb-protocol-analysis.md) — 5 entries
 - [Chip-Off and Memory Forensics](wiki/index-chip-off-and-memory-forensics.md) — 5 entries
 - [Side-Channel Analysis](wiki/index-side-channel-analysis.md) — 10 entries
 - [Fault Injection](wiki/index-fault-injection.md) — 5 entries
