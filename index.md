@@ -16,7 +16,7 @@ Generated from page frontmatter by tools/ingest.py; do not edit by hand.
 - [Firmware Taint Analysis](wiki/index-firmware-taint-analysis.md) — 4 entries
 - [RTOS Security](wiki/index-rtos-security.md) — 5 entries
 - [TEE/Trusted Execution Environments](wiki/index-tee-trusted-execution-environments.md) — 7 entries
-- [Root of Trust and TPM](wiki/index-root-of-trust-and-tpm.md) — 9 entries
+- [Root of Trust and TPM](wiki/index-root-of-trust-and-tpm.md) — 11 entries
 - [OTA Update Security](wiki/index-ota-update-security.md) — 7 entries
 - [IoT Protocol Security](wiki/index-iot-protocol-security.md) — 9 entries
 - [Bluetooth and BLE Security](wiki/index-bluetooth-and-ble-security.md) — 11 entries

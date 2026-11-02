@@ -9,3 +9,5 @@
 - [TPM 2.0 Reference Implementation](tpm-2-0-reference-implementation.md) — TPM 2.0 specification and reference software from the TCG.
 - [tpm2-algtest](tpm2-algtest.md) — Tests real TPM 2.0 chips for RNG output quality, key generation timing, algorithm support, and implementation fingerprints across 80+ firmware revisions…
 - [tpm2-tss](tpm2-tss.md) — Reference implementation of the TCG TPM2 Software Stack (TSS2), providing the APIs for key management and attestation.
+- [TPMGenie](tpmgenie.md) — I2C bus interposer for discrete TPMs that intercepts and modifies TPM traffic for vulnerability research.
+- [wolfTPM](wolftpm.md) — Portable TPM 2.0 library designed for embedded use, supporting SPI and I2C TPMs plus a firmware TPM option.
