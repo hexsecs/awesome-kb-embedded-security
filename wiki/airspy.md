@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d54c-7712-8e53-0fb8d50f4a47
 title: "Airspy"
 summary: "Receive-only SDRs with high dynamic range and front-end filtering, covering HF through 1.8 GHz depending on model."
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d59a-79aa-bde6-0342d3d7b7ba
 title: "SCALE"
 summary: "Side-Channel Attack Lab Exercises providing educational material for learning power analysis attacks with low-cost hardware."
 type: entity

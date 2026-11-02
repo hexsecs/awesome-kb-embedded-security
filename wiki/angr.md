@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d54e-700a-9a3d-17d58fa3db44
 title: "Angr"
 summary: "Platform-agnostic binary analysis framework. Brought to you by the Computer Security Lab at UC Santa Barbara, SEFCOM at Arizona State University, their…"
 type: entity

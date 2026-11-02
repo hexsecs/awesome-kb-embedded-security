@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d585-7101-94c7-3857e68ae9bf
 title: "MFOC"
 summary: "Nested attack that recovers the remaining MIFARE Classic sector keys once one key is known; pairs with MFCUK."
 type: entity

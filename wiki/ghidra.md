@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d572-79bc-a950-dd97b5574f75
 title: "Ghidra"
 summary: "A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission."
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d565-7e98-9769-a4c9926f5373
 title: "EU Cyber Resilience Act"
 summary: "Regulation 2024/2847, setting security requirements and vulnerability reporting obligations for products with digital elements sold in the EU."
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d556-7489-a619-cf59b89eb746
 title: "Black Magic Probe"
 summary: "An open-source JTAG/SWD debugger with embedded GDB server and automatic target detection."
 type: entity

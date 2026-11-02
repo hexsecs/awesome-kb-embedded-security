@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d599-7243-be35-672897f144c5
 title: "SaTC"
 summary: "Anchors taint analysis to string literals shared between web front-end and back-end binaries to pinpoint user-controlled input entry points; found 33…"
 type: entity

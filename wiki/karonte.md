@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d57f-7eb5-a706-de1488faafcd
 title: "KARONTE"
 summary: "Static analysis tool that tracks untrusted input flows across binary boundaries (shared files, sockets, env vars) in embedded Linux firmware using…"
 type: entity

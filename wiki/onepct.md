@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d588-7fbb-a865-c7d6cec99033
 title: "onepct"
 summary: "Tooling for LLM-assisted vulnerability discovery in IoT and embedded firmware, open-sourced from a Black Hat USA talk: capability graphs that synthesize…"
 type: entity

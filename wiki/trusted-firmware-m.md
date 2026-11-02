@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5a6-7b79-9c5c-7e9905e9e924
 title: "Trusted Firmware-M"
 summary: "Open-source secure firmware for Arm Cortex-M TrustZone systems, providing isolation, secure services, and PSA security APIs."
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d582-7992-88dd-8d48db2ed847
 title: "libFuzzer"
 summary: "In-process, coverage-guided, evolutionary fuzzing engine integrated with LLVM."
 type: entity

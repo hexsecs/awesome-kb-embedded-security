@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5a5-7ba7-80c7-8c3421dfa5db
 title: "TPMGenie"
 summary: "I2C bus interposer for discrete TPMs that intercepts and modifies TPM traffic for vulnerability research."
 type: entity

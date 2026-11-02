@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d59d-7945-9602-496d033107da
 title: "sgx-step"
 summary: "Framework for precise single-stepping of SGX enclaves to enable controlled-channel and side-channel attacks."
 type: entity

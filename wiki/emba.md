@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d562-7b1b-8c0e-86ded69c0d73
 title: "emba"
 summary: "Efficient malware analysis framework for embedded firmware with scanning and reporting."
 type: entity

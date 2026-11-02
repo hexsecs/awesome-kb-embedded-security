@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d54c-7ed1-9a43-67d9d121cbad
 title: "AMD fTPM Security Guidance"
 summary: "AMD guidance and security bulletin coverage related to firmware TPM behavior on supported platforms."
 type: entity

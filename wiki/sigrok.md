@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d59e-7900-866f-bd397355fe96
 title: "Sigrok"
 summary: "Portable, cross-platform, Free/Libre/Open-Source signal analysis software suite that supports various device types (e.g. logic analyzers, oscilloscopes, and…"
 type: entity

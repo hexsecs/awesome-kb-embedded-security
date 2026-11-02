@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d55a-736d-b6ce-355be66952a6
 title: "ChameleonUltra"
 summary: "Pocket friendly powerful LF and HF emulation & manipulation tool which is based on the open-source project ChameleonMini."
 type: entity

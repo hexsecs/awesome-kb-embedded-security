@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d550-7d61-8bba-1786b657cb90
 title: "Auditor"
 summary: "Hardware-based attestation app for Android that verifies a device's verified boot state and OS integrity from a second device."
 type: entity

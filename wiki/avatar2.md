@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d551-7171-a190-341f3214dae5
 title: "Avatar2"
 summary: "Dynamic analysis orchestration framework for binary firmware that coordinates execution across emulators (QEMU, Unicorn) and real hardware targets."
 type: entity

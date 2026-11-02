@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d558-7cb5-beae-de2d226ca2a7
 title: "boofuzz"
 summary: "Actively maintained network protocol fuzzer and the spiritual successor to Sulley, with session management, target monitoring, and protocol graph support."
 type: entity

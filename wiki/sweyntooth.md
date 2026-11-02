@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5a0-7820-9f0b-f9dc973de5be
 title: "SweynTooth"
 summary: "Runnable PoC exploits for 18 BLE link-layer and L2CAP vulnerabilities across TI, NXP, Cypress, Dialog, Microchip, and STMicro SDKs, including full pairing…"
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d55e-7e00-9d48-4639c72dd89c
 title: "cwe_checker"
 summary: "Binary analysis tool that checks ELF binaries for violations of Common Weakness Enumerations (CWEs) using abstract interpretation, with cross-architecture…"
 type: entity

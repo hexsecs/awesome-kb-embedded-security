@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d583-7ca0-88df-f69accffa19e
 title: "LimeSDR"
 summary: "Open-hardware full-duplex MIMO SDR with open drivers (LimeSuite, SoapySDR), widely used for LTE and 5G experimentation."
 type: entity

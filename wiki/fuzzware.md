@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d56e-79eb-97ac-dd8e3a737555
 title: "Fuzzware"
 summary: "Automatically models MMIO peripheral inputs via symbolic execution to enable coverage-guided fuzzing of ARM Cortex-M firmware with no hardware required.…"
 type: entity

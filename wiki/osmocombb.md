@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d58a-7b9a-80c7-92f34651359a
 title: "OsmocomBB"
 summary: "Free Software GSM baseband (Layer 1-3) implementation for TI Calypso-based phones, replacing proprietary baseband firmware entirely and enabling open…"
 type: entity

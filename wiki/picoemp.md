@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d58d-75a8-9829-8cb960b43531
 title: "PicoEMP"
 summary: "NewAE's open hardware EMFI tool built on a Raspberry Pi Pico and photographic-flash transformer circuit; the community standard entry-level electromagnetic…"
 type: entity

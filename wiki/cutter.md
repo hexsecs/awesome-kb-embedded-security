@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d55d-7077-ba2c-19eefa89af73
 title: "Cutter"
 summary: "Free and Open Source RE Platform powered by Rizini."
 type: entity

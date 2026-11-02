@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d58b-7078-a1c3-0b41264dbb21
 title: "PANDA"
 summary: "Platform for Architecture-Neutral Dynamic Analysis with record/replay functionality and LLVM IR translation for whole-system analysis."
 type: entity

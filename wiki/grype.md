@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d577-723e-964a-c8bd5b984b7f
 title: "Grype"
 summary: "Vulnerability scanner that consumes SBOMs to identify known CVEs in firmware dependencies."
 type: entity

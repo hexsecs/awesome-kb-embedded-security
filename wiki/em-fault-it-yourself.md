@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d562-7dba-b3df-32489301d33d
 title: "EM-Fault-It-Yourself"
 summary: "Motorized XYZ-stage EMFI platform targeting desktop and server SoCs (successfully attacked the AMD Secure Processor), with 2.5µm accuracy, 100mm travel, and…"
 type: entity

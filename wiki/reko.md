@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d592-770f-9265-dffb871412a5
 title: "Reko"
 summary: "Open-source decompiler with unusually broad architecture coverage, useful for embedded cores that mainstream tools support poorly."
 type: entity

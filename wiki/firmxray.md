@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d56a-783e-a9d9-0e8ed2728c89
 title: "FirmXRay"
 summary: "Ghidra-based static analysis that finds Bluetooth link-layer vulnerabilities in bare-metal Cortex-M firmware built on Nordic and TI BLE SDKs. CCS 2020."
 type: entity

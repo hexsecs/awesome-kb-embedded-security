@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d596-7461-a4de-0a64867513f7
 title: "SAFIREFUZZ"
 summary: "Rewrites ARM Cortex-M firmware via dynamic binary rewriting to run as a Linux userspace process on ARM servers, achieving ~600× the fuzzing throughput of…"
 type: entity

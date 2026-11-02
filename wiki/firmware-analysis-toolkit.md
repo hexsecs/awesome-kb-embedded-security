@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d568-70f7-b4c1-ed0bd5e07798
 title: "Firmware Analysis Toolkit"
 summary: "Automated tool for firmware emulation and vulnerability discovery."
 type: entity

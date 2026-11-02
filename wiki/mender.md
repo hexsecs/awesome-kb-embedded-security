@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d585-7f1d-b4e5-0304b34d4d0e
 title: "Mender"
 summary: "Over-the-air software updater for Linux IoT devices with atomic updates and rollback."
 type: entity

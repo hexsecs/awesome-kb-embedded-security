@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d564-7eeb-b4b0-70cae1d57ef5
 title: "ESP32 Marauder"
 summary: "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32."
 type: entity

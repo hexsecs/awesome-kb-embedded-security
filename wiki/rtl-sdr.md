@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d596-75a5-9738-366bb636dd4e
 title: "RTL-SDR"
 summary: "Very cheap ~$30 USB dongle that can be used as a computer based radio scanner for receiving live radio signals in your area (no internet required)."
 type: entity

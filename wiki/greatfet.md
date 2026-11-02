@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d577-7af3-b8c3-d4a3966191d1
 title: "GreatFET"
 summary: "Open-source USB host-side hardware security research platform from Great Scott Gadgets with an expandable neighbor board ecosystem for interfacing with…"
 type: entity

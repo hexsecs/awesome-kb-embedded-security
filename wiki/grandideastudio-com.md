@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d576-706e-9957-506f3a09d1fd
 title: "GrandIdeaStudio.com"
 summary: "Paid hardware hacking training with Joe Grand (aka Kingpin)."
 type: entity

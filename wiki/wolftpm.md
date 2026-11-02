@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5b2-7d06-8af5-efa872e67ca1
 title: "wolfTPM"
 summary: "Portable TPM 2.0 library designed for embedded use, supporting SPI and I2C TPMs plus a firmware TPM option."
 type: entity

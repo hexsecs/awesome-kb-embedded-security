@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d57e-7846-b9fb-df19f868a3bc
 title: "Jlsca"
 summary: "Side-channel analysis toolkit in Julia, geared toward correlation and linear regression attacks over large trace sets."
 type: entity

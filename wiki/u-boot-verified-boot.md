@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5a7-713f-8303-22406f84df1f
 title: "U-Boot Verified Boot"
 summary: "FIT-signature based verified boot support for embedded Linux boot chains."
 type: entity

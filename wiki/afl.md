@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d54b-76f2-be2b-b7e94b922339
 title: "AFL++"
 summary: "A coverage-guided fuzzer with enhanced mutations, QEMU and Unicorn emulation modes, and custom power schedules."
 type: entity

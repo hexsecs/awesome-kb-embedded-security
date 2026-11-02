@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d57a-7635-ad46-de9e0ed13ebe
 title: "HardwareAllTheThings"
 summary: "Actively maintained hardware and IoT pentesting wiki by swisskyrepo covering fault injection, JTAG/SWD/UART exploitation, firmware dumping, side-channel…"
 type: entity

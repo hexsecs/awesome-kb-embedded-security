@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d58e-7360-95df-fe01c6f52879
 title: "probe-rs"
 summary: "Modern Rust-based embedded debug toolkit supporting SWD/JTAG with built-in flashing, RTT logging, and GDB server for ARM and RISC-V targets."
 type: entity

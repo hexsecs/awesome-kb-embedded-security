@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d588-7d1a-97b5-0b12aa453603
 title: "OFRAK"
 summary: "Binary analysis and modification platform that combines the ability to unpack, analyze, modify, and repack binaries."
 type: entity

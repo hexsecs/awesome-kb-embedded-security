@@ -32,11 +32,15 @@ stamp and is never moved by an ingest; `updated` and `source_commit`
 advance only on pages actually rewritten. `created` is stamped from the
 source commit date when a stub is first created and preserved verbatim
 thereafter — it records when the page first entered the KB and never
-changes (OpenShelf SPEC section 4.2). Deterministic and idempotent:
-dates come from the source commit, never the wall clock; same source
-commit in, byte-identical tree out.
+changes (OpenShelf SPEC section 4.2). `uid` follows the same lifecycle
+(SPEC sections 4.1/2): minted once when a page is first created — the one
+deliberately non-deterministic stamp, since a uid must be random — and
+preserved verbatim thereafter, so re-ingests stay byte-identical.
+Deterministic and idempotent otherwise: dates come from the source
+commit, never the wall clock; same source commit in, byte-identical
+tree out.
 
-Usage: python3 tools/ingest.py [--source ../awesome-automotive-security]
+Usage: python3 tools/ingest.py [--source ../awesome-embedded-security]
 """
 
 from __future__ import annotations
@@ -44,8 +48,11 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import secrets
 import subprocess
 import sys
+import time
+import uuid
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -59,6 +66,16 @@ SOURCE_URL = "https://github.com/hexsecs/awesome-embedded-security"
 KB_TITLE = "Embedded Security (Awesome KB)"
 KB_DESC = ("Knowledge base for embedded security, ingested from the curated "
            "awesome list hexsecs/awesome-embedded-security.")
+
+
+def mint_uid() -> str:
+    """A fresh UUIDv7, the form OpenShelf SPEC section 4.1 recommends."""
+    if hasattr(uuid, "uuid7"):
+        return str(uuid.uuid7())
+    ms = int(time.time() * 1000) & ((1 << 48) - 1)
+    value = (ms << 80) | (0x7 << 76) | (secrets.randbits(12) << 64) \
+        | (0b10 << 62) | secrets.randbits(62)
+    return str(uuid.UUID(int=value))
 
 
 def normalise(url: str) -> str:
@@ -116,7 +133,7 @@ def parse_list(readme: Path) -> list[dict]:
     return entries
 
 
-MANAGED_KEYS = {"title", "summary", "type", "category", "url", "status",
+MANAGED_KEYS = {"title", "uid", "summary", "type", "category", "url", "status",
                 "last_checked", "created", "updated", "depth", "source_list",
                 "source_commit", "list_summary"}
 
@@ -148,8 +165,10 @@ def frontmatter(e: dict, status: str, depth: str, date: str, commit: str,
                 extras: list[list[str]] | None = None,
                 last_checked: str | None = None,
                 created: str | None = None,
-                updated: str | None = None) -> str:
+                updated: str | None = None,
+                uid: str | None = None) -> str:
     lines = ["---",
+             f"uid: {uid or mint_uid()}",
              f"title: {q(e['title'])}",
              f"summary: {q(short_summary(e['summary']))}",
              "type: entity",
@@ -267,7 +286,8 @@ def main() -> int:
                     e, status, depth, date, commit, extra_blocks(old_text),
                     last_checked=str(fields.get("last_checked", "")) or None,
                     created=str(fields.get("created", "")) or None,
-                    updated=date) + (
+                    updated=date,
+                    uid=str(fields.get("uid", "")) or None) + (
                     body if depth != "stub" else stub_body(e))
                 page.write_text(new_text, encoding="utf-8")
                 updated += 1

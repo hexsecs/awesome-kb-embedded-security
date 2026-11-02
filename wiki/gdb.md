@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d570-7398-a558-971b16a98e1e
 title: "GDB"
 summary: "The GNU Project debugger, allows you to see what is going on `inside' another program while it executes -- or what another program was doing at the moment…"
 type: entity

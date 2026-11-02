@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d585-7f70-9156-b314882d5d27
 title: "MFCUK"
 summary: "Implementation of the Dark Side attack, recovering a first MIFARE Classic key when none is known."
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d563-7249-a0fe-d2366c2c88a3
 title: "EmTaint"
 summary: "Structured symbolic expression-based taint analysis with on-demand alias resolution for embedded Linux firmware; found 151 0-day vulnerabilities across 35…"
 type: entity

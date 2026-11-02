@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d584-7dfb-aa6b-2c0fd281d7f7
 title: "Matter"
 summary: "Smart home connectivity standard whose specification mandates device attestation, secure boot, and signed over-the-air updates."
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d58a-7444-80e2-80d43463e744
 title: "Operation Mango"
 summary: "Taint-style static analysis that finds vulnerabilities in binary firmware services by reasoning backward from dangerous sinks, using a technique it calls…"
 type: entity

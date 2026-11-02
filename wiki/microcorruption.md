@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d586-70ca-a829-029d798348a5
 title: "Microcorruption"
 summary: "Browser-based embedded security CTF presenting a series of challenges on a fictional MSP430-based lock system, covering stack overflows through advanced…"
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5ae-7299-9189-8b32b108d9b4
 title: "VFuzz"
 summary: "The only dedicated open-source Z-Wave security fuzzer; uses a Field Prioritization Algorithm to mutate protocol-valid frames and assess target encryption…"
 type: entity

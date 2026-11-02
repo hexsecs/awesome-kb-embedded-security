@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5a9-7577-a59e-bd251d3247c0
 title: "UEFITool"
 summary: "Viewer and editor for UEFI firmware images, able to parse the volume structure and extract or replace individual modules."
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d564-73ae-82f4-2f4b05d7aa0d
 title: "ESP32 Bit Pirate"
 summary: "Open-source ESP32 firmware inspired by the Bus Pirate that sniffs and drives I2C, SPI, UART, 1-Wire, JTAG, CAN, and USB from a serial or web-based CLI, with…"
 type: entity

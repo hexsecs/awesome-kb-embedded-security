@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d574-7974-a462-e75d32149458
 title: "Gqrx"
 summary: "General-purpose SDR receiver built on GNU Radio and Qt, with a waterfall display and AM/FM/SSB demodulation for surveying unknown spectrum."
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d560-7b03-8c74-49e9084d0e73
 title: "DirtyJTAG"
 summary: "JTAG probe firmware for cheap STM32 boards and ST-Link clones, compatible with UrJTAG, OpenOCD and flashrom."
 type: entity

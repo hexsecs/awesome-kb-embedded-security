@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d556-7190-af50-c31128d80e5b
 title: "Bjorn"
 summary: "Network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT that discovers hosts, open ports, and exposed services, then…"
 type: entity

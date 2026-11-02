@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d58f-7c64-884b-8aecbaf30012
 title: "pyecsca"
 summary: "Side-channel analysis and reverse engineering toolkit aimed specifically at elliptic curve implementations, where the other tools here are oriented toward AES."
 type: entity

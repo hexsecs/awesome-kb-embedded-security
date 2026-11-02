@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d573-7bbd-8294-6afe675440ed
 title: "Ghidriff"
 summary: "Headless Ghidra patch diffing that runs from the command line and emits Markdown or JSON, making binary diffs practical to automate in CI."
 type: entity

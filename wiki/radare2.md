@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d590-7706-ab88-6593f8979b22
 title: "radare2"
 summary: "A free/libre toolchain for easing several low level tasks like forensics, software reverse engineering, exploiting, debugging. It is composed by a bunch of…"
 type: entity

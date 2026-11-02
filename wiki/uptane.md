@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5ad-7106-bda9-d7ed59401927
 title: "Uptane"
 summary: "Secure software-update framework and standard for automotive systems, designed to resist compromised infrastructure and vehicle-network attacks."
 type: entity

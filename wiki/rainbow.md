@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d591-7e5d-ac15-1176ddf1de2c
 title: "rainbow"
 summary: "Unicorn-based simulator from Ledger's Donjon team for tracing embedded binaries to evaluate side-channel leakage and fault injection resistance without…"
 type: entity

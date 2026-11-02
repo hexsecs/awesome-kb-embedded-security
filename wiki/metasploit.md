@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d585-76e4-b50e-76aa008ffb25
 title: "Metasploit"
 summary: "Open source penetration testing framework (BSD licensed) maintained by Rapid7, with modules for exploiting vulnerabilities, scanning, and post-exploitation…"
 type: entity

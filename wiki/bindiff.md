@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d556-7772-89bb-f140bdee3d67
 title: "BinDiff"
 summary: "Google's binary diffing engine for comparing two versions of a binary, matching functions across them to locate patched vulnerabilities and port symbols."
 type: entity

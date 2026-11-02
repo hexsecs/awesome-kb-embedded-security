@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d56b-7097-a68f-fe1640f15e0e
 title: "Flipper Zero"
 summary: "Portable multi-tool for pentesters and geeks in a toy-like body. It loves hacking digital stuff, such as radio protocols, access control systems, hardware…"
 type: entity

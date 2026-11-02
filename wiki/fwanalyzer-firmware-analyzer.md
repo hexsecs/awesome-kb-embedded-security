@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d56e-7b20-932e-c644df411c32
 title: "FwAnalyzer (Firmware Analyzer)"
 summary: "Tool to analyze (ext2/3/4), FAT/VFat, SquashFS, UBIFS filesystem images, cpio archives, and directory content using a set of configurable rules."
 type: entity

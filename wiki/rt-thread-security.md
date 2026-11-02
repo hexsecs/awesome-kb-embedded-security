@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d593-791f-9bff-96be2167072f
 title: "RT-Thread Security"
 summary: "Security resources and vulnerability reporting for RT-Thread IoT OS."
 type: entity

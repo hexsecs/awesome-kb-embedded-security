@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d573-75e2-b4f7-f43ddccf8e32
 title: "GhostESP"
 summary: "ESP-IDF-native Wi-Fi and BLE assessment firmware for ESP32 boards, with live capture streaming to Wireshark, on-device PCAP handling, and wardriving support…"
 type: entity

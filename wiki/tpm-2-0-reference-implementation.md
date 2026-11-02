@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5a3-7fe6-bd8e-756c488b04f1
 title: "TPM 2.0 Reference Implementation"
 summary: "TPM 2.0 specification and reference software from the TCG."
 type: entity

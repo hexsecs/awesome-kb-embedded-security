@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d57c-7fe8-8db1-0de880a7b53c
 title: "Icicle"
 summary: "Rust-based grey-box fuzzer with architecture-agnostic coverage instrumentation, notable for supporting **MSP430 and RISC-V** where AFL++ QEMU mode has no…"
 type: entity

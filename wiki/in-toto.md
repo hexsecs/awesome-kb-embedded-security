@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d57c-72df-b79c-7d3bc7baa21d
 title: "in-toto"
 summary: "Framework for supply chain integrity that records signed provenance steps and enforces layout verification."
 type: entity

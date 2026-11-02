@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d59e-7ea5-ae05-43e59372361d
 title: "Sigstore Cosign"
 summary: "Tooling for keyless signing and verification of firmware/container artifacts in CI/CD pipelines."
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d579-776c-b707-de47e6db1a46
 title: "HAL"
 summary: "Netlist reverse engineering and manipulation framework that parses FPGA and ASIC netlists into a graph representation for traversal and analysis, with a C++…"
 type: entity

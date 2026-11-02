@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d560-7451-84dd-88e2c7a4382d
 title: "DICE"
 summary: "Automatically identifies and emulates DMA input channels in MCU firmware, enabling fuzzers to exercise DMA-driven code paths that were previously opaque.…"
 type: entity

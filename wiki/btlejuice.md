@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d559-7ec6-93fb-ab65e68bdea3
 title: "BtleJuice"
 summary: "Bluetooth Low Energy MITM proxy framework for real-time interception and manipulation of BLE communications. Archived since 2018; see BtleJack or the WHAD…"
 type: entity

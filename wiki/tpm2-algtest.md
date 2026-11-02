@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5a4-70a5-b0be-ac3ca0f505cf
 title: "tpm2-algtest"
 summary: "Tests real TPM 2.0 chips for RNG output quality, key generation timing, algorithm support, and implementation fingerprints across 80+ firmware revisions…"
 type: entity

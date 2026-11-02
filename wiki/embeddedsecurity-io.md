@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d563-7087-b3f0-0c6605f12a5f
 title: "Embeddedsecurity.io"
 summary: "Beginners resource on embedded systems security."
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d59c-7464-9ee3-a63af14e5871
 title: "seL4"
 summary: "Formally verified microkernel with machine-checked proofs of functional correctness, integrity, and confidentiality, providing the strongest security…"
 type: entity

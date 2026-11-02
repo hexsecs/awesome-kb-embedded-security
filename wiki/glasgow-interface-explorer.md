@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d573-7c7f-9964-fdeb3c787cbd
 title: "Glasgow Interface Explorer"
 summary: "Versatile open-source FPGA-based hardware debugging and reverse engineering tool supporting SPI, I2C, UART, JTAG, and custom protocols with a high-level…"
 type: entity

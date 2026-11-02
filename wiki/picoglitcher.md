@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d58d-79b1-baa9-c3f6af298af1
 title: "PicoGlitcher"
 summary: "RP2040/RP2350-based voltage glitching platform with 66A crowbar, sub-10ns pulse resolution via PIO sampling, and a high-level Python (`findus`) API for…"
 type: entity

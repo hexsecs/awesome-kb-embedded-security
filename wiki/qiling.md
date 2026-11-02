@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d590-7e0c-b6e1-ab4650df4cf6
 title: "Qiling"
 summary: "An advanced binary emulation framework supporting cross-platform OS-level emulation for Windows, Linux, Android, BSD, UEFI, and multiple architectures."
 type: entity

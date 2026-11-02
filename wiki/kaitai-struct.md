@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d57f-7664-9f3f-e0a6288d9df0
 title: "Kaitai Struct"
 summary: "Declarative language used to describe various binary data structures, laid out in files or in memory: i.e. binary file formats, network stream packet…"
 type: entity

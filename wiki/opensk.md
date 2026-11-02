@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d589-78fd-8b1d-43ed459daf03
 title: "OpenSK"
 summary: "Open-source FIDO2 security key firmware in Rust for embedded targets, implementing the U2F and FIDO2 authenticator standards."
 type: entity

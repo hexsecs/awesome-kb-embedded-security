@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d558-7c8d-ac3c-8bc874e35bab
 title: "BlueToolkit"
 summary: "Modular black-box vulnerability testing framework for Bluetooth Classic and BLE with Recon/Exploit/Report modules covering 40+ public exploits (MITM, RCE…"
 type: entity

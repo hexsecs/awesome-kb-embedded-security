@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d579-7148-bf42-609e10748068
 title: "HALucinator"
 summary: "MCU firmware emulation framework that replaces Hardware Abstraction Layer (HAL) functions with high-level models, enabling full firmware execution without…"
 type: entity

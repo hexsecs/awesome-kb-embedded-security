@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5ac-7388-adf0-c2554675284b
 title: "UNECE R156"
 summary: "Companion regulation to R155, requiring a software update management system covering over-the-air updates for the life of the vehicle."
 type: entity

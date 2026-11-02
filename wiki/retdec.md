@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d592-71d6-ba1d-1dad55032224
 title: "RetDec"
 summary: "Retargetable machine-code decompiler from Avast supporting ARM, MIPS, x86, and other architectures common in embedded firmware."
 type: entity

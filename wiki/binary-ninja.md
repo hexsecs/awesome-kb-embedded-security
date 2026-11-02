@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d555-7263-b7a9-c8defc314d30
 title: "Binary Ninja"
 summary: "Interactive disassembler, decompiler, and binary analysis platform for reverse engineers, malware analysts, vulnerability researchers, and software…"
 type: entity

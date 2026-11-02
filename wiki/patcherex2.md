@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d58c-70d5-8a1f-563c4e2be072
 title: "Patcherex2"
 summary: "Static binary patching framework for x86, ARM, MIPS, and PowerPC, supporting instruction insertion and function replacement in extracted firmware."
 type: entity

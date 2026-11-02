@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d54b-7fcf-b521-fc70b36d0345
 title: "μAFL"
 summary: "Hardware-in-the-loop fuzzer using ARM ETM trace hardware to collect coverage from a real MCU without any firmware instrumentation. Found 8 CVEs in STM32/NXP…"
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d583-7be8-b9ed-dc2e353c1ba3
 title: "LIEF"
 summary: "Library to Instrument Executable Formats: parse, modify, and abstract ELF, PE, Mach-O, DEX, and OAT binaries found in firmware images."
 type: entity

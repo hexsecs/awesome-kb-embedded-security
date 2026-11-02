@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d55b-7af3-aefe-71c13451f9af
 title: "CHIPSEC"
 summary: "Platform security assessment framework with firmware and chipset checks relevant to offline dump triage."
 type: entity

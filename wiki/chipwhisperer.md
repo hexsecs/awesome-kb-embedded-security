@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d55c-7799-ae74-bc54f5a76d4e
 title: "ChipWhisperer"
 summary: "An open-source toolchain for side-channel power analysis and fault injection attacks with complete hardware and software stack."
 type: entity

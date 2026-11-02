@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5b3-70fa-9312-4bf418295b9b
 title: "Yard Stick One"
 summary: "Transmit or receive digital wireless signals at frequencies below 1 GHz. It uses the same radio circuit as the popular IM-Me."
 type: entity

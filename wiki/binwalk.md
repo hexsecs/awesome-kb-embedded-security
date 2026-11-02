@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d556-7c50-a8e0-a8d8c5ae3417
 title: "Binwalk"
 summary: "Fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images."
 type: entity

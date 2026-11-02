@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d577-79d2-82ab-336dc37f5152
 title: "Greenhouse"
 summary: "User-space rehosting of single network services from Linux-based firmware, using a patched QEMU and AFL++ for fuzzing; rehosted 2,841 of 7,140 images from…"
 type: entity

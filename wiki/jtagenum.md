@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d57f-70c1-9d80-9f58b8459595
 title: "JTAGenum"
 summary: "Enumerates JTAG pinouts on unknown boards by brute-force testing candidate pin mappings."
 type: entity

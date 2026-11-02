@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d582-7dbb-9e74-ed1bfa32b614
 title: "lascar"
 summary: "Fast Python SCA library from Ledger's hardware wallet security team supporting CPA, DPA, MIA, template attacks, and ML-based attacks with lazy loading for…"
 type: entity

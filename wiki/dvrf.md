@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d562-7a8a-920c-851cd5c29357
 title: "DVRF"
 summary: "Damn Vulnerable Router Firmware: modified Linksys firmware containing intentional MIPS/ARM binary exploitation challenges (buffer overflows, format strings…"
 type: entity

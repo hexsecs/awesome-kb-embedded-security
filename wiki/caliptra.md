@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d559-7977-95a7-a42824b782f8
 title: "Caliptra"
 summary: "Apache-2.0 silicon root of trust block for datacenter CPUs, GPUs, and DPUs providing DICE identity, measured boot, and attestation; maintained under CHIPS…"
 type: entity

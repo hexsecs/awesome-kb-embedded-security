@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d598-7b56-8288-ea1648e6e408
 title: "Samsung TrustZone Research Toolkit"
 summary: "Quarkslab's RE toolkit for Samsung Kinibi TrustZone: Ghidra loader for MCLF trustlet binaries, Unicorn-based trustlet emulator for exploit development, and…"
 type: entity

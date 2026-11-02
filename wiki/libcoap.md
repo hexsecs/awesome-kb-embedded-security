@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d582-7eca-81eb-25a079b7df28
 title: "libcoap"
 summary: "C implementation of CoAP with DTLS support for secure IoT communication."
 type: entity

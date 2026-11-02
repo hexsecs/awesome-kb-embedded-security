@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5b4-77b7-ba64-3e0a177e942d
 title: "Zephyr Project Security"
 summary: "Security documentation for the Zephyr RTOS including TF-M integration, verified boot, and security testing."
 type: entity

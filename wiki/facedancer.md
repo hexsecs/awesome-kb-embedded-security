@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d566-7398-b698-f29ab4937d05
 title: "Facedancer"
 summary: "Python framework for emulating, creating, and tampering with USB devices using compatible hardware such as Cynthion or GreatFET."
 type: entity

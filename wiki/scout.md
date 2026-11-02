@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d59b-7260-acc6-417146a9941d
 title: "SCOUT"
 summary: "Deterministic firmware analysis pipeline emitting SARIF 2.1, CycloneDX 1.6 + VEX SBOM, and hash-anchored evidence chains; auto-detects Ghidra and runs…"
 type: entity

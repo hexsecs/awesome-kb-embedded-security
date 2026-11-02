@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d588-7c96-b006-d52703b52dcd
 title: "OP-TEE"
 summary: "Open Source Trusted Execution Environment providing isolation for secure world execution on ARM TrustZone processors."
 type: entity

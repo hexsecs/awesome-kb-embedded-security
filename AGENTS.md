@@ -1,8 +1,8 @@
 # Maintainer schema — Embedded Security (Awesome KB)
 
-This KB conforms to the **OpenShelf** standard (`openshelf: "0.1"`,
+This KB conforms to the **OpenShelf** standard (`openshelf: "1.4"`,
 `profile: awesome`) — spec and schemas live in
-[hexsecs/openkb](https://github.com/hexsecs/openkb); this file carries only
+[hexsecs/openshelf](https://github.com/hexsecs/openshelf); this file carries only
 what is local to this KB. Read `kb.yaml` for the declared layout.
 The maintenance **method** (deepening pipeline, evidence discipline,
 concept mining, gates, traps) lives in the awesome-kb skill —
@@ -52,6 +52,11 @@ resource. The list's own contribution rules decide what gets listed.
   page; `deep` is the rare research-grade tier, on demand only.
 - `created` is the date the page first entered the KB; set once by the
   ingester, never changes — distinct from `updated` and `last_checked`.
+- `uid` is a page's durable identity (SPEC §4.1): minted once by tooling
+  — never written by hand — when the page first enters the KB, and
+  preserved verbatim across renames, moves and ingests. The ingester
+  mints it for new stubs; existing pages and the KB itself were minted
+  2026-11-02 with `openshelf uid` at the spec 1.4 adoption.
 - `status` is verified from primary sources; `published` is for finished
   works (papers, talks, books), `unknown` only for living resources whose
   state is unverified.

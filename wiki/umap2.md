@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5aa-7a09-94a3-38096ec2545f
 title: "umap2"
 summary: "Host-side USB security assessment tool from NCC Group that emulates devices to enumerate which classes a host supports, then fuzzes the matching drivers…"
 type: entity

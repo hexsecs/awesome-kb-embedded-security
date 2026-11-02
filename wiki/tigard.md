@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5a2-7dfd-9d34-d61ced248bc6
 title: "Tigard"
 summary: "An FTDI FT2232H-based multi-protocol tool for hardware hacking."
 type: entity

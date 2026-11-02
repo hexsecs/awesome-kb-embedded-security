@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d55f-7932-9441-c64e96ef8fe0
 title: "Daredevil"
 summary: "Multi-core correlation power analysis tool supporting higher-order attacks, part of the SideChannelMarvels toolset."
 type: entity

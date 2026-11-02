@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5a3-752c-904d-a6a69ba7b8d7
 title: "TLS for MQTT"
 summary: "Overview of TLS implementation for MQTT brokers and clients."
 type: entity

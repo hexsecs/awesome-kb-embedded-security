@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d589-737c-8228-66b6a81db12e
 title: "OpenTitan"
 summary: "Open-source silicon root of trust project with security-certified hardware designs and commercial-grade IP blocks."
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d591-7b99-b29e-163c60deee54
 title: "Rayhunter"
 summary: "EFF's open source Rust tool that runs on a cheap mobile hotspot to detect cell-site simulators (IMSI catchers/Stingrays) by monitoring signaling traffic for…"
 type: entity

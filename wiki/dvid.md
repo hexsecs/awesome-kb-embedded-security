@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d561-710f-b032-737acf413ef6
 title: "DVID"
 summary: "Damn Vulnerable IoT Device: open hardware ATmega328p board (Gerbers published) purpose-built for practicing UART extraction, firmware dumping, and Bluetooth…"
 type: entity

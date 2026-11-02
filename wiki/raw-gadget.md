@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d591-757e-8620-5c7f5ac6e111
 title: "Raw Gadget"
 summary: "Linux kernel module exposing a low-level interface to the USB Gadget subsystem for emulating arbitrary USB devices in software; it is what syzkaller uses to…"
 type: entity

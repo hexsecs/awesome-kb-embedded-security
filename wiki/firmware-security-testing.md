@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d569-73f0-ac06-d81cf1e97e47
 title: "Firmware Security Testing"
 summary: "OWASP firmware security testing methodology and practical guidance for assessing embedded devices."
 type: entity

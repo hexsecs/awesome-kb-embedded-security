@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d56f-75a4-afcc-018c20478ef9
 title: "FwHunt"
 summary: "Scanner from Binarly that checks UEFI modules and whole firmware images against YAML rules describing known-vulnerable and backdoored components, built on…"
 type: entity

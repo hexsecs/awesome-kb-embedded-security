@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d578-78f2-bd49-984f3107ab9a
 title: "GSMA IoT Security Guidelines"
 summary: "Industry guidance covering endpoint, network, and service security across the IoT device lifecycle, endorsed by major mobile operators."
 type: entity

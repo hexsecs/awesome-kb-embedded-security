@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d55c-71ba-8f95-83398179efe1
 title: "CoAP Security"
 summary: "Constrained Application Protocol (CoAP) security with DTLS."
 type: entity

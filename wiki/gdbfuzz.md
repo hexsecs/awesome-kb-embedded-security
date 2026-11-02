@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d571-7fd3-9ca6-1601f6ed238f
 title: "GDBFuzz"
 summary: "Uses GDB hardware breakpoints as a coverage source for uninstrumented embedded targets — works on any GDB-debuggable MCU with no firmware modification…"
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d564-7044-97da-4ba59988b854
 title: "μEmu"
 summary: "Infers peripheral behavior from invalid-access patterns under symbolic execution, then drives AFL-based fuzzing of bare-metal MCU firmware without physical…"
 type: entity

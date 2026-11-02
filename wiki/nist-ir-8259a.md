@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d587-7c83-8b27-007dc01b4d6d
 title: "NIST IR 8259A"
 summary: "Baseline technical capabilities expected of IoT devices, referenced by US federal procurement under the IoT Cybersecurity Improvement Act."
 type: entity

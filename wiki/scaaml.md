@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d599-7bc4-a1f4-91c4b2b82e76
 title: "SCAAML"
 summary: "Deep-learning side-channel framework from Google built on TensorFlow, shipping the GPAM attack models and the AES and ECC trace datasets behind its…"
 type: entity

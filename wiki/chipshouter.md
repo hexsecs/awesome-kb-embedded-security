@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d55b-7311-865e-7547cd776cc1
 title: "ChipSHOUTER"
 summary: "Benchtop electromagnetic fault injection platform from NewAE with a documented Python API and published schematic; the hardware itself is not open, unlike…"
 type: entity

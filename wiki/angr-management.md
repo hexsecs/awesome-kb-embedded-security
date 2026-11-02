@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d54d-71a2-8b99-3959a136cb50
 title: "Angr Management"
 summary: "Multi-architecture binary analysis toolkit, with the capability to perform dynamic symbolic execution (like Mayhem, KLEE, etc.) and various static analyses…"
 type: entity

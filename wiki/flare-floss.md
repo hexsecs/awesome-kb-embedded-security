@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d56a-7106-8a64-2cfa7b561ae1
 title: "FLARE-FLOSS"
 summary: "FLARE Obfuscated String Solver that automatically extracts obfuscated, encoded, and stack strings from binaries for rapid firmware triage."
 type: entity

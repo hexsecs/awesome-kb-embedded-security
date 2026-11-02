@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d59f-7297-8381-7f6e5f0d5b95
 title: "SUIT"
 summary: "Software Update for the Internet of Things (SUIT) working group developing manifest-based firmware update architecture."
 type: entity

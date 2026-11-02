@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5b0-7081-bbc4-bca69b37692c
 title: "VulHunt"
 summary: "Lua-rule-based vulnerability detection framework from Binarly's research team that operates across disassembly, IR, and decompiled code simultaneously, with…"
 type: entity

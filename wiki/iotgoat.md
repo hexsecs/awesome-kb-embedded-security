@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d57d-70d7-9835-af2fa8bfe1f2
 title: "IoTGoat"
 summary: "OWASP intentionally insecure firmware for Raspberry Pi and x86 platforms, providing hands-on practice for the OWASP IoT Top 10 vulnerabilities."
 type: entity

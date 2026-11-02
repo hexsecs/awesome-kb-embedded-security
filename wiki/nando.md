@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d586-7151-be3b-6c0e77cc9589
 title: "NANDO"
 summary: "Open hardware STM32-based parallel NAND flash programmer with chip autodetection, bad block handling, and an extensible chip database; targets the parallel…"
 type: entity

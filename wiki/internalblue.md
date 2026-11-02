@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d57d-784f-9567-b51b8221ca11
 title: "InternalBlue"
 summary: "Bluetooth experimentation framework enabling binary patching, LMP injection, and live monitoring of Broadcom/Cypress firmware on commodity devices (iPhone…"
 type: entity

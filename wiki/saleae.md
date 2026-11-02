@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d597-7eaa-94ab-535d57e9e5dc
 title: "Saleae"
 summary: "Commercial logic analyzer hardware ($149–$499+) with proprietary software; widely used for decoding SPI, I2C, UART, and other embedded protocols."
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d57a-7532-ac7f-b652b6549f16
 title: "honggfuzz"
 summary: "A feedback-driven evolutionary fuzzer supporting hardware-based coverage (Intel BTS/PT) and persistent mode for extreme speed."
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5a6-7fbc-94a7-f07bed5bd5f9
 title: "Trusted Firmware-A"
 summary: "Reference secure-world firmware for Arm A-profile processors, providing the EL3 secure monitor and a Trusted Board Boot chain of trust following Arm's…"
 type: entity

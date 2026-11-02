@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d554-7b8c-9e56-bf0584be0a76
 title: "Awesome Flipper Zero"
 summary: "A collection of Awesome resources for the Flipper Zero device."
 type: entity

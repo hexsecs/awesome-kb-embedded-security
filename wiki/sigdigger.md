@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d59d-7b04-990e-bfba58467f75
 title: "SigDigger"
 summary: "Real-time signal analyser with FSK, PSK, and ASK demodulation and no GNU Radio dependency, aimed at characterising unknown transmissions."
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d557-738d-a2b2-814289469aec
 title: "BLEeding"
 summary: "Bluetooth/BLE jamming, signal inhibition, DoS and DeAuth attack."
 type: entity

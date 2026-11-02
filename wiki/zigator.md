@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5b4-7b7c-8439-07025a5c98ca
 title: "Zigator"
 summary: "Security analysis tool for Zigbee and Thread networks, supporting packet capture, selective jamming, and injection."
 type: entity

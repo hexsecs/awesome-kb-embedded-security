@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d559-7d2a-a418-97423477fb5c
 title: "Bus Pirate"
 summary: "Open source hacker multi-tool that talks to electronic stuff. It's got a bunch of features an intrepid hacker might need to prototype their next project."
 type: entity

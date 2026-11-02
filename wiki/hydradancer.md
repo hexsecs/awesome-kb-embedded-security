@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d57b-789f-9354-aefd6f5928e9
 title: "Hydradancer"
 summary: "Facedancer backend firmware from Quarkslab for the HydraUSB3 board, reaching USB 2.0 High-Speed emulation rates well above the original Facedancer hardware."
 type: entity

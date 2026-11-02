@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5ad-7f1a-8874-4ca281396cb4
 title: "UrJTAG"
 summary: "Open-source JTAG toolkit for boundary scan, flash programming, and low-level target interaction."
 type: entity

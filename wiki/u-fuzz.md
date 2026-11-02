@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5a7-7570-83a5-baa28401eedd
 title: "U-Fuzz"
 summary: "Universal stateful fuzzer that infers a protocol's state machine from a handful of benign packet captures, then generates crashing test cases; demonstrated…"
 type: entity

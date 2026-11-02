@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d550-7b72-ab20-152de4d73d2e
 title: "assembly-repl"
 summary: "Native assembly, LLVM IR, C, C++, and Objective-C REPLs for macOS and Linux."
 type: entity

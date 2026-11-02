@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d591-74fd-b0af-978721f359e0
 title: "RAUC"
 summary: "Safe and secure firmware update framework for embedded Linux with bundle signing and A/B partitioning."
 type: entity
