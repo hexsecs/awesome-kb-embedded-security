@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d570-77e4-bf8b-8f1102b8f5ee
 title: "GATTacker"
 summary: "BLE MITM tool for intercepting and relaying GATT profiles to test BLE device authentication and data integrity."
 type: entity

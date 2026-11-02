@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5a4-7700-bc2d-ebd2468c84f1
 title: "tpm2-tss"
 summary: "Reference implementation of the TCG TPM2 Software Stack (TSS2), providing the APIs for key management and attestation."
 type: entity

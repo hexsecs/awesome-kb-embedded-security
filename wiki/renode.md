@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d592-7b35-9194-a72c2f42df42
 title: "Renode"
 summary: "Open-source hardware simulation framework from Antmicro for functional testing and security analysis of embedded firmware without physical hardware."
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d59e-79e8-b205-a1671ede62b1
 title: "SNANDer"
 summary: "CLI programmer for SPI NOR/NAND flash and I2C EEPROMs using the ubiquitous $3 CH341A USB chip, extending it with NAND support beyond what proprietary…"
 type: entity

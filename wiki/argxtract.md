@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d54e-7bab-9798-dc0838f68ddd
 title: "argXtract"
 summary: "Statically extracts arguments to SVC calls and HAL functions from stripped ARM Cortex-M BLE firmware without symbol tables, enabling security audits of…"
 type: entity

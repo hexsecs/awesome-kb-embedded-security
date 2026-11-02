@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d589-7b70-938b-4208e8da6183
 title: "OpenVizsla"
 summary: "Open hardware USB protocol tracer with an FPGA capture path and host software for sniffing full and high-speed traffic; boards are sold by sysmocom and 3mdeb."
 type: entity

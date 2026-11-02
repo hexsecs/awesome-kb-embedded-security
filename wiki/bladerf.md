@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d557-78fa-af1c-106fd8fb629d
 title: "bladeRF"
 summary: "Full-duplex 2x2 MIMO SDR tuning 47 MHz to 6 GHz, with an on-board FPGA for signal processing at the edge."
 type: entity

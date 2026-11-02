@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d55a-7f9b-968b-a6be5889bec6
 title: "checksec"
 summary: "Go tool reporting binary hardening flags (NX, PIE, RELRO, stack canary, FORTIFY_SOURCE) on ELF executables extracted from firmware, with JSON and XML output…"
 type: entity

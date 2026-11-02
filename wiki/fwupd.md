@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d56f-7fa5-a89d-d617114d8b63
 title: "fwupd"
 summary: "System daemon that applies signed firmware updates to peripherals and embedded Linux devices, pulling vendor metadata and payloads from the LVFS and staging…"
 type: entity

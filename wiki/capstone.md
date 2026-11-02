@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d55a-73a8-9230-21ec8c4bbc4a
 title: "Capstone"
 summary: "Lightweight multi-platform, multi-architecture disassembly framework. Their target is to make Capstone the ultimate disassembly engine for binary analysis…"
 type: entity

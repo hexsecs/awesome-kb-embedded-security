@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d59c-7d11-859a-5aa8442bbab5
 title: "SecuringHardware.com"
 summary: "Paid hardware security training courses by Joe Fitz [@securelyfitz](https://x.com/securelyfitz)."
 type: entity

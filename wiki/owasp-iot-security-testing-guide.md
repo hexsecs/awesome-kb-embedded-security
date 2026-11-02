@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d58a-7b11-83b5-d1b7c667f1e9
 title: "OWASP IoT Security Testing Guide"
 summary: "Methodology and test catalog for repeatable IoT penetration testing and security assessments."
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d561-7432-ace9-fc9031d4c140
 title: "DSView"
 summary: "GUI for DreamSourceLab's logic analyzers and oscilloscopes, built on the sigrok project."
 type: entity

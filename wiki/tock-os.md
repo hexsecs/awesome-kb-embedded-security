@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5a3-7a53-9038-e0a044fec35d
 title: "Tock OS"
 summary: "Rust-based embedded OS for microcontrollers designed for security through hardware-enforced memory isolation and a capability-based driver model, targeting…"
 type: entity

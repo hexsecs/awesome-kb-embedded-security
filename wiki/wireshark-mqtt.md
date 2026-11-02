@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5b0-7aa3-b099-f9faf43d36e5
 title: "Wireshark MQTT"
 summary: "Protocol analyzer support for MQTT traffic inspection and security analysis."
 type: entity

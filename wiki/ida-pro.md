@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d57c-7394-9ee8-d6db67619987
 title: "IDA Pro"
 summary: "Disassembler capable of creating maps of their execution to show the binary instructions that are actually executed by the processor in a symbolic…"
 type: entity

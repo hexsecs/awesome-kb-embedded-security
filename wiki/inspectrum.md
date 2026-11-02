@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d57d-750a-9825-98b3082309cf
 title: "inspectrum"
 summary: "Offline analyser for captured IQ recordings, with cursors for measuring symbol rates and extracting bits from an unknown modulation."
 type: entity

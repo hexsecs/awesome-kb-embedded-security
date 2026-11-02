@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d57b-7755-9c5b-8206a3ec0db0
 title: "Hydrabus"
 summary: "Open-source multi-protocol hardware hacking tool with support for SPI, I2C, UART, CAN, 1-Wire, and JTAG interfaces, purpose-built for embedded device analysis."
 type: entity

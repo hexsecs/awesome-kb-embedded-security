@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d586-7248-8c4e-80f24978ad33
 title: "MITRE eCTF"
 summary: "Annual collegiate \"build-then-break\" competition where teams harden and then attack each other's firmware on real ARM Cortex-M microcontrollers; open source…"
 type: entity

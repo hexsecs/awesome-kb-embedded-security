@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d592-70c6-b48b-57926134e105
 title: "REA"
 summary: "Local CLI and MCP frontend for agent-assisted native executable analysis through separately installed Ghidra, Hopper, or IDA, with evidence provenance and…"
 type: entity

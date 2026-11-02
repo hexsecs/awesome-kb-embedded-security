@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d57f-74b9-93e2-8fbf2bd1640e
 title: "JTAGulator"
 summary: "Automates discovery of JTAG, SWD, and UART debug interfaces on unknown PCBs by brute-forcing pin combinations, with sigrok-compatible logic analyzer mode…"
 type: entity

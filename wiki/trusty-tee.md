@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5a7-7629-8550-e515ade51e0f
 title: "Trusty TEE"
 summary: "Trusted Execution Environment used in Android for secure services and keystore."
 type: entity

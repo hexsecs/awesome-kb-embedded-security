@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d568-7568-a86e-a4ace76ff615
 title: "FirmSolo"
 summary: "Reverse-engineers vendor Linux kernel module version magic to load proprietary `.ko` drivers into a compatible kernel for dynamic analysis and fuzzing…"
 type: entity

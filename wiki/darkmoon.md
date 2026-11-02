@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d55f-74c6-b80c-e0c9901945e2
 title: "Darkmoon"
 summary: "Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes surfaces; an LLM orchestrates specialist…"
 type: entity

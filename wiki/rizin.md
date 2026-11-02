@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d593-7bda-9a02-bdf37aa8b655
 title: "Rizin"
 summary: "A free and open-source Reverse Engineering framework, providing a complete binary analysis experience with features like Disassembler, Hexadecimal editor…"
 type: entity

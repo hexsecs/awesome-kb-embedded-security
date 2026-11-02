@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d567-77a0-ad10-fab4f3b9108f
 title: "Firmadyne"
 summary: "Automated system for emulating and analyzing Linux-based embedded firmware; extracts and boots firmware images in QEMU to enable dynamic vulnerability…"
 type: entity

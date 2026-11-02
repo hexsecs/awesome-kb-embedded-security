@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5b0-7a9b-8add-bf86ce6fc7c6
 title: "WHAD Framework"
 summary: "Hardware-agnostic multi-protocol wireless security framework (BLE, Zigbee, Enhanced ShockBurst, ANT) using a cheap nRF52840 dongle as a universal attack…"
 type: entity

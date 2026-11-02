@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d57d-7a13-b4e0-c287b4ed31a0
 title: "Intel SGX SDK"
 summary: "Open-source Linux SDK and Platform Software for Intel Software Guard Extensions, providing the build/install toolchain for developing and deploying…"
 type: entity

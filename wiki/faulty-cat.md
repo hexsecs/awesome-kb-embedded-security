@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d566-7038-86cc-47094004050b
 title: "Faulty Cat"
 summary: "Low-cost open hardware EMFI tool from Electronic Cats built on an RP2040, offering both electromagnetic and crowbar voltage-glitching fault injection with…"
 type: entity

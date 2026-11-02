@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d59a-7c60-afe0-9ffd8aa5b972
 title: "scared"
 summary: "Industrial-grade side-channel analysis framework from eShard with best-in-class trace processing performance; supports CPA, DPA, TVLA/NICV leakage…"
 type: entity

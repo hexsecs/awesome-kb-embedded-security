@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d580-7d38-89ca-acfa34f8fb6f
 title: "kernel-hardening-checker"
 summary: "Audits Linux kernel Kconfig options and boot parameters against KSPP, CLIP OS, and STIG hardening recommendations; supports ARM, ARM64, x86, and RISC-V.…"
 type: entity

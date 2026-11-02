@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d58f-7d6a-9d13-a928879e5c3c
 title: "PSA Certified"
 summary: "IoT security framework, certification scheme, and developer resources for device, silicon, software, and root-of-trust security."
 type: entity

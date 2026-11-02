@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5b1-7722-8924-6f4be6bde7ca
 title: "wolfBoot"
 summary: "Portable secure bootloader for 32-bit MCUs using wolfCrypt for image signature verification (Ed25519, ECC, RSA, post-quantum LMS/XMSS), with delta updates…"
 type: entity

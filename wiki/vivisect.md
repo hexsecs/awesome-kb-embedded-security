@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5af-7934-8dbf-f5a3a54da959
 title: "Vivisect"
 summary: "A combined disassembler/static analysis/symbolic execution/debugger framework."
 type: entity

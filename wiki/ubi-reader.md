@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5a9-71b7-bb4d-58c01ece2aab
 title: "ubi_reader"
 summary: "Extracts UBI and UBIFS images, the raw-NAND filesystem format that generic carvers handle poorly."
 type: entity

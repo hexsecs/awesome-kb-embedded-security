@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d563-7ae9-9067-a8327c543d12
 title: "Embedded-Hacking"
 summary: "Free step-by-step course and PDF book building from bare-metal C on the Raspberry Pi Pico 2 through to reverse engineering the resulting firmware, published…"
 type: entity

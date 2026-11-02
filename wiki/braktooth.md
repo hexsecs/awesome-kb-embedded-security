@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d559-7cd7-a8d2-7c6938f6e1b4
 title: "BrakTooth"
 summary: "Directed exploit suite for Bluetooth Classic LMP layer vulnerabilities, targeting protocol layers inaccessible from standard host stacks; affected 1,400+…"
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d56c-73ea-965a-cf306f0372d8
 title: "Future SDR"
 summary: "Supports Blocks with synchronous or asynchronous implementations for stream-based or message-based data processing."
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d54d-7864-b649-9e74cd23c0ce
 title: "AMD SEV"
 summary: "Secure Encrypted Virtualization for encrypting VM memory with AMD-V hardware assistance."
 type: entity

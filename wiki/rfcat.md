@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d593-79e7-bf7f-f3a286d99a90
 title: "rfcat"
 summary: "Firmware and Python framework for CC1111-based sub-GHz radio dongles, including the Yard Stick One listed below."
 type: entity

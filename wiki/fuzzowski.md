@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d56e-7c14-9d4e-95c7c399d997
 title: "Fuzzowski"
 summary: "A network protocol fuzzer based on the Sulley/BooFuzz framework with support for TCP/UDP/SSL protocols."
 type: entity

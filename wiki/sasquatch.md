@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d598-723f-bca0-745dcde8f07c
 title: "sasquatch"
 summary: "Patched unsquashfs that handles the vendor-modified SquashFS variants common in consumer router firmware; used internally by Binwalk and unblob."
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d54a-7985-8c07-18be4e007512
 title: "ADALM-PLUTO (PlutoSDR)"
 summary: "Active learning module (PlutoSDR) used to explore software-defined radio, RF experimentation, and wireless communications."
 type: entity

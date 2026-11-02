@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d56b-7f78-ae06-35771404dcc6
 title: "Flashrom"
 summary: "Utility for identifying, reading, writing, and verifying SPI flash chips common in embedded boards."
 type: entity

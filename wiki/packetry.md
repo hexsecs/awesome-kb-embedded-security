@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d58b-7b49-a9c9-a173bf746a01
 title: "Packetry"
 summary: "Great Scott Gadgets' USB 2.0 protocol analysis application, decoding traffic captured live by Cynthion or loaded from pcap files."
 type: entity

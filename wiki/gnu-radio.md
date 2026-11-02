@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d573-7a2d-b07b-9e9e78ea4d31
 title: "GNU Radio"
 summary: "Signal processing framework providing the DSP blocks, scheduler, and flowgraph tooling that most open-source RF analysis and attack tools are built on."
 type: entity

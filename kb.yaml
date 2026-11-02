@@ -1,5 +1,6 @@
-openshelf: "0.1"
+openshelf: "1.4"
 id: awesome-kb-embedded-security
+uid: 01a19d3d-d083-75b7-98dc-d8e7a7d34f0e
 title: "Embedded Security (Awesome KB)"
 description: >
   Knowledge base for embedded security, ingested from the curated awesome

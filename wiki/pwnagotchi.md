@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d58f-7d8e-9759-0f16c635213c
 title: "Pwnagotchi"
 summary: "A2C-based “AI” powered by bettercap and running on a Raspberry Pi Zero W that learns from its surrounding WiFi environment in order to maximize the…"
 type: entity

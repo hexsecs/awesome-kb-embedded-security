@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d567-7140-9d04-e764193e5b4e
 title: "FirmAE"
 summary: "An automated framework for emulation and vulnerability analysis of IoT firmware with an 79% success rate using arbitration techniques."
 type: entity

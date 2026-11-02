@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d588-7dc7-aac5-39343eead8f9
 title: "nRF Sniffer for Bluetooth LE"
 summary: "Nordic Semiconductor's BLE packet sniffer for capturing and analyzing Bluetooth Low Energy traffic with Wireshark integration. Wireshark plugin is open…"
 type: entity

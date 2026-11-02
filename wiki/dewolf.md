@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d560-7b61-8d81-f770a4a41e12
 title: "dewolf"
 summary: "Decompiler from Fraunhofer FKIE focused on readable output, built as a Binary Ninja plugin over its medium-level IL."
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5a2-70e7-8c72-f6e7812f62de
 title: "The Update Framework (TUF)"
 summary: "Framework and specification for securing software-update systems against repository and signing-key compromise."
 type: entity

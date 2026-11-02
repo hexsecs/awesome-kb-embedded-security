@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d588-7f95-aaae-4b63085c33ed
 title: "Open OCD"
 summary: "Provides on-chip programming and debugging support with a layered architecture of JTAG interface and TAP support."
 type: entity

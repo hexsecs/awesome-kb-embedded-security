@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5ab-7313-8c6e-ceaf8904f3ca
 title: "UNECE R155"
 summary: "UN vehicle regulation requiring a certified cybersecurity management system for type approval, mandatory for new EU vehicle types since July 2022."
 type: entity

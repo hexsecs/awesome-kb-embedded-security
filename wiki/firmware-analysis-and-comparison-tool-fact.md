@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d568-797c-9db4-a9ef10271d9a
 title: "Firmware Analysis and Comparison Tool (FACT)"
 summary: "Automated Firmware Security analysis (Router, IoT, UEFI, Webcams, Drones, …). It is easy to use (web UI), extend (plug-in system) and integrate (REST API)."
 type: entity

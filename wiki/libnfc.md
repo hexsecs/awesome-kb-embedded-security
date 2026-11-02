@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d582-7aa4-8b62-62e308d26331
 title: "libnfc"
 summary: "Platform-independent NFC library covering ISO14443-A/B, FeliCa, and MIFARE, and the foundation most other NFC tooling builds on."
 type: entity

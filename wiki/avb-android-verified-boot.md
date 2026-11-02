@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d554-70bc-bdd8-b9ed0fc70198
 title: "AVB (Android Verified Boot)"
 summary: "Reference implementation and design guidance for chained trust and verified partitions in embedded Android systems."
 type: entity

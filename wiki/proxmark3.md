@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d58e-744a-8cb0-5564d8cb45cd
 title: "Proxmark3"
 summary: "Open-source RFID research platform for low-level interaction, analysis, and testing across a wide range of LF and HF tags and systems."
 type: entity

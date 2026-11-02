@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d589-7080-a93d-702770644976
 title: "Open5GS"
 summary: "Open-source 5G core and 4G EPC, used to stand up a controlled network for baseband and cellular protocol testing."
 type: entity

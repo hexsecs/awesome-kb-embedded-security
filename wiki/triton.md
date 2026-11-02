@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5a5-7d9d-bb53-18ecbd277a70
 title: "Triton"
 summary: "Dynamic binary analysis library providing symbolic execution, taint tracking, and an SMT solver interface for x86, ARM, AArch64, and RISC-V."
 type: entity

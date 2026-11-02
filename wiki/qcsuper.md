@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d590-778e-8a24-f2d0534db1cf
 title: "QCSuper"
 summary: "Captures raw 2G to 5G radio frames from Qualcomm basebands over the Diag protocol, producing PCAPs for analysis in Wireshark."
 type: entity

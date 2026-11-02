@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5a0-772b-98e2-6976709eb0d1
 title: "SWUpdate"
 summary: "Linux firmware update agent with image verification and incremental updates."
 type: entity

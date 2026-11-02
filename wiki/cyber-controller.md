@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d55e-727e-8556-a6fef81e715a
 title: "cyber-controller"
 summary: "Dashboard for flashing, controlling, and coordinating ESP32 security firmware (Marauder, Bruce, GhostESP), Flipper Zero, and Raspberry Pi hardware from one…"
 type: entity

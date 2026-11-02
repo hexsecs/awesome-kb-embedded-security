@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d557-7e50-b609-aee0e6d6dac5
 title: "blueTag"
 summary: "JTAGulator alternative for RP2040 boards such as the Raspberry Pi Pico that detects JTAG and SWD pinouts on unknown targets, and doubles as a CMSIS-DAP…"
 type: entity

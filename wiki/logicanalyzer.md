@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d583-7db3-8af1-3c7ba61d49d7
 title: "LogicAnalyzer"
 summary: "Open hardware and software logic analyzer for the RP2040 and RP2350, capturing up to 24 channels at 100 Msps from a Raspberry Pi Pico and daisy-chaining up…"
 type: entity

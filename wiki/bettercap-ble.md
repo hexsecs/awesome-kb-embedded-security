@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d555-70ef-885d-146179c9c342
 title: "Bettercap BLE"
 summary: "BLE scanning, enumeration, and characteristic read/write module integrated into the bettercap Swiss-army knife framework."
 type: entity

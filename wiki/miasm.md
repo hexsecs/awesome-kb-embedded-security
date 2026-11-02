@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d586-7c3d-b36c-f5a2f861b173
 title: "Miasm"
 summary: "Reverse engineering framework with its own intermediate language, a JIT emulator, and symbolic execution, covering MSP430 and MIPS alongside the usual…"
 type: entity

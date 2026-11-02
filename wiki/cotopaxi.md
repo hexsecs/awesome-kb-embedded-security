@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d55d-7d9d-837c-509c67b246ea
 title: "Cotopaxi"
 summary: "Multi-protocol IoT security testing toolkit from Samsung R&D covering MQTT, CoAP, AMQP, DTLS, KNX, QUIC, RTSP, SSDP, HTTP/2, gRPC, and more; supports…"
 type: entity

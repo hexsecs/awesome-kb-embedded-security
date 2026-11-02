@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d584-7b8c-a1ca-2da8756e0c49
 title: "MCUboot"
 summary: "Secure bootloader for 32-bit microcontrollers supporting signed images, rollback protection, and measured boot flows."
 type: entity

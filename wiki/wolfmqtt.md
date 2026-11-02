@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5b2-7ac1-9001-e0d438b8f3c9
 title: "wolfMQTT"
 summary: "MQTT client library with TLS support optimized for embedded systems."
 type: entity

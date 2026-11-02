@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d562-72ca-b125-0b290569115e
 title: "EMBArk"
 summary: "Enterprise web interface for EMBA providing multi-user scan management, aggregated vulnerability dashboards, and CI/CD integration for continuous firmware…"
 type: entity

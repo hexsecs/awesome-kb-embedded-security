@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d581-7fae-8044-b1a7f46d36eb
 title: "KillerBee"
 summary: "IEEE 802.15.4/ZigBee security research framework for capturing, injecting, and analyzing ZigBee network traffic using compatible radio hardware."
 type: entity

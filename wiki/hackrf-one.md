@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d579-7ed3-9136-3aab71fa3269
 title: "HackRF One"
 summary: "Software Defined Radio peripheral capable of transmission or reception of radio signals from 1 MHz to 6 GHz."
 type: entity

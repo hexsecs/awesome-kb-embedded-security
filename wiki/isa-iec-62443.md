@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d57d-70f0-8a87-ad44ea3fc74b
 title: "ISA/IEC 62443"
 summary: "Industrial automation and control systems security series; part 4-2 defines the component-level requirements that apply to embedded devices."
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d592-72cc-8e51-8638fb165f15
 title: "Revizor"
 summary: "Model-based relational fuzzer from Microsoft that runs random programs on real x86 CPUs and checks hardware execution traces against speculation contracts…"
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5ae-796b-9231-57da2f45a714
 title: "USRP"
 summary: "Ettus Research SDR family and the UHD driver stack; the platform most published cellular and wireless security research is built on."
 type: entity

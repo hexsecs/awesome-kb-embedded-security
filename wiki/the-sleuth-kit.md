@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5a1-7344-af4c-c6cdf66642fd
 title: "The Sleuth Kit"
 summary: "File system forensic toolkit for carving and examining recovered NAND/eMMC/UFS image dumps."
 type: entity

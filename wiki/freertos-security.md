@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d56c-7843-bc27-33b7243f74ce
 title: "FreeRTOS Security"
 summary: "Security features and documentation for FreeRTOS including MQTT over TLS, PKCS#11, and PSA Certified implementation."
 type: entity

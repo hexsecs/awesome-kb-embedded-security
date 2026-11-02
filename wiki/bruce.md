@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d559-757b-82fe-3f07b9985bb5
 title: "Bruce"
 summary: "Powerful open-source ESP32 firmware designed for offensive security and Red Team operations."
 type: entity

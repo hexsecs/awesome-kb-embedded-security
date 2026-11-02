@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5ab-7c58-949b-f5c1e7e1df69
 title: "unblob"
 summary: "Fast, accurate firmware extraction engine from ONEKEY supporting 100+ archive, compression, and filesystem formats with fewer false positives than Binwalk.…"
 type: entity

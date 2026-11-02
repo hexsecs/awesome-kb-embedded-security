@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d56c-7460-9b37-59bcd6af7d1f
 title: "Frida"
 summary: "Dynamic instrumentation toolkit for injecting JavaScript or native code into running processes on embedded Linux, Android, iOS, and bare-metal targets."
 type: entity

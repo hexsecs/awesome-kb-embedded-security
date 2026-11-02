@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d58a-7d08-84da-ec622eba6a78
 title: "OWASP IoT Security Verification Standard"
 summary: "Open standard of security requirements for IoT ecosystems, spanning hardware platforms, software platforms, communications and user-space applications, for…"
 type: entity

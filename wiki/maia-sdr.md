@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d584-7646-8e50-0b7b093d78ef
 title: "Maia SDR"
 summary: "Open-source FPGA-based SDR project focusing on the ADALM Pluto."
 type: entity

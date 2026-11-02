@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d566-7fd3-8862-f519334c0a52
 title: "EXPLIoT"
 summary: "Framework for security testing and exploiting IoT products and IoT infrastructure. It provides a set of plugins (test cases) which are used to perform the…"
 type: entity

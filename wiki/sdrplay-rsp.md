@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d59c-749b-992a-6b0d46650800
 title: "SDRplay RSP"
 summary: "Wideband 14-bit receivers covering 1 kHz to 2 GHz with tunable preselection filters to reject out-of-band interference."
 type: entity

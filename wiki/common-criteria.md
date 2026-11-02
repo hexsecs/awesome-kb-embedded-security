@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d55d-715d-b245-1a420e17a93e
 title: "Common Criteria"
 summary: "ISO/IEC 15408 security evaluation framework, with the public database of certified products and the protection profiles they were evaluated against."
 type: entity

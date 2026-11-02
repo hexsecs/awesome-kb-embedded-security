@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d569-78f7-affe-a4630f17d128
 title: "FirmWire"
 summary: "Full-system emulation platform for Samsung (Shannon) and MediaTek cellular baseband firmware with AFL++ fuzzing integration, a task-injection ModKit, and…"
 type: entity

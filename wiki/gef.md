@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d571-72cc-9d74-9c39e1a75e7d
 title: "GEF"
 summary: "Kick-ass set of commands for X86, ARM, MIPS, PowerPC and SPARC to make GDB cool again for exploit dev. It is aimed to be used mostly by exploit developers…"
 type: entity

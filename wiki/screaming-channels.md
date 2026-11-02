@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d59b-7f01-8530-19aea9d98152
 title: "screaming_channels"
 summary: "Attack toolkit and research artifacts for radio side-channels in mixed-signal chips, where leakage from the CPU core is unintentionally mixed onto the…"
 type: entity

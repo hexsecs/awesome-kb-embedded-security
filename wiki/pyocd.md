@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d590-79c5-a592-0aca3b5a254f
 title: "pyOCD"
 summary: "An open-source Python library for programming and debugging Arm Cortex-M microcontrollers with cross-platform debug probe support."
 type: entity

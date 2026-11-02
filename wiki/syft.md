@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5a0-7f66-9a84-9cac810f6e8a
 title: "Syft"
 summary: "SBOM generator for filesystems and artifacts, useful for firmware package/component inventories."
 type: entity

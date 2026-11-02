@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d585-79ec-b9a2-be1a7feb09b3
 title: "mfoc-hardnested"
 summary: "Fork of MFOC adding the hardnested attack, which recovers MIFARE Classic keys from cards with hardened PRNGs that the offline nested attack alone cannot…"
 type: entity

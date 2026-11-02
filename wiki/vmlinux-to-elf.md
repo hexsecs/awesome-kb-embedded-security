@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d5af-7692-8641-b341b19415ef
 title: "vmlinux-to-elf"
 summary: "Recovers a fully analyzable ELF from a raw kernel image by extracting the kernel symbol table (kallsyms)."
 type: entity

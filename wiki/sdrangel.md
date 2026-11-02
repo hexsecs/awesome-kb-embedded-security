@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d59c-76f9-b921-e92c23f0d96a
 title: "SDRangel"
 summary: "Multi-mode SDR frontend with transmit support and decoders for ADS-B, AIS, DMR, POCSAG, and other protocols encountered in embedded and IoT radio work."
 type: entity

@@ -1,4 +1,5 @@
 ---
+uid: 01a19d3d-d554-7f7e-b334-be12b3167c31
 title: "BARF"
 summary: "A binary analysis and reverse engineering framework with support for ROP gadget search and CFG recovery."
 type: entity
