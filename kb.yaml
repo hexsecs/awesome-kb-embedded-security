@@ -1,0 +1,23 @@
+openshelf: "0.1"
+id: awesome-kb-embedded-security
+title: "Embedded Security (Awesome KB)"
+description: >
+  Knowledge base for embedded security, ingested from the curated awesome
+  list hexsecs/awesome-embedded-security: firmware analysis, reverse
+  engineering, hardware hacking, IoT security, fuzzing, secure boot,
+  side-channel analysis, and SDR.
+profile: awesome
+version: "2026.11.01"
+license: CC0-1.0
+maintainers: [hexsecs]
+tags: [embedded, security, awesome]
+layout:
+  pages: wiki
+  index: index.md
+  sources: raw
+  schema: AGENTS.md
+  log: log.md
+x-ingest:
+  source: "github:hexsecs/awesome-embedded-security"
+  file: README.md
+  tool: tools/ingest.py

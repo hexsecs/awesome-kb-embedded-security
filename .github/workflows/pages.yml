@@ -1,0 +1,82 @@
+# Standalone GitHub Pages render for this KB.
+#
+# The composed site (hexsecs.github.io/awesome-kb) imports this KB at a
+# pinned commit; this workflow renders the KB on its own, from its own
+# main, at https://hexsecs.github.io/awesome-kb-embedded-security/.
+#
+# How it works: the OpenShelf site builder lives in the registry repo
+# (hexsecs/awesome-kb, tools/build_site.py). The builder derives its
+# root from its own path (<root>/tools/build_site.py) and reads the
+# host KB from that root, so the workflow stages the builder script
+# into this checkout's tools/ directory, checks the registry out beside
+# it for the theme, and gives the builder an empty import lock (this KB
+# imports nothing — it is the host). Generated HTML is never committed;
+# the build output goes straight to the Pages artifact.
+#
+# The registry checkout is pinned to an exact commit on purpose (the
+# same exact-pin discipline as .openshelf/kbs.lock in the registry):
+# builder/theme changes land here only when this pin is deliberately
+# bumped. Pin at preparation time (2026-11-01):
+#   hexsecs/awesome-kb@94d4d158cdf76e6995378b58f5fdf4ea08f063ed
+
+name: Build and deploy standalone site to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out this KB
+        uses: actions/checkout@v4
+
+      - name: Check out the registry (builder + themes), pinned
+        uses: actions/checkout@v4
+        with:
+          repository: hexsecs/awesome-kb
+          ref: 94d4d158cdf76e6995378b58f5fdf4ea08f063ed
+          path: .awesome-kb-builder
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install builder dependencies
+        run: pip install pyyaml markdown jinja2
+
+      - name: Stage the builder at this KB's root
+        run: |
+          cp .awesome-kb-builder/tools/build_site.py tools/build_site.py
+          mkdir -p .openshelf
+          printf 'kbs: {}\n' > .openshelf/kbs.lock
+
+      - name: Build the standalone site (themes/default)
+        run: >-
+          python3 tools/build_site.py
+          --theme "$GITHUB_WORKSPACE/.awesome-kb-builder/themes/default"
+          --out _site
+
+      - name: Upload the Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
