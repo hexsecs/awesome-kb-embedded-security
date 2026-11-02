@@ -2,7 +2,7 @@
 
 This KB conforms to the **OpenShelf** standard (`openshelf: "1.4"`,
 `profile: awesome`) — spec and schemas live in
-[hexsecs/openshelf](https://github.com/hexsecs/openshelf); this file carries only
+[OpenNorms/openshelf](https://github.com/OpenNorms/openshelf); this file carries only
 what is local to this KB. Read `kb.yaml` for the declared layout.
 The maintenance **method** (deepening pipeline, evidence discipline,
 concept mining, gates, traps) lives in the awesome-kb skill —
