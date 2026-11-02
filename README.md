@@ -7,7 +7,7 @@ https://hexsecs.github.io/awesome-kb/ once registered imports build.
 A living knowledge base for embedded security — firmware analysis,
 reverse engineering, hardware hacking, IoT security, fuzzing, secure
 boot, side-channel analysis, and SDR — in the
-[OpenShelf](https://github.com/hexsecs/openkb) format. It grows from the
+[OpenShelf](https://github.com/hexsecs/openshelf) format. It grows from the
 curated list [hexsecs/awesome-embedded-security](https://github.com/hexsecs/awesome-embedded-security),
 which stays canon: ingest flows from the list into this KB, never the
 other way around. Part of the
