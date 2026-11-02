@@ -1,0 +1,6 @@
+# USB Emulation and Fuzzing
+
+- [Facedancer](facedancer.md) — Python framework for emulating, creating, and tampering with USB devices using compatible hardware such as Cynthion or GreatFET.
+- [Hydradancer](hydradancer.md) — Facedancer backend firmware from Quarkslab for the HydraUSB3 board, reaching USB 2.0 High-Speed emulation rates well above the original Facedancer hardware.
+- [Raw Gadget](raw-gadget.md) — Linux kernel module exposing a low-level interface to the USB Gadget subsystem for emulating arbitrary USB devices in software; it is what syzkaller uses to…
+- [umap2](umap2.md) — Host-side USB security assessment tool from NCC Group that emulates devices to enumerate which classes a host supports, then fuzzes the matching drivers…

@@ -1,0 +1,6 @@
+# Logic Analyzers
+
+- [DSView](dsview.md) — GUI for DreamSourceLab's logic analyzers and oscilloscopes, built on the sigrok project.
+- [LogicAnalyzer](logicanalyzer.md) — Open hardware and software logic analyzer for the RP2040 and RP2350, capturing up to 24 channels at 100 Msps from a Raspberry Pi Pico and daisy-chaining up…
+- [Saleae](saleae.md) — Commercial logic analyzer hardware ($149–$499+) with proprietary software; widely used for decoding SPI, I2C, UART, and other embedded protocols.
+- [Sigrok](sigrok.md) — Portable, cross-platform, Free/Libre/Open-Source signal analysis software suite that supports various device types (e.g. logic analyzers, oscilloscopes, and…
