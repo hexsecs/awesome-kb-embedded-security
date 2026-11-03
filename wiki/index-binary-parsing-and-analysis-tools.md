@@ -7,6 +7,7 @@
 - [FLARE-FLOSS](flare-floss.md) — FLARE Obfuscated String Solver that automatically extracts obfuscated, encoded, and stack strings from binaries for rapid firmware triage.
 - [Kaitai Struct](kaitai-struct.md) — Declarative language used to describe various binary data structures, laid out in files or in memory: i.e. binary file formats, network stream packet…
 - [LIEF](lief.md) — Library to Instrument Executable Formats: parse, modify, and abstract ELF, PE, Mach-O, DEX, and OAT binaries found in firmware images.
+- [moria](moria.md) — Identifies files and structures embedded in firmware and IoT images, including filesystems, kernels, bootloaders, archives, and keys, and unpacks most of…
 - [OFRAK](ofrak.md) — Binary analysis and modification platform that combines the ability to unpack, analyze, modify, and repack binaries.
 - [Patcherex2](patcherex2.md) — Static binary patching framework for x86, ARM, MIPS, and PowerPC, supporting instruction insertion and function replacement in extracted firmware.
 - [sasquatch](sasquatch.md) — Patched unsquashfs that handles the vendor-modified SquashFS variants common in consumer router firmware; used internally by Binwalk and unblob.
