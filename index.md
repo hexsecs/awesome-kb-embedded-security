@@ -5,7 +5,7 @@ Generated from page frontmatter by tools/ingest.py; do not edit by hand.
 
 ## Categories
 
-- [Binary Parsing and Analysis Tools](wiki/index-binary-parsing-and-analysis-tools.md) — 17 entries
+- [Binary Parsing and Analysis Tools](wiki/index-binary-parsing-and-analysis-tools.md) — 18 entries
 - [Disassemblers/Decompilers](wiki/index-disassemblers-decompilers.md) — 21 entries
 - [Debugging Tools](wiki/index-debugging-tools.md) — 8 entries
 - [USB Emulation and Fuzzing](wiki/index-usb-emulation-and-fuzzing.md) — 4 entries
