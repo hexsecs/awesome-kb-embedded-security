@@ -7,7 +7,7 @@ Generated from page frontmatter by tools/ingest.py; do not edit by hand.
 
 - [Binary Parsing and Analysis Tools](wiki/index-binary-parsing-and-analysis-tools.md) — 18 entries
 - [Disassemblers/Decompilers](wiki/index-disassemblers-decompilers.md) — 21 entries
-- [Debugging Tools](wiki/index-debugging-tools.md) — 8 entries
+- [Debugging Tools](wiki/index-debugging-tools.md) — 9 entries
 - [USB Emulation and Fuzzing](wiki/index-usb-emulation-and-fuzzing.md) — 4 entries
 - [Secure Boot and Firmware Trust](wiki/index-secure-boot-and-firmware-trust.md) — 8 entries
 - [Firmware Supply Chain and SBOM](wiki/index-firmware-supply-chain-and-sbom.md) — 6 entries
@@ -33,7 +33,7 @@ Generated from page frontmatter by tools/ingest.py; do not edit by hand.
 - [Fault Injection](wiki/index-fault-injection.md) — 5 entries
 - [Logic Analyzers](wiki/index-logic-analyzers.md) — 4 entries
 - [NFC and RFID](wiki/index-nfc-and-rfid.md) — 4 entries
-- [RF Tools (Non-SDR)](wiki/index-rf-tools-non-sdr.md) — 9 entries
+- [RF Tools (Non-SDR)](wiki/index-rf-tools-non-sdr.md) — 10 entries
 - [Software Defined Radios](wiki/index-software-defined-radios.md) — 8 entries
 - [Software Defined Radio Software](wiki/index-software-defined-radio-software.md) — 7 entries
 - [Wi-Fi Tools](wiki/index-wi-fi-tools.md) — 3 entries
