@@ -21,7 +21,7 @@ Generated from page frontmatter by tools/ingest.py; do not edit by hand.
 - [IoT Protocol Security](wiki/index-iot-protocol-security.md) — 9 entries
 - [Bluetooth and BLE Security](wiki/index-bluetooth-and-ble-security.md) — 11 entries
 - [Zigbee / Z-Wave Security](wiki/index-zigbee-z-wave-security.md) — 3 entries
-- [Baseband Security](wiki/index-baseband-security.md) — 5 entries
+- [Baseband Security](wiki/index-baseband-security.md) — 6 entries
 - [Firmware Malware Analysis](wiki/index-firmware-malware-analysis.md) — 5 entries
 - [Emulation Tools](wiki/index-emulation-tools.md) — 10 entries
 - [MCU Firmware Fuzzing](wiki/index-mcu-firmware-fuzzing.md) — 6 entries
@@ -32,10 +32,10 @@ Generated from page frontmatter by tools/ingest.py; do not edit by hand.
 - [Side-Channel Analysis](wiki/index-side-channel-analysis.md) — 10 entries
 - [Fault Injection](wiki/index-fault-injection.md) — 5 entries
 - [Logic Analyzers](wiki/index-logic-analyzers.md) — 4 entries
-- [NFC and RFID](wiki/index-nfc-and-rfid.md) — 4 entries
+- [NFC and RFID](wiki/index-nfc-and-rfid.md) — 5 entries
 - [RF Tools (Non-SDR)](wiki/index-rf-tools-non-sdr.md) — 10 entries
 - [Software Defined Radios](wiki/index-software-defined-radios.md) — 8 entries
-- [Software Defined Radio Software](wiki/index-software-defined-radio-software.md) — 7 entries
+- [Software Defined Radio Software](wiki/index-software-defined-radio-software.md) — 9 entries
 - [Wi-Fi Tools](wiki/index-wi-fi-tools.md) — 3 entries
 - [Further Learning and Training](wiki/index-further-learning-and-training.md) — 10 entries
 - [Security Assessment and Design Guidance](wiki/index-security-assessment-and-design-guidance.md) — 4 entries

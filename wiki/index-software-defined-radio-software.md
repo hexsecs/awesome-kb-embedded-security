@@ -5,5 +5,7 @@
 - [Gqrx](gqrx.md) — General-purpose SDR receiver built on GNU Radio and Qt, with a waterfall display and AM/FM/SSB demodulation for surveying unknown spectrum.
 - [inspectrum](inspectrum.md) — Offline analyser for captured IQ recordings, with cursors for measuring symbol rates and extracting bits from an unknown modulation.
 - [Maia SDR](maia-sdr.md) — Open-source FPGA-based SDR project focusing on the ADALM Pluto.
+- [PortaPack Mayhem](portapack-mayhem.md) — Community firmware for the HackRF PortaPack that turns the radio into a standalone handheld tool with apps for signal analysis, replay, and protocol decoding.
+- [SDR++](sdr.md) — Cross-platform SDR receiver with a modular plugin architecture.
 - [SDRangel](sdrangel.md) — Multi-mode SDR frontend with transmit support and decoders for ADS-B, AIS, DMR, POCSAG, and other protocols encountered in embedded and IoT radio work.
 - [SigDigger](sigdigger.md) — Real-time signal analyser with FSK, PSK, and ASK demodulation and no GNU Radio dependency, aimed at characterising unknown transmissions.
