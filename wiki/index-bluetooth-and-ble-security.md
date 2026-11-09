@@ -1,6 +1,7 @@
 # Bluetooth and BLE Security
 
 - [Bettercap BLE](bettercap-ble.md) — BLE scanning, enumeration, and characteristic read/write module integrated into the bettercap Swiss-army knife framework.
+- [BLE-Security-Attack-Defence](ble-security-attack-defence.md) — Curated collection of Bluetooth Low Energy attack and defence research, covering tools, papers, and documented vulnerabilities in BLE stacks.
 - [BLEeding](bleeding.md) — Bluetooth/BLE jamming, signal inhibition, DoS and DeAuth attack.
 - [BlueToolkit](bluetoolkit.md) — Modular black-box vulnerability testing framework for Bluetooth Classic and BLE with Recon/Exploit/Report modules covering 40+ public exploits (MITM, RCE…
 - [BrakTooth](braktooth.md) — Directed exploit suite for Bluetooth Classic LMP layer vulnerabilities, targeting protocol layers inaccessible from standard host stacks; affected 1,400+…

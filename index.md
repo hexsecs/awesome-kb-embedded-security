@@ -19,7 +19,7 @@ Generated from page frontmatter by tools/ingest.py; do not edit by hand.
 - [Root of Trust and TPM](wiki/index-root-of-trust-and-tpm.md) — 11 entries
 - [OTA Update Security](wiki/index-ota-update-security.md) — 7 entries
 - [IoT Protocol Security](wiki/index-iot-protocol-security.md) — 9 entries
-- [Bluetooth and BLE Security](wiki/index-bluetooth-and-ble-security.md) — 11 entries
+- [Bluetooth and BLE Security](wiki/index-bluetooth-and-ble-security.md) — 12 entries
 - [Zigbee / Z-Wave Security](wiki/index-zigbee-z-wave-security.md) — 3 entries
 - [Baseband Security](wiki/index-baseband-security.md) — 6 entries
 - [Firmware Malware Analysis](wiki/index-firmware-malware-analysis.md) — 5 entries
