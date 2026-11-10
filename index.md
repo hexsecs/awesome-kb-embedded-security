@@ -26,7 +26,7 @@ Generated from page frontmatter by tools/ingest.py; do not edit by hand.
 - [Emulation Tools](wiki/index-emulation-tools.md) — 10 entries
 - [MCU Firmware Fuzzing](wiki/index-mcu-firmware-fuzzing.md) — 6 entries
 - [Hardware Reverse Engineering Multitools](wiki/index-hardware-reverse-engineering-multitools.md) — 6 entries
-- [Hardware Debug Interfaces](wiki/index-hardware-debug-interfaces.md) — 5 entries
+- [Hardware Debug Interfaces](wiki/index-hardware-debug-interfaces.md) — 6 entries
 - [USB Protocol Analysis](wiki/index-usb-protocol-analysis.md) — 5 entries
 - [Chip-Off and Memory Forensics](wiki/index-chip-off-and-memory-forensics.md) — 5 entries
 - [Side-Channel Analysis](wiki/index-side-channel-analysis.md) — 10 entries
@@ -36,7 +36,7 @@ Generated from page frontmatter by tools/ingest.py; do not edit by hand.
 - [RF Tools (Non-SDR)](wiki/index-rf-tools-non-sdr.md) — 10 entries
 - [Software Defined Radios](wiki/index-software-defined-radios.md) — 8 entries
 - [Software Defined Radio Software](wiki/index-software-defined-radio-software.md) — 9 entries
-- [Wi-Fi Tools](wiki/index-wi-fi-tools.md) — 3 entries
+- [Wi-Fi Tools](wiki/index-wi-fi-tools.md) — 4 entries
 - [Further Learning and Training](wiki/index-further-learning-and-training.md) — 10 entries
 - [Security Assessment and Design Guidance](wiki/index-security-assessment-and-design-guidance.md) — 4 entries
 - [Standards and Regulation](wiki/index-standards-and-regulation.md) — 11 entries

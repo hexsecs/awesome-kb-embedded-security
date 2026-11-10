@@ -1,5 +1,6 @@
 # Hardware Debug Interfaces
 
+- [Apollo](apollo.md) — Microcontroller-based FPGA and JTAG programmer from Great Scott Gadgets for programming and debugging FPGA targets.
 - [blueTag](bluetag.md) — JTAGulator alternative for RP2040 boards such as the Raspberry Pi Pico that detects JTAG and SWD pinouts on unknown targets, and doubles as a CMSIS-DAP…
 - [DirtyJTAG](dirtyjtag.md) — JTAG probe firmware for cheap STM32 boards and ST-Link clones, compatible with UrJTAG, OpenOCD and flashrom.
 - [JTAGenum](jtagenum.md) — Enumerates JTAG pinouts on unknown boards by brute-force testing candidate pin mappings.
