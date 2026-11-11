@@ -18,12 +18,12 @@ Generated from page frontmatter by tools/ingest.py; do not edit by hand.
 - [TEE/Trusted Execution Environments](wiki/index-tee-trusted-execution-environments.md) — 7 entries
 - [Root of Trust and TPM](wiki/index-root-of-trust-and-tpm.md) — 11 entries
 - [OTA Update Security](wiki/index-ota-update-security.md) — 7 entries
-- [IoT Protocol Security](wiki/index-iot-protocol-security.md) — 9 entries
+- [IoT Protocol Security](wiki/index-iot-protocol-security.md) — 10 entries
 - [Bluetooth and BLE Security](wiki/index-bluetooth-and-ble-security.md) — 12 entries
 - [Zigbee / Z-Wave Security](wiki/index-zigbee-z-wave-security.md) — 3 entries
 - [Baseband Security](wiki/index-baseband-security.md) — 6 entries
 - [Firmware Malware Analysis](wiki/index-firmware-malware-analysis.md) — 5 entries
-- [Emulation Tools](wiki/index-emulation-tools.md) — 10 entries
+- [Emulation Tools](wiki/index-emulation-tools.md) — 11 entries
 - [MCU Firmware Fuzzing](wiki/index-mcu-firmware-fuzzing.md) — 6 entries
 - [Hardware Reverse Engineering Multitools](wiki/index-hardware-reverse-engineering-multitools.md) — 6 entries
 - [Hardware Debug Interfaces](wiki/index-hardware-debug-interfaces.md) — 6 entries
@@ -32,7 +32,7 @@ Generated from page frontmatter by tools/ingest.py; do not edit by hand.
 - [Side-Channel Analysis](wiki/index-side-channel-analysis.md) — 10 entries
 - [Fault Injection](wiki/index-fault-injection.md) — 5 entries
 - [Logic Analyzers](wiki/index-logic-analyzers.md) — 4 entries
-- [NFC and RFID](wiki/index-nfc-and-rfid.md) — 5 entries
+- [NFC and RFID](wiki/index-nfc-and-rfid.md) — 6 entries
 - [RF Tools (Non-SDR)](wiki/index-rf-tools-non-sdr.md) — 10 entries
 - [Software Defined Radios](wiki/index-software-defined-radios.md) — 8 entries
 - [Software Defined Radio Software](wiki/index-software-defined-radio-software.md) — 9 entries

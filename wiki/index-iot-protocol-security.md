@@ -2,6 +2,7 @@
 
 - [CoAP Security](coap-security.md) — Constrained Application Protocol (CoAP) security with DTLS.
 - [Cotopaxi](cotopaxi.md) — Multi-protocol IoT security testing toolkit from Samsung R&D covering MQTT, CoAP, AMQP, DTLS, KNX, QUIC, RTSP, SSDP, HTTP/2, gRPC, and more; supports…
+- [iotaudit](iotaudit.md) — Audits smart-home devices on a local network, grading plaintext traffic, open ports, and outbound connections in an HTML report.
 - [KillerBee](killerbee.md) — IEEE 802.15.4/ZigBee security research framework for capturing, injecting, and analyzing ZigBee network traffic using compatible radio hardware.
 - [libcoap](libcoap.md) — C implementation of CoAP with DTLS support for secure IoT communication.
 - [TLS for MQTT](tls-for-mqtt.md) — Overview of TLS implementation for MQTT brokers and clients.
