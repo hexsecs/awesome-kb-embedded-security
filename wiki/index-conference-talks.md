@@ -1,0 +1,3 @@
+# Conference Talks
+
+- [Hacking Hearts by Reverse Engineering Pacemaker Firmware](hacking-hearts-by-reverse-engineering-pacemaker-firmware.md) — DEF CON 34 Biohacking Village talk by Marie Moe, Shayan Alinejad, and Kristian Karlsen: reverse engineering the Biotronik pacemaker ecosystem (implant, home…

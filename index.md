@@ -38,5 +38,6 @@ Generated from page frontmatter by tools/ingest.py; do not edit by hand.
 - [Software Defined Radio Software](wiki/index-software-defined-radio-software.md) — 9 entries
 - [Wi-Fi Tools](wiki/index-wi-fi-tools.md) — 4 entries
 - [Further Learning and Training](wiki/index-further-learning-and-training.md) — 10 entries
+- [Conference Talks](wiki/index-conference-talks.md) — 1 entry
 - [Security Assessment and Design Guidance](wiki/index-security-assessment-and-design-guidance.md) — 4 entries
 - [Standards and Regulation](wiki/index-standards-and-regulation.md) — 11 entries
