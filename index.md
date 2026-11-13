@@ -16,7 +16,7 @@ Generated from page frontmatter by tools/ingest.py; do not edit by hand.
 - [Firmware Taint Analysis](wiki/index-firmware-taint-analysis.md) — 4 entries
 - [RTOS Security](wiki/index-rtos-security.md) — 6 entries
 - [TEE/Trusted Execution Environments](wiki/index-tee-trusted-execution-environments.md) — 7 entries
-- [Root of Trust and TPM](wiki/index-root-of-trust-and-tpm.md) — 11 entries
+- [Root of Trust and TPM](wiki/index-root-of-trust-and-tpm.md) — 12 entries
 - [OTA Update Security](wiki/index-ota-update-security.md) — 7 entries
 - [IoT Protocol Security](wiki/index-iot-protocol-security.md) — 10 entries
 - [Bluetooth and BLE Security](wiki/index-bluetooth-and-ble-security.md) — 12 entries
@@ -36,7 +36,7 @@ Generated from page frontmatter by tools/ingest.py; do not edit by hand.
 - [RF Tools (Non-SDR)](wiki/index-rf-tools-non-sdr.md) — 10 entries
 - [Software Defined Radios](wiki/index-software-defined-radios.md) — 8 entries
 - [Software Defined Radio Software](wiki/index-software-defined-radio-software.md) — 9 entries
-- [Wi-Fi Tools](wiki/index-wi-fi-tools.md) — 4 entries
+- [Wi-Fi Tools](wiki/index-wi-fi-tools.md) — 5 entries
 - [Further Learning and Training](wiki/index-further-learning-and-training.md) — 10 entries
 - [Conference Talks](wiki/index-conference-talks.md) — 1 entry
 - [Security Assessment and Design Guidance](wiki/index-security-assessment-and-design-guidance.md) — 4 entries
