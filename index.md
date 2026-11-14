@@ -9,13 +9,13 @@ Generated from page frontmatter by tools/ingest.py; do not edit by hand.
 - [Disassemblers/Decompilers](wiki/index-disassemblers-decompilers.md) — 21 entries
 - [Debugging Tools](wiki/index-debugging-tools.md) — 9 entries
 - [USB Emulation and Fuzzing](wiki/index-usb-emulation-and-fuzzing.md) — 4 entries
-- [Secure Boot and Firmware Trust](wiki/index-secure-boot-and-firmware-trust.md) — 8 entries
+- [Secure Boot and Firmware Trust](wiki/index-secure-boot-and-firmware-trust.md) — 9 entries
 - [Firmware Supply Chain and SBOM](wiki/index-firmware-supply-chain-and-sbom.md) — 6 entries
 - [Fuzzing Tools](wiki/index-fuzzing-tools.md) — 8 entries
 - [Security Auditing Frameworks](wiki/index-security-auditing-frameworks.md) — 11 entries
 - [Firmware Taint Analysis](wiki/index-firmware-taint-analysis.md) — 4 entries
 - [RTOS Security](wiki/index-rtos-security.md) — 6 entries
-- [TEE/Trusted Execution Environments](wiki/index-tee-trusted-execution-environments.md) — 7 entries
+- [TEE/Trusted Execution Environments](wiki/index-tee-trusted-execution-environments.md) — 9 entries
 - [Root of Trust and TPM](wiki/index-root-of-trust-and-tpm.md) — 12 entries
 - [OTA Update Security](wiki/index-ota-update-security.md) — 7 entries
 - [IoT Protocol Security](wiki/index-iot-protocol-security.md) — 10 entries
@@ -38,6 +38,6 @@ Generated from page frontmatter by tools/ingest.py; do not edit by hand.
 - [Software Defined Radio Software](wiki/index-software-defined-radio-software.md) — 9 entries
 - [Wi-Fi Tools](wiki/index-wi-fi-tools.md) — 5 entries
 - [Further Learning and Training](wiki/index-further-learning-and-training.md) — 10 entries
-- [Conference Talks](wiki/index-conference-talks.md) — 1 entry
+- [Conference Talks](wiki/index-conference-talks.md) — 3 entries
 - [Security Assessment and Design Guidance](wiki/index-security-assessment-and-design-guidance.md) — 4 entries
 - [Standards and Regulation](wiki/index-standards-and-regulation.md) — 11 entries
