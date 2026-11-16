@@ -30,7 +30,7 @@ Generated from page frontmatter by tools/ingest.py; do not edit by hand.
 - [USB Protocol Analysis](wiki/index-usb-protocol-analysis.md) — 5 entries
 - [Chip-Off and Memory Forensics](wiki/index-chip-off-and-memory-forensics.md) — 5 entries
 - [Side-Channel Analysis](wiki/index-side-channel-analysis.md) — 10 entries
-- [Fault Injection](wiki/index-fault-injection.md) — 5 entries
+- [Fault Injection](wiki/index-fault-injection.md) — 6 entries
 - [Logic Analyzers](wiki/index-logic-analyzers.md) — 4 entries
 - [NFC and RFID](wiki/index-nfc-and-rfid.md) — 6 entries
 - [RF Tools (Non-SDR)](wiki/index-rf-tools-non-sdr.md) — 10 entries
