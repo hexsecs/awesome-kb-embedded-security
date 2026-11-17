@@ -14,9 +14,16 @@ source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Software Defined Radio peripheral capable of transmission or reception of radio signals from 1 MHz to 6 GHz."
 related:
-  - yard-stick-one
   - portapack-mayhem
   - rtl-sdr
+  - yard-stick-one
+  - bladerf
+  - adalm-pluto-plutosdr
+  - rfcat
+related:
+  - portapack-mayhem
+  - rtl-sdr
+  - yard-stick-one
   - bladerf
   - adalm-pluto-plutosdr
   - rfcat

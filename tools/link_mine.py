@@ -182,12 +182,21 @@ def main() -> int:
     idf = {t: math.log((n + 1) / (c + 0.5)) for t, c in df.items()}
 
     def org_of(p: dict) -> str:
+        # Only code-host orgs are a real signal (the same GitHub org
+        # publishing two tools). A shared document host (usenix.org,
+        # arxiv.org, youtube.com) says nothing about relatedness.
         url = str(p["fields"].get("url", ""))
         host = urlparse(url).netloc.lower()
         parts = [x for x in urlparse(url).path.split("/") if x]
         if host == "github.com" and parts:
             return f"github.com/{parts[0].lower()}"
-        return host
+        return ""
+
+    # A category is evidence only when it is selective: a section
+    # holding most of the corpus (e.g. Research Papers) boosts
+    # everything and therefore nothing.
+    cat_counts = Counter(str(p["fields"].get("category", ""))
+                         for p in pages.values())
 
     slugs = sorted(pages)
     scores: dict[tuple[str, str], float] = {}
@@ -201,7 +210,8 @@ def main() -> int:
             fb = pages[b]["fields"]
             shared = set(ta) & set(tb)
             s = sum(min(ta[t], tb[t]) * idf[t] for t in shared) / 3.0
-            if fa.get("category") and fa.get("category") == fb.get("category"):
+            if fa.get("category") and fa.get("category") == fb.get("category") \
+                    and cat_counts[str(fa.get("category"))] <= 0.20 * n:
                 s += 1.0
             if org_of(pages[a]) and org_of(pages[a]) == org_of(pages[b]):
                 s += 1.5
@@ -231,21 +241,45 @@ def main() -> int:
         ranked = sorted(cand, key=lambda b: (-scores.get((a, b), 0.0), b))
         final[a] = ranked[:args.max_related]
 
+    # Concept pages are never written by this tool, but their related
+    # lists are sources for reciprocation: a concept that draws on an
+    # entity should be linked back from that entity (house practice).
+    concept_links: dict[str, list[str]] = {}
+    cdir = WIKI / "concepts"
+    if cdir.is_dir():
+        for path in sorted(cdir.glob("*.md")):
+            fields, fm_lines, _ = split_page(
+                path.read_text(encoding="utf-8"))
+            if "title" in fields:
+                concept_links[path.stem] = parse_related(fm_lines)
+
     changed = filled = recip_added = 0
     samples: list[str] = []
     for slug in slugs:
         p = pages[slug]
         old = p["related"]
+        # Who already links here, that this page does not link back to?
+        incoming = {o for o in slugs if slug in pages[o]["related"]}
+        incoming |= {c for c, rels in concept_links.items()
+                     if slug in rels}
         if args.fill_only and old:
+            # Author-owned set: preserve it verbatim and in order;
+            # only append missing reciprocal links.
             new = list(old)
+            if args.reciprocate:
+                adds = sorted(incoming - set(new),
+                              key=lambda b: (-scores.get((slug, b), 0.0), b))
+                recip_added += len(adds)
+                new = new + adds
         else:
-            new = final[slug]
-        if args.reciprocate:
-            for other in slugs:
-                if slug in pages[other]["related"] and other not in new:
-                    new = new + [other]
-                    recip_added += 1
-        new = sorted(set(new), key=lambda b: (-scores.get((slug, b), 0.0), b))
+            new = list(final[slug])
+            if args.reciprocate:
+                adds = sorted(incoming - set(new),
+                              key=lambda b: (-scores.get((slug, b), 0.0), b))
+                recip_added += len(adds)
+                new = new + adds
+            new = sorted(set(new),
+                         key=lambda b: (-scores.get((slug, b), 0.0), b))
         if new != old:
             changed += 1
             if not old:

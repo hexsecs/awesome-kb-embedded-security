@@ -16,9 +16,16 @@ list_summary: "Baseline technical capabilities expected of IoT devices, referenc
 related:
   - nist-sp-800-193
   - etsi-en-303-645
-  - fips-140-3
   - gsma-iot-security-guidelines
   - eu-cyber-resilience-act
+  - fips-140-3
+  - unece-r155
+related:
+  - nist-sp-800-193
+  - etsi-en-303-645
+  - gsma-iot-security-guidelines
+  - eu-cyber-resilience-act
+  - fips-140-3
   - unece-r155
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
