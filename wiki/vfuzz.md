@@ -8,11 +8,17 @@ url: "https://github.com/CNK2100/VFuzz-public"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "The only dedicated open-source Z-Wave security fuzzer; uses a Field Prioritization Algorithm to mutate protocol-valid frames and assess target encryption capabilities. IEEE Access 2022."
+related:
+  - z-fuzzer
+  - u-fuzz
+  - boofuzz
+  - qcsuper
+  - fuzzowski
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

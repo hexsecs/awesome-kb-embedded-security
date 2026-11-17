@@ -8,11 +8,17 @@ url: "https://github.com/riverloopsec/killerbee"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "IEEE 802.15.4/ZigBee security research framework for capturing, injecting, and analyzing ZigBee network traffic using compatible radio hardware."
+related:
+  - nrf-sniffer-for-bluetooth-le
+  - iotaudit
+  - akheron-proxy
+  - cynthion
+  - wireshark-mqtt
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

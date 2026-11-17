@@ -8,11 +8,18 @@ url: "https://github.com/AFLplusplus/AFLplusplus"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "A coverage-guided fuzzer with enhanced mutations, QEMU and Unicorn emulation modes, and custom power schedules."
+related:
+  - icicle
+  - z-fuzzer
+  - emu
+  - afl-2
+  - greenhouse
+  - firmwire
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

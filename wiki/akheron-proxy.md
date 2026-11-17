@@ -8,11 +8,17 @@ url: "https://github.com/rapid7/akheron-proxy"
 status: unknown
 last_checked: 2026-11-06
 created: 2026-11-06
-updated: 2026-11-06
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: a105833
 list_summary: "Python tool that proxies UART traffic between chips on a board, capturing and replaying inter-chip communications with checksum recalculation."
+related:
+  - btlejuice
+  - cynthion
+  - killerbee
+  - nrf-sniffer-for-bluetooth-le
+  - dvid
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-06

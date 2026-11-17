@@ -8,11 +8,17 @@ url: "https://github.com/sefcom/operation-mango-public"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Taint-style static analysis that finds vulnerabilities in binary firmware services by reasoning backward from dangerous sinks, using a technique it calls assumed execution. USENIX Security 2024."
+related:
+  - firmxray
+  - emtaint
+  - karonte
+  - greenhouse
+  - patcherex2
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

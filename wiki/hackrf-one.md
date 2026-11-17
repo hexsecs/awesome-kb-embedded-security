@@ -8,11 +8,18 @@ url: "https://greatscottgadgets.com/hackrf/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Software Defined Radio peripheral capable of transmission or reception of radio signals from 1 MHz to 6 GHz."
+related:
+  - yard-stick-one
+  - portapack-mayhem
+  - rtl-sdr
+  - bladerf
+  - adalm-pluto-plutosdr
+  - rfcat
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

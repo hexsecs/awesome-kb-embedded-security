@@ -8,11 +8,17 @@ url: "https://github.com/J08nY/pyecsca"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Side-channel analysis and reverse engineering toolkit aimed specifically at elliptic curve implementations, where the other tools here are oriented toward AES."
+related:
+  - jlsca
+  - scaaml
+  - screaming-channels
+  - reverse-engineering-a-ledger-nano-x-hardware-implant
+  - mitre-ectf
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

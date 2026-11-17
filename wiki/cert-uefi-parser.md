@@ -8,11 +8,18 @@ url: "https://github.com/cmu-sei/cert-uefi-parser"
 status: unknown
 last_checked: 2026-11-05
 created: 2026-11-05
-updated: 2026-11-05
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: f4f2547
 list_summary: "Python tool for inspecting UEFI firmware ROM images and installers, recovering module, phase, protocol, and dependency structure for vulnerability research."
+related:
+  - uefitool
+  - fwhunt
+  - firmadyne
+  - binwalk
+  - lief
+  - vulhunt
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-05

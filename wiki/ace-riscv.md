@@ -8,11 +8,18 @@ url: "https://github.com/IBM/ACE-RISCV"
 status: unknown
 last_checked: 2026-11-14
 created: 2026-11-14
-updated: 2026-11-14
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: a71bc48
 list_summary: "VM-based trusted execution environment for embedded RISC-V systems with a formally verified security monitor."
+related:
+  - mtower
+  - trusted-firmware-a
+  - op-tee
+  - trusty-tee
+  - trusted-firmware-m
+  - sel4
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-14

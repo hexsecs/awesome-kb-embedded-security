@@ -8,11 +8,18 @@ url: "https://github.com/emirmrkaljevic/usb-rea"
 status: unknown
 last_checked: 2026-11-02
 created: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: d678051
 list_summary: "Infers a device's vendor USB protocol from labelled usbmon or USBPcap captures (commands, value encodings, checksums, handshakes, image streams), linking each finding to the packets behind it, and generates a Python driver and Wireshark dissector."
+related:
+  - luna
+  - rea
+  - packetry
+  - cynthion
+  - u-fuzz
+  - hydradancer
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-02

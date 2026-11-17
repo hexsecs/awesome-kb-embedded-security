@@ -8,11 +8,17 @@ url: "https://urjtag.sourceforge.io/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Open-source JTAG toolkit for boundary scan, flash programming, and low-level target interaction."
+related:
+  - dirtyjtag
+  - proxmark3
+  - apollo
+  - firmware-analysis-toolkit
+  - open-ocd
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

@@ -8,11 +8,18 @@ url: "https://www.nordicsemi.com/Products/Development-tools/nRF-Sniffer-for-Blue
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Nordic Semiconductor's BLE packet sniffer for capturing and analyzing Bluetooth Low Energy traffic with Wireshark integration. Wireshark plugin is open source; dongle firmware is a closed binary requiring Nordic hardware."
+related:
+  - ble-security-attack-defence
+  - btlejuice
+  - firmxray
+  - killerbee
+  - wireshark-mqtt
+  - bleeding
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

@@ -8,11 +8,18 @@ url: "https://github.com/dirtyjtag/DirtyJTAG"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "JTAG probe firmware for cheap STM32 boards and ST-Link clones, compatible with UrJTAG, OpenOCD and flashrom."
+related:
+  - urjtag
+  - flashrom
+  - probe-rs
+  - jtagulator
+  - bluetag
+  - jtagenum
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

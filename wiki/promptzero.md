@@ -8,11 +8,18 @@ url: "https://github.com/xunholy/promptzero"
 status: unknown
 last_checked: 2026-11-06
 created: 2026-11-06
-updated: 2026-11-06
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: a105833
 list_summary: "Natural-language operator for Flipper Zero and ESP32 Marauder that builds, deploys, and runs Sub-GHz, NFC, RFID, IR, BadUSB, and Wi-Fi payloads."
+related:
+  - cyber-controller
+  - flipper-zero
+  - esp32-marauder
+  - nfc-apdu-spy
+  - rfcat
+  - awesome-flipper-zero
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-06

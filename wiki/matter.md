@@ -8,11 +8,18 @@ url: "https://csa-iot.org/all-solutions/matter/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Smart home connectivity standard whose specification mandates device attestation, secure boot, and signed over-the-air updates."
+related:
+  - punchboot
+  - auditor
+  - mcuboot
+  - meta-raspberrypi-secure
+  - unece-r156
+  - iotaudit
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

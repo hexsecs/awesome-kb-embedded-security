@@ -8,11 +8,18 @@ url: "https://github.com/scriptingxss/owasp-fstm"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "OWASP firmware security testing methodology and practical guidance for assessing embedded devices."
+related:
+  - owasp-iot-security-testing-guide
+  - renode
+  - bluetoolkit
+  - cotopaxi
+  - darkmoon
+  - expliot
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

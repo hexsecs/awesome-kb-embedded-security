@@ -8,11 +8,18 @@ url: "https://github.com/yslxotwod/wifisting"
 status: unknown
 last_checked: 2026-11-12
 created: 2026-11-12
-updated: 2026-11-12
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: 8a69e21
 list_summary: "GTK4 wireless security toolkit for Linux bundling 58 modules across Wi-Fi, Bluetooth, RF, and router/network MITM workflows in one interface."
+related:
+  - bluetoolkit
+  - firmware-analysis-toolkit
+  - btlejuice
+  - anti-crime-ecosystem-research
+  - fips-140-3
+  - gsma-iot-security-guidelines
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-12

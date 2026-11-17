@@ -8,11 +8,18 @@ url: "https://github.com/stefanberger/swtpm"
 status: unknown
 last_checked: 2026-11-12
 created: 2026-11-12
-updated: 2026-11-12
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: 8a69e21
 list_summary: "Libtpms-based software TPM emulator giving each QEMU/libvirt guest its own virtual TPM (1.2 or 2.0), with socket, character device, and CUSE front-ends plus EK and platform certificate tooling."
+related:
+  - wolftpm
+  - ibm-software-tpm
+  - miasm
+  - tpm-2-0-reference-implementation
+  - breaking-the-root-of-trust-practical-side-channel-key-extraction-from-a-tpm
+  - keylime
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-12

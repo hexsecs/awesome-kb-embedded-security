@@ -8,11 +8,18 @@ url: "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-4011.htm
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "AMD guidance and security bulletin coverage related to firmware TPM behavior on supported platforms."
+related:
+  - amd-sev
+  - tpm2-algtest
+  - wolftpm
+  - emu
+  - firmware-security-testing
+  - keylime
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

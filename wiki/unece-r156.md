@@ -8,11 +8,17 @@ url: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A42021X0388"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Companion regulation to R155, requiring a software update management system covering over-the-air updates for the life of the vehicle."
+related:
+  - unece-r155
+  - matter
+  - uptane
+  - mender
+  - swupdate
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

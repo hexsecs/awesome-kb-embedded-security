@@ -8,11 +8,17 @@ url: "https://www.commoncriteriaportal.org/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "ISO/IEC 15408 security evaluation framework, with the public database of certified products and the protection profiles they were evaluated against."
+related:
+  - isa-iec-62443
+  - eu-cyber-resilience-act
+  - nist-sp-800-193
+  - unece-r155
+  - bluetoolkit
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

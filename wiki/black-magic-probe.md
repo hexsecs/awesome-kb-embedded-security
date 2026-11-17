@@ -8,11 +8,17 @@ url: "https://codeberg.org/blackmagic-debug/blackmagic"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "An open-source JTAG/SWD debugger with embedded GDB server and automatic target detection."
+related:
+  - probe-rs
+  - gdb
+  - dirtyjtag
+  - bluetag
+  - hardwareallthethings
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

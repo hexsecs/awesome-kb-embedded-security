@@ -8,11 +8,15 @@ url: "https://github.com/e-m-b-a/emba"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Efficient malware analysis framework for embedded firmware with scanning and reporting."
+related:
+  - embark
+  - checksec
+  - binary-ninja
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

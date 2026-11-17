@@ -8,11 +8,18 @@ url: "https://youtu.be/WNpW52x-EWY"
 status: unknown
 last_checked: 2026-11-14
 created: 2026-11-14
-updated: 2026-11-14
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: a71bc48
 list_summary: "Hardwear.io USA 2026 talk by Joe Grand: reverse engineering a real hardware implant found inside a secondhand Ledger Nano X, covering decapsulation, firmware extraction, and RF analysis of a supply-chain attack on a cryptocurrency wallet."
+related:
+  - hacking-hearts-by-reverse-engineering-pacemaker-firmware
+  - breaking-the-root-of-trust-practical-side-channel-key-extraction-from-a-tpm
+  - miasm
+  - barf
+  - binwalk
+  - embedded-hacking
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-14

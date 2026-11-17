@@ -8,11 +8,17 @@ url: "https://github.com/P1sec/QCSuper"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Captures raw 2G to 5G radio frames from Qualcomm basebands over the Diag protocol, producing PCAPs for analysis in Wireshark."
+related:
+  - vfuzz
+  - u-fuzz
+  - usb-rea
+  - wireshark-mqtt
+  - portapack-mayhem
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

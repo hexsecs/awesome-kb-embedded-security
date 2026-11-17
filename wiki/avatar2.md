@@ -8,11 +8,18 @@ url: "https://github.com/avatartwo/avatar2"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Dynamic analysis orchestration framework for binary firmware that coordinates execution across emulators (QEMU, Unicorn) and real hardware targets."
+related:
+  - firmadyne
+  - emu
+  - angr-management
+  - triton
+  - tpm2-algtest
+  - panda
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

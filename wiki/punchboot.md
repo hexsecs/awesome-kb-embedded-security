@@ -8,11 +8,18 @@ url: "https://github.com/jonasblixt/punchboot"
 status: unknown
 last_checked: 2026-11-04
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: 87ab521
 list_summary: "Secure bootloader for NXP i.MX systems that verifies signed images in the boot chain, with A/B updates and automatic rollback."
+related:
+  - mcuboot
+  - meta-raspberrypi-secure
+  - matter
+  - wolfboot
+  - trusted-firmware-a
+  - auditor
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-04

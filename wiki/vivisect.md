@@ -8,11 +8,17 @@ url: "https://github.com/vivisect/vivisect"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "A combined disassembler/static analysis/symbolic execution/debugger framework."
+related:
+  - ida-pro
+  - angr-management
+  - miasm
+  - triton
+  - emu
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

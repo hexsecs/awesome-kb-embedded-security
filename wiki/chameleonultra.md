@@ -8,11 +8,14 @@ url: "https://github.com/RfidResearchGroup/ChameleonUltra"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Pocket friendly powerful LF and HF emulation & manipulation tool which is based on the open-source project ChameleonMini."
+related:
+  - bruce
+  - emu
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

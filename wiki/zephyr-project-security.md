@@ -8,11 +8,18 @@ url: "https://docs.zephyrproject.org/latest/security/index.html"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Security documentation for the Zephyr RTOS including TF-M integration, verified boot, and security testing."
+related:
+  - u-boot-verified-boot
+  - freertos-security
+  - firmware-security-testing
+  - auditor
+  - avb-android-verified-boot
+  - sel4
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

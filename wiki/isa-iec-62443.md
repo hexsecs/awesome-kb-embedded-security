@@ -8,11 +8,18 @@ url: "https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Industrial automation and control systems security series; part 4-2 defines the component-level requirements that apply to embedded devices."
+related:
+  - common-criteria
+  - raw-gadget
+  - eu-cyber-resilience-act
+  - fips-140-3
+  - daredevil
+  - microcorruption
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

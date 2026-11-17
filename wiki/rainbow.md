@@ -8,11 +8,18 @@ url: "https://github.com/Ledger-Donjon/rainbow"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Unicorn-based simulator from Ledger's Donjon team for tracing embedded binaries to evaluate side-channel leakage and fault injection resistance without physical hardware; pairs with lascar for the analysis step."
+related:
+  - chipwhisperer
+  - hardwareallthethings
+  - lascar
+  - scared
+  - screaming-channels
+  - cve-binary-tool
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

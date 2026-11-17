@@ -8,11 +8,18 @@ url: "https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_att
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Directed exploit suite for Bluetooth Classic LMP layer vulnerabilities, targeting protocol layers inaccessible from standard host stacks; affected 1,400+ products from Intel, Qualcomm, and Broadcom. USENIX Security 2022."
+related:
+  - ble-security-attack-defence
+  - bluetoolkit
+  - firmxray
+  - sweyntooth
+  - internalblue
+  - esp32-marauder
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

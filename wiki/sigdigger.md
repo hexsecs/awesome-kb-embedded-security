@@ -8,11 +8,17 @@ url: "https://github.com/BatchDrake/SigDigger"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Real-time signal analyser with FSK, PSK, and ASK demodulation and no GNU Radio dependency, aimed at characterising unknown transmissions."
+related:
+  - gqrx
+  - gnu-radio
+  - inspectrum
+  - btlejuice
+  - portapack-mayhem
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

@@ -8,11 +8,17 @@ url: "https://github.com/nccgroup/TPMGenie"
 status: unknown
 last_checked: 2026-11-02
 created: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: 28b9855
 list_summary: "I2C bus interposer for discrete TPMs that intercepts and modifies TPM traffic for vulnerability research."
+related:
+  - wolftpm
+  - esp32-bit-pirate
+  - amd-ftpm-security-guidance
+  - ibm-software-tpm
+  - keylime
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-02

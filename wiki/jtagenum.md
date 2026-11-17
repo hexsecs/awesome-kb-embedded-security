@@ -8,11 +8,17 @@ url: "https://github.com/cyphunk/JTAGenum"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Enumerates JTAG pinouts on unknown boards by brute-force testing candidate pin mappings."
+related:
+  - jtagulator
+  - bluetag
+  - dirtyjtag
+  - firmware-security-testing
+  - apollo
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

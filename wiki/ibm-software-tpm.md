@@ -8,11 +8,18 @@ url: "https://sourceforge.net/projects/ibmswtpm2/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Software TPM 2.0 emulator for testing and development."
+related:
+  - swtpm
+  - tpm-2-0-reference-implementation
+  - breaking-the-root-of-trust-practical-side-channel-key-extraction-from-a-tpm
+  - samsung-trustzone-research-toolkit
+  - wolftpm
+  - keylime
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

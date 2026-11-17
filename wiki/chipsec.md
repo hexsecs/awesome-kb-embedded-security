@@ -8,11 +8,16 @@ url: "https://github.com/chipsec/chipsec"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Platform security assessment framework with firmware and chipset checks relevant to offline dump triage."
+related:
+  - flare-floss
+  - ghostesp
+  - fwhunt
+  - mithril
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

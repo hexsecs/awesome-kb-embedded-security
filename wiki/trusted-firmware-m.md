@@ -8,11 +8,18 @@ url: "https://trustedfirmware-m.readthedocs.io/en/latest/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Open-source secure firmware for Arm Cortex-M TrustZone systems, providing isolation, secure services, and PSA security APIs."
+related:
+  - op-tee
+  - trusted-firmware-a
+  - mtower
+  - trusty-tee
+  - ace-riscv
+  - tpm2-tss
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

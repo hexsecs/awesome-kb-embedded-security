@@ -8,11 +8,18 @@ url: "https://github.com/SideChannelMarvels/Daredevil"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Multi-core correlation power analysis tool supporting higher-order attacks, part of the SideChannelMarvels toolset."
+related:
+  - jlsca
+  - chipwhisperer
+  - scale
+  - lascar
+  - screaming-channels
+  - isa-iec-62443
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

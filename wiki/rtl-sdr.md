@@ -8,11 +8,18 @@ url: "https://www.rtl-sdr.com/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Very cheap ~$30 USB dongle that can be used as a computer based radio scanner for receiving live radio signals in your area (no internet required)."
+related:
+  - rtl-433
+  - hackrf-one
+  - whad-framework
+  - usb-rea
+  - yard-stick-one
+  - limesdr
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

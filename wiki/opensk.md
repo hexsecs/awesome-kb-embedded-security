@@ -8,11 +8,17 @@ url: "https://github.com/google/OpenSK"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Open-source FIDO2 security key firmware in Rust for embedded targets, implementing the U2F and FIDO2 authenticator standards."
+related:
+  - probe-rs
+  - tpm2-algtest
+  - tpm2-tss
+  - avatar2
+  - gdbfuzz
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

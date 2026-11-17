@@ -8,11 +8,18 @@ url: "https://github.com/Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attac
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Runnable PoC exploits for 18 BLE link-layer and L2CAP vulnerabilities across TI, NXP, Cypress, Dialog, Microchip, and STMicro SDKs, including full pairing bypass and link-layer overflows. USENIX ATC 2020."
+related:
+  - firmxray
+  - braktooth
+  - bluetoolkit
+  - ble-security-attack-defence
+  - halucinator
+  - fips-140-3
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

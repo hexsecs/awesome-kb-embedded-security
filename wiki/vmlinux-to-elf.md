@@ -8,11 +8,17 @@ url: "https://github.com/marin-m/vmlinux-to-elf"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Recovers a fully analyzable ELF from a raw kernel image by extracting the kernel symbol table (kallsyms)."
+related:
+  - inspectrum
+  - firmsolo
+  - kernel-hardening-checker
+  - raw-gadget
+  - argxtract
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

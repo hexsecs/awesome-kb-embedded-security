@@ -8,11 +8,18 @@ url: "https://www.psacertified.org/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "IoT security framework, certification scheme, and developer resources for device, silicon, software, and root-of-trust security."
+related:
+  - opentitan
+  - freertos-security
+  - caliptra
+  - root-node
+  - breaking-the-root-of-trust-practical-side-channel-key-extraction-from-a-tpm
+  - awesome-flipper-zero
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

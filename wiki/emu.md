@@ -8,11 +8,18 @@ url: "https://github.com/MCUSec/uEmu"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Infers peripheral behavior from invalid-access patterns under symbolic execution, then drives AFL-based fuzzing of bare-metal MCU firmware without physical hardware. USENIX Security 2021."
+related:
+  - afl-2
+  - fuzzware
+  - halucinator
+  - firmwire
+  - greenhouse
+  - u-fuzz
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

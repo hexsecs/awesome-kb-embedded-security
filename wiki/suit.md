@@ -8,11 +8,17 @@ url: "https://datatracker.ietf.org/wg/suit/about/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Software Update for the Internet of Things (SUIT) working group developing manifest-based firmware update architecture."
+related:
+  - the-update-framework-tuf
+  - rauc
+  - swupdate
+  - uptane
+  - intel-sgx-sdk
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

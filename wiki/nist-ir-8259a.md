@@ -8,11 +8,18 @@ url: "https://csrc.nist.gov/pubs/ir/8259/a/final"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Baseline technical capabilities expected of IoT devices, referenced by US federal procurement under the IoT Cybersecurity Improvement Act."
+related:
+  - nist-sp-800-193
+  - etsi-en-303-645
+  - fips-140-3
+  - gsma-iot-security-guidelines
+  - eu-cyber-resilience-act
+  - unece-r155
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

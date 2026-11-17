@@ -20,3 +20,20 @@ Minted the KB `uid` and a `uid` for all 253 pages with `openshelf uid`
 lifecycle: mint on stub creation, preserve verbatim on rewrites.
 Gates: ingest ×2 idempotent (0/0/0), `openshelf lint --strict` clean;
 wiki diff is exactly one added `uid:` line per page.
+
+## [2026-11-16] tooling | link_mine.py: mined `related:` cross-links for every entity page
+
+The ingester creates each page as an island (no `related:`), and until
+now links appeared only where a deepening pass wrote them by hand —
+in this KB, nowhere: all 285 entity pages carried zero cross-links.
+tools/link_mine.py is the missing machine pass: it scores page pairs
+from title/summary token overlap (IDF-weighted), category, resource
+org, and title mentions, and writes the strongest relations as a
+reciprocal `related:` block (an author-owned field the ingester
+preserves verbatim, verified: ingest reports 0/0/0 after mining).
+First run: 284 pages linked, average 5.4 related per page, one page
+(embeddedsecurity-io, a list-of-lists) with no qualifying relation.
+The daily ingest sync now runs the miner after ingest so new stubs
+land linked and neighbours gain the reciprocal link in the same
+commit. Concept candidates are mined separately by
+tools/concept_scan.py and filed as gated issues, never auto-built.

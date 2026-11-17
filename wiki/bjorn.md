@@ -8,11 +8,18 @@ url: "https://github.com/infinition/Bjorn"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT that discovers hosts, open ports, and exposed services, then runs brute-force and custom attack scripts against them."
+related:
+  - iotaudit
+  - greenhouse
+  - onepct
+  - oobscan
+  - metasploit
+  - anti-crime-ecosystem-research
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

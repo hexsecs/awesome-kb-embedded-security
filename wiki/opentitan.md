@@ -8,11 +8,15 @@ url: "https://opentitan.org/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Open-source silicon root of trust project with security-certified hardware designs and commercial-grade IP blocks."
+related:
+  - psa-certified
+  - caliptra
+  - breaking-the-root-of-trust-practical-side-channel-key-extraction-from-a-tpm
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

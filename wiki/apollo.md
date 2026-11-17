@@ -8,11 +8,18 @@ url: "https://github.com/greatscottgadgets/apollo"
 status: unknown
 last_checked: 2026-11-10
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: c7bcf4d
 list_summary: "Microcontroller-based FPGA and JTAG programmer from Great Scott Gadgets for programming and debugging FPGA targets."
+related:
+  - luna
+  - packetry
+  - greatfet
+  - open-ocd
+  - glasgow-interface-explorer
+  - urjtag
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-10

@@ -8,11 +8,18 @@ url: "https://www.ettus.com/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Ettus Research SDR family and the UHD driver stack; the platform most published cellular and wireless security research is built on."
+related:
+  - sdr
+  - dvid
+  - gnu-radio
+  - openwifi
+  - firmwire
+  - adalm-pluto-plutosdr
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

@@ -8,11 +8,16 @@ url: "https://theupdateframework.io/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Framework and specification for securing software-update systems against repository and signing-key compromise."
+related:
+  - rauc
+  - suit
+  - swupdate
+  - uptane
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

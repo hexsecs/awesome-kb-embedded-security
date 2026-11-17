@@ -8,11 +8,17 @@ url: "https://github.com/runZeroInc/oobscan"
 status: unknown
 last_checked: 2026-11-13
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: f9c95bf
 list_summary: "Scanner for out-of-band management devices (BMCs, IP-KVMs, PDUs) that audits IPMI exposure and reproduces the findings of the Black Hat USA 2026 \"Lights Out\" BMC research."
+related:
+  - onepct
+  - sdrplay-rsp
+  - iotaudit
+  - bjorn
+  - kernel-hardening-checker
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-13

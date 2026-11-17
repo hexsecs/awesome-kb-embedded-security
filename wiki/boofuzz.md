@@ -8,11 +8,18 @@ url: "https://github.com/jtpereyda/boofuzz"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Actively maintained network protocol fuzzer and the spiritual successor to Sulley, with session management, target monitoring, and protocol graph support."
+related:
+  - fuzzowski
+  - u-fuzz
+  - z-fuzzer
+  - vfuzz
+  - hardwareallthethings
+  - open5gs
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

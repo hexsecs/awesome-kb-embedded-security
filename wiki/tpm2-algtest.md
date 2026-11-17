@@ -8,11 +8,18 @@ url: "https://github.com/crocs-muni/tpm2-algtest"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Tests real TPM 2.0 chips for RNG output quality, key generation timing, algorithm support, and implementation fingerprints across 80+ firmware revisions from 6 vendors. From CRoCS (discoverers of ROCA). CHES 2024."
+related:
+  - tpm2-tss
+  - tpm-2-0-reference-implementation
+  - avatar2
+  - breaking-the-root-of-trust-practical-side-channel-key-extraction-from-a-tpm
+  - mfcuk
+  - opensk
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

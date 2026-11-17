@@ -8,11 +8,18 @@ url: "https://trustedfirmware-a.readthedocs.io/en/latest/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Reference secure-world firmware for Arm A-profile processors, providing the EL3 secure monitor and a Trusted Board Boot chain of trust following Arm's TBBR-CLIENT specification."
+related:
+  - op-tee
+  - trusted-firmware-m
+  - meta-raspberrypi-secure
+  - ace-riscv
+  - avb-android-verified-boot
+  - punchboot
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

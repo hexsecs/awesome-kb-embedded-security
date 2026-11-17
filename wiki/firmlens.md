@@ -8,11 +8,17 @@ url: "https://github.com/Srikanth-Rudrarapu/firm-lens"
 status: unknown
 last_checked: 2026-11-03
 created: 2026-11-03
-updated: 2026-11-03
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: 11620f7
 list_summary: "Research-grade analysis framework for bare-metal ESP32 firmware combining static inspection of partition tables and bootloader metadata with hardware-in-the-loop testing."
+related:
+  - firmxray
+  - embedded-hacking
+  - emu
+  - frida
+  - wolfsentry
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-03

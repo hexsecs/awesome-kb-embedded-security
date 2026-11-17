@@ -8,11 +8,18 @@ url: "https://github.com/JonathanSalwan/Triton"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Dynamic binary analysis library providing symbolic execution, taint tracking, and an SMT solver interface for x86, ARM, AArch64, and RISC-V."
+related:
+  - angr-management
+  - unicorn-engine
+  - ida-pro
+  - kernel-hardening-checker
+  - fuzzware
+  - avatar2
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

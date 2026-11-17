@@ -8,11 +8,18 @@ url: "https://github.com/evanslify/onepct"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Tooling for LLM-assisted vulnerability discovery in IoT and embedded firmware, open-sourced from a Black Hat USA talk: capability graphs that synthesize findings into attack chains, reseeding of findings across context compactions, and schema-validated subagent contracts."
+related:
+  - oobscan
+  - firmware-analysis-toolkit
+  - breaking-the-root-of-trust-practical-side-channel-key-extraction-from-a-tpm
+  - reverse-engineering-a-ledger-nano-x-hardware-implant
+  - bluetoolkit
+  - firmae
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

@@ -8,11 +8,18 @@ url: "https://github.com/mytechnotalent/Embedded-Hacking"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Free step-by-step course and PDF book building from bare-metal C on the Raspberry Pi Pico 2 through to reverse engineering the resulting firmware, published lesson by lesson."
+related:
+  - hacking-hearts-by-reverse-engineering-pacemaker-firmware
+  - reverse-engineering-a-ledger-nano-x-hardware-implant
+  - grandideastudio-com
+  - emu
+  - firmlens
+  - tigard
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

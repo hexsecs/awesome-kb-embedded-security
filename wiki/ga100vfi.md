@@ -13,6 +13,12 @@ depth: stub
 source_list: awesome-embedded-security
 source_commit: faba5c7
 list_summary: "Voltage-glitch resources for NVIDIA's GA100 GPU: PWMVID control-board hardware, STM32 firmware, register capture and analysis code, and an experiment loop."
+related:
+  - afl-2
+  - faulty-cat
+  - picoglitcher
+  - dirtyjtag
+  - ghostesp
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-16

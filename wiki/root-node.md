@@ -8,11 +8,18 @@ url: "https://github.com/LukedeMunk/root-node"
 status: unknown
 last_checked: 2026-11-07
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: 57dfc7d
 list_summary: "Intentionally vulnerable ESP8266-based IoT training device for learning embedded security hands-on: web exploitation, serial attacks, insecure storage, and firmware analysis."
+related:
+  - iotgoat
+  - dvid
+  - dvrf
+  - psa-certified
+  - esp32-bit-pirate
+  - grandideastudio-com
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-07

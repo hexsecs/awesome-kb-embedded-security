@@ -8,11 +8,18 @@ url: "https://github.com/ReFirmLabs/binwalk"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images."
+related:
+  - unblob
+  - sasquatch
+  - reverse-engineering-a-ledger-nano-x-hardware-implant
+  - firmadyne
+  - embedded-hacking
+  - hacking-hearts-by-reverse-engineering-pacemaker-firmware
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

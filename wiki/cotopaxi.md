@@ -8,11 +8,18 @@ url: "https://github.com/Samsung/cotopaxi"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Multi-protocol IoT security testing toolkit from Samsung R&D covering MQTT, CoAP, AMQP, DTLS, KNX, QUIC, RTSP, SSDP, HTTP/2, gRPC, and more; supports fingerprinting, fuzzing, and known-vulnerability identification across 14 protocols."
+related:
+  - coap-security
+  - libcoap
+  - tls-for-mqtt
+  - wireshark-mqtt
+  - firmware-analysis-toolkit
+  - firmware-security-testing
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

@@ -8,11 +8,18 @@ url: "https://github.com/tpm2-software/tpm2-tss"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Reference implementation of the TCG TPM2 Software Stack (TSS2), providing the APIs for key management and attestation."
+related:
+  - tpm-2-0-reference-implementation
+  - tpm2-algtest
+  - caliptra
+  - avb-android-verified-boot
+  - trusted-firmware-m
+  - embark
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

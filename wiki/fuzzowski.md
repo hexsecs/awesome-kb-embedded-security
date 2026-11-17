@@ -8,11 +8,17 @@ url: "https://github.com/nccgroup/fuzzowski"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "A network protocol fuzzer based on the Sulley/BooFuzz framework with support for TCP/UDP/SSL protocols."
+related:
+  - boofuzz
+  - u-fuzz
+  - z-fuzzer
+  - open5gs
+  - vfuzz
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

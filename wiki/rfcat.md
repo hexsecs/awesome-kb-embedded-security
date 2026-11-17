@@ -8,11 +8,17 @@ url: "https://github.com/atlas0fd00m/rfcat"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Firmware and Python framework for CC1111-based sub-GHz radio dongles, including the Yard Stick One listed below."
+related:
+  - yard-stick-one
+  - promptzero
+  - picoglitcher
+  - hackrf-one
+  - moria
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

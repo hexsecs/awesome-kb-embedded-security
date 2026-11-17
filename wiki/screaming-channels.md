@@ -8,11 +8,18 @@ url: "https://github.com/eurecom-s3/screaming_channels"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Attack toolkit and research artifacts for radio side-channels in mixed-signal chips, where leakage from the CPU core is unintentionally mixed onto the device's own radio transmissions and recovered at a distance."
+related:
+  - pyecsca
+  - gnu-radio
+  - rainbow
+  - scared
+  - scaaml
+  - portapack-mayhem
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

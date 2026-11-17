@@ -8,11 +8,18 @@ url: "https://github.com/LxveAce/cyber-controller"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Dashboard for flashing, controlling, and coordinating ESP32 security firmware (Marauder, Bruce, GhostESP), Flipper Zero, and Raspberry Pi hardware from one place."
+related:
+  - promptzero
+  - bruce
+  - ghostesp
+  - flipper-zero
+  - esp32-marauder
+  - awesome-flipper-zero
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

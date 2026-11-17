@@ -8,11 +8,18 @@ url: "https://github.com/xairy/raw-gadget"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Linux kernel module exposing a low-level interface to the USB Gadget subsystem for emulating arbitrary USB devices in software; it is what syzkaller uses to fuzz the kernel's USB host stack."
+related:
+  - facedancer
+  - firmsolo
+  - cynthion
+  - vmlinux-to-elf
+  - umap2
+  - snander
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

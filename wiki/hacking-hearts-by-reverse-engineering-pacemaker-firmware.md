@@ -8,11 +8,17 @@ url: "https://media.defcon.org/DEF%20CON%2034/DEF%20CON%2034%20villages%20and%20
 status: unknown
 last_checked: 2026-11-12
 created: 2026-11-12
-updated: 2026-11-12
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: 41a4183
 list_summary: "DEF CON 34 Biohacking Village talk by Marie Moe, Shayan Alinejad, and Kristian Karlsen: reverse engineering the Biotronik pacemaker ecosystem (implant, home monitoring unit, and external programmer), covering firmware extraction from life-critical hardware and the vulnerabilities found."
+related:
+  - reverse-engineering-a-ledger-nano-x-hardware-implant
+  - embedded-hacking
+  - binwalk
+  - barf
+  - ghidra
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-12

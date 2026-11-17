@@ -8,11 +8,17 @@ url: "https://github.com/quarkslab/samsung-trustzone-research"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Quarkslab's RE toolkit for Samsung Kinibi TrustZone: Ghidra loader for MCLF trustlet binaries, Unicorn-based trustlet emulator for exploit development, and Python bindings for communicating with Trusted Applications."
+related:
+  - firmware-analysis-toolkit
+  - ibm-software-tpm
+  - ghidra
+  - unicorn-engine
+  - cotopaxi
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

@@ -8,11 +8,18 @@ url: "https://github.com/slimm609/checksec"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Go tool reporting binary hardening flags (NX, PIE, RELRO, stack canary, FORTIFY_SOURCE) on ELF executables extracted from firmware, with JSON and XML output and kernel config auditing; rewritten from the original shell script."
+related:
+  - patcherex2
+  - cwe-checker
+  - lief
+  - dewolf
+  - ghidriff
+  - flare-floss
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

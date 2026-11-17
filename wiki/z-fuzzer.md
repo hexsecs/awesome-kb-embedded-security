@@ -8,11 +8,18 @@ url: "https://github.com/zigbeeprotocol/Z-Fuzzer"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Coverage-guided Zigbee protocol fuzzer using a software simulator with pre-defined peripheral and interrupt configurations; found 6 CVEs in TI Z-Stack. ACM Digital Threats 2022."
+related:
+  - afl-2
+  - afl
+  - u-fuzz
+  - vfuzz
+  - fuzzware
+  - honggfuzz
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

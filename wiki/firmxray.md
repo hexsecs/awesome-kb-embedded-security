@@ -8,11 +8,18 @@ url: "https://github.com/OSUSecLab/FirmXRay"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Ghidra-based static analysis that finds Bluetooth link-layer vulnerabilities in bare-metal Cortex-M firmware built on Nordic and TI BLE SDKs. CCS 2020."
+related:
+  - sweyntooth
+  - operation-mango
+  - nrf-sniffer-for-bluetooth-le
+  - firmlens
+  - braktooth
+  - ghidra
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

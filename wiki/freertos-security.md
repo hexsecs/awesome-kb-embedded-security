@@ -8,11 +8,16 @@ url: "https://www.freertos.org/Security/01-Security-overview"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Security features and documentation for FreeRTOS including MQTT over TLS, PKCS#11, and PSA Certified implementation."
+related:
+  - tls-for-mqtt
+  - psa-certified
+  - zephyr-project-security
+  - wolfmqtt
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

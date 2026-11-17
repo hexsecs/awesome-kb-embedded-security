@@ -8,11 +8,18 @@ url: "https://docs.flipper.net/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Portable multi-tool for pentesters and geeks in a toy-like body. It loves hacking digital stuff, such as radio protocols, access control systems, hardware and more."
+related:
+  - awesome-flipper-zero
+  - cyber-controller
+  - promptzero
+  - nfc-apdu-spy
+  - sdrangel
+  - yard-stick-one
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

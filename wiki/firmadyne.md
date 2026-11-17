@@ -8,11 +8,18 @@ url: "https://github.com/firmadyne/firmadyne"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Automated system for emulating and analyzing Linux-based embedded firmware; extracts and boots firmware images in QEMU to enable dynamic vulnerability discovery."
+related:
+  - greenhouse
+  - avatar2
+  - firmae
+  - firmware-analysis-toolkit
+  - firmenstein
+  - binwalk
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

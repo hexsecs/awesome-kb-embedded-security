@@ -8,11 +8,18 @@ url: "https://github.com/ElectronicCats/faultycat"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Low-cost open hardware EMFI tool from Electronic Cats built on an RP2040, offering both electromagnetic and crowbar voltage-glitching fault injection with single-shot and parameter-sweep campaign modes."
+related:
+  - picoglitcher
+  - picoemp
+  - chipshouter
+  - em-fault-it-yourself
+  - scale
+  - ga100vfi
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

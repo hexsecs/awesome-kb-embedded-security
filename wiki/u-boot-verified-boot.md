@@ -8,11 +8,17 @@ url: "https://docs.u-boot.org/en/latest/usage/fit/verified-boot.html"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "FIT-signature based verified boot support for embedded Linux boot chains."
+related:
+  - avb-android-verified-boot
+  - auditor
+  - meta-raspberrypi-secure
+  - zephyr-project-security
+  - wolfboot
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

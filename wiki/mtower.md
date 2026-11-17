@@ -8,11 +8,18 @@ url: "https://github.com/Samsung/mTower"
 status: unknown
 last_checked: 2026-11-14
 created: 2026-11-14
-updated: 2026-11-14
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: a71bc48
 list_summary: "Trusted execution environment for Cortex-M and RISC-V microcontrollers with GlobalPlatform APIs, designed for size-constrained IoT devices."
+related:
+  - trusted-firmware-m
+  - ace-riscv
+  - op-tee
+  - trusty-tee
+  - trusted-firmware-a
+  - tock-os
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-14

@@ -8,11 +8,17 @@ url: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A42021X0387"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "UN vehicle regulation requiring a certified cybersecurity management system for type approval, mandatory for new EU vehicle types since July 2022."
+related:
+  - unece-r156
+  - eu-cyber-resilience-act
+  - nist-ir-8259a
+  - common-criteria
+  - btlejuice
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

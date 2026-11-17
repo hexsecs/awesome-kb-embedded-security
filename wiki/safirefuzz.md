@@ -8,11 +8,17 @@ url: "https://github.com/pr0me/SAFIREFUZZ"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Rewrites ARM Cortex-M firmware via dynamic binary rewriting to run as a Linux userspace process on ARM servers, achieving ~600× the fuzzing throughput of HALucinator. USENIX Security 2023."
+related:
+  - fuzzware
+  - firmsolo
+  - triton
+  - libfuzzer
+  - argxtract
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

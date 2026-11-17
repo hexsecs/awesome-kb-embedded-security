@@ -8,11 +8,17 @@ url: "https://github.com/miek/inspectrum"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Offline analyser for captured IQ recordings, with cursors for measuring symbol rates and extracting bits from an unknown modulation."
+related:
+  - sigdigger
+  - vmlinux-to-elf
+  - gqrx
+  - hydradancer
+  - packetry
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

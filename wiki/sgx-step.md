@@ -8,11 +8,17 @@ url: "https://github.com/jovanbulck/sgx-step"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Framework for precise single-stepping of SGX enclaves to enable controlled-channel and side-channel attacks."
+related:
+  - chipwhisperer
+  - jlsca
+  - scale
+  - breaking-the-root-of-trust-practical-side-channel-key-extraction-from-a-tpm
+  - intel-sgx-sdk
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

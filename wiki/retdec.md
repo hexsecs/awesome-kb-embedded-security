@@ -8,11 +8,18 @@ url: "https://github.com/avast/retdec"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Retargetable machine-code decompiler from Avast supporting ARM, MIPS, x86, and other architectures common in embedded firmware."
+related:
+  - patcherex2
+  - gef
+  - unicorn-engine
+  - dvrf
+  - mitre-ectf
+  - qiling
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

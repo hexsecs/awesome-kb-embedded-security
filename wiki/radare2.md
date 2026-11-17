@@ -8,11 +8,18 @@ url: "https://www.radare.org/n/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "A free/libre toolchain for easing several low level tasks like forensics, software reverse engineering, exploiting, debugging. It is composed by a bunch of libraries (which are extended with plugins) and programs that can be automated with almost any programming language."
+related:
+  - glasgow-interface-explorer
+  - rizin
+  - reverse-engineering-a-ledger-nano-x-hardware-implant
+  - barf
+  - ghidra
+  - proxmark3
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

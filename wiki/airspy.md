@@ -8,11 +8,17 @@ url: "https://airspy.com/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Receive-only SDRs with high dynamic range and front-end filtering, covering HF through 1.8 GHz depending on model."
+related:
+  - satc
+  - yard-stick-one
+  - tock-os
+  - sdrplay-rsp
+  - microcorruption
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

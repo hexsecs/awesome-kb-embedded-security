@@ -8,11 +8,17 @@ url: "https://github.com/microsoft/side-channel-fuzzer"
 status: unknown
 last_checked: 2026-11-02
 created: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: c1b5a24
 list_summary: "Model-based relational fuzzer from Microsoft that runs random programs on real x86 CPUs and checks hardware execution traces against speculation contracts to surface Spectre-class side-channel leaks."
+related:
+  - fwhunt
+  - u-fuzz
+  - z-fuzzer
+  - kernel-hardening-checker
+  - afl-2
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-02

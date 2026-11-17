@@ -8,11 +8,18 @@ url: "https://www.wireshark.org/docs/dfref/m/mqtt.html"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Protocol analyzer support for MQTT traffic inspection and security analysis."
+related:
+  - tls-for-mqtt
+  - cynthion
+  - nrf-sniffer-for-bluetooth-le
+  - cotopaxi
+  - qcsuper
+  - wolfmqtt
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

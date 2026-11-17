@@ -8,11 +8,18 @@ url: "https://youtu.be/hk-Yyuh4cM8"
 status: unknown
 last_checked: 2026-11-14
 created: 2026-11-14
-updated: 2026-11-14
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: a71bc48
 list_summary: "Hardwear.io USA 2026 talk by Roman Korkikian: power side-channel extraction of ECDH private keys from a commercial TPM using a roughly $2,000 measurement setup, plus SPI bus sniffing of vault keys and PCR values."
+related:
+  - reverse-engineering-a-ledger-nano-x-hardware-implant
+  - opentitan
+  - chipwhisperer
+  - scale
+  - sgx-step
+  - ibm-software-tpm
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-14

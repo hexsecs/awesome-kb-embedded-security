@@ -8,11 +8,18 @@ url: "https://github.com/GrapheneOS/Auditor"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Hardware-based attestation app for Android that verifies a device's verified boot state and OS integrity from a second device."
+related:
+  - u-boot-verified-boot
+  - meta-raspberrypi-secure
+  - avb-android-verified-boot
+  - matter
+  - punchboot
+  - sel4
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

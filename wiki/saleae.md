@@ -8,11 +8,18 @@ url: "https://www.saleae.com/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Commercial logic analyzer hardware ($149–$499+) with proprietary software; widely used for decoding SPI, I2C, UART, and other embedded protocols."
+related:
+  - glasgow-interface-explorer
+  - snander
+  - jtagulator
+  - esp32-bit-pirate
+  - hydrabus
+  - logicanalyzer
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

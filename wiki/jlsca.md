@@ -8,11 +8,18 @@ url: "https://github.com/Keysight/Jlsca"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Side-channel analysis toolkit in Julia, geared toward correlation and linear regression attacks over large trace sets."
+related:
+  - pyecsca
+  - scaaml
+  - scared
+  - chipwhisperer
+  - scale
+  - sgx-step
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

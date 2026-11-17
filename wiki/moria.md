@@ -8,11 +8,18 @@ url: "https://github.com/nmatt0/moria"
 status: unknown
 last_checked: 2026-11-03
 created: 2026-11-03
-updated: 2026-11-03
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: 11620f7
 list_summary: "Identifies files and structures embedded in firmware and IoT images, including filesystems, kernels, bootloaders, archives, and keys, and unpacks most of what it finds, reporting each finding with a byte offset and confidence score."
+related:
+  - mithril
+  - kaitai-struct
+  - fwanalyzer-firmware-analyzer
+  - dice
+  - syft
+  - uefitool
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-03

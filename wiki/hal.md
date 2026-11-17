@@ -8,11 +8,17 @@ url: "https://github.com/emsec/hal"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Netlist reverse engineering and manipulation framework that parses FPGA and ASIC netlists into a graph representation for traversal and analysis, with a C++ core and Python bindings."
+related:
+  - reverse-engineering-a-ledger-nano-x-hardware-implant
+  - glasgow-interface-explorer
+  - argxtract
+  - halucinator
+  - barf
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

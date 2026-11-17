@@ -8,11 +8,18 @@ url: "https://github.com/mcu-tools/mcuboot"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Secure bootloader for 32-bit microcontrollers supporting signed images, rollback protection, and measured boot flows."
+related:
+  - punchboot
+  - meta-raspberrypi-secure
+  - wolfboot
+  - matter
+  - caliptra
+  - rpi-sb-provisioner
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

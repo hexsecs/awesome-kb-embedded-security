@@ -8,11 +8,18 @@ url: "https://android.googlesource.com/platform/external/avb/+/master/README.md"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Reference implementation and design guidance for chained trust and verified partitions in embedded Android systems."
+related:
+  - u-boot-verified-boot
+  - trusted-firmware-a
+  - auditor
+  - meta-raspberrypi-secure
+  - tpm-2-0-reference-implementation
+  - tpm2-tss
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

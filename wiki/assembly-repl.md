@@ -8,11 +8,13 @@ url: "https://github.com/pirate/assembly-repl"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Native assembly, LLVM IR, C, C++, and Objective-C REPLs for macOS and Linux."
+related:
+  - frida
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

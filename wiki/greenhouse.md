@@ -8,11 +8,18 @@ url: "https://github.com/sefcom/greenhouse"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "User-space rehosting of single network services from Linux-based firmware, using a patched QEMU and AFL++ for fuzzing; rehosted 2,841 of 7,140 images from nine vendors. USENIX Security 2023."
+related:
+  - firmenstein
+  - emu
+  - firmadyne
+  - afl
+  - afl-2
+  - owasp-iot-security-verification-standard
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

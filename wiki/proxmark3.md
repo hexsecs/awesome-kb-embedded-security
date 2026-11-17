@@ -8,11 +8,17 @@ url: "https://github.com/RfidResearchGroup/proxmark3"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Open-source RFID research platform for low-level interaction, analysis, and testing across a wide range of LF and HF tags and systems."
+related:
+  - urjtag
+  - mifareclassictool
+  - firmware-security-testing
+  - openwifi
+  - radare2
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

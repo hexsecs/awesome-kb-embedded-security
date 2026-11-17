@@ -8,11 +8,18 @@ url: "https://github.com/cea-sec/miasm"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Reverse engineering framework with its own intermediate language, a JIT emulator, and symbolic execution, covering MSP430 and MIPS alongside the usual architectures."
+related:
+  - reverse-engineering-a-ledger-nano-x-hardware-implant
+  - emu
+  - swtpm
+  - angr-management
+  - ida-pro
+  - vivisect
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

@@ -8,11 +8,17 @@ url: "https://github.com/OWASP/IoTGoat"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "OWASP intentionally insecure firmware for Raspberry Pi and x86 platforms, providing hands-on practice for the OWASP IoT Top 10 vulnerabilities."
+related:
+  - owasp-iot-security-verification-standard
+  - root-node
+  - owasp-iot-security-testing-guide
+  - triton
+  - unicorn-engine
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

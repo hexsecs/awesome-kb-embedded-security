@@ -8,11 +8,16 @@ url: "https://www.wolfssl.com/products/wolfmqtt/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "MQTT client library with TLS support optimized for embedded systems."
+related:
+  - tls-for-mqtt
+  - freertos-security
+  - cotopaxi
+  - wireshark-mqtt
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

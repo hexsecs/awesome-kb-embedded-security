@@ -8,11 +8,16 @@ url: "https://github.com/vulhunt-re/vulhunt"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Lua-rule-based vulnerability detection framework from Binarly's research team that operates across disassembly, IR, and decompiled code simultaneously, with dedicated UEFI module scanning support."
+related:
+  - anti-crime-ecosystem-research
+  - capstone
+  - fwhunt
+  - cert-uefi-parser
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

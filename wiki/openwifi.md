@@ -8,11 +8,18 @@ url: "https://github.com/open-sdr/openwifi"
 status: unknown
 last_checked: 2026-11-10
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: c7bcf4d
 list_summary: "Open-source IEEE 802.11 Wi-Fi baseband implementation for FPGA and SDR platforms, enabling low-level wireless research and custom access-point builds."
+related:
+  - luna
+  - osmocombb
+  - glasgow-interface-explorer
+  - sdr
+  - usrp
+  - maia-sdr
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-10

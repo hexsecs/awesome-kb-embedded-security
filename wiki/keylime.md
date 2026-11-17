@@ -8,11 +8,18 @@ url: "https://keylime.dev/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Open source TPM-based remote attestation for cloud and edge."
+related:
+  - caliptra
+  - tpm2-tss
+  - amd-ftpm-security-guidance
+  - ibm-software-tpm
+  - swtpm
+  - tpmgenie
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

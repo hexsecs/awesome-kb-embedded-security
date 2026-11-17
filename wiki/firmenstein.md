@@ -8,11 +8,18 @@ url: "https://github.com/Firmenstein/Firmenstein"
 status: unknown
 last_checked: 2026-11-11
 created: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: f5d3358
 list_summary: "Agent-driven rehosting of Linux firmware services for dynamic analysis, synthesizing API-level interventions to resolve environment dependencies. USENIX Security 2026."
+related:
+  - greenhouse
+  - firmadyne
+  - swupdate
+  - trusty-tee
+  - firmsolo
+  - qiling
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-11

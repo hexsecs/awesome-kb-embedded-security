@@ -8,11 +8,18 @@ url: "https://github.com/pr0v3rbs/FirmAE"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "An automated framework for emulation and vulnerability analysis of IoT firmware with an 79% success rate using arbitration techniques."
+related:
+  - firmware-analysis-toolkit
+  - firmadyne
+  - firmware-analysis-and-comparison-tool-fact
+  - onepct
+  - halucinator
+  - rt-thread-security
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

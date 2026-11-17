@@ -8,11 +8,16 @@ url: "https://www.sleuthkit.org/sleuthkit/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "File system forensic toolkit for carving and examining recovered NAND/eMMC/UFS image dumps."
+related:
+  - firmware-analysis-toolkit
+  - nando
+  - snander
+  - kaitai-struct
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

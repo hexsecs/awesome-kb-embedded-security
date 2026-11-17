@@ -8,11 +8,17 @@ url: "https://github.com/RogueMaster/awesome-flipperzero-withModules"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "A collection of Awesome resources for the Flipper Zero device."
+related:
+  - flipper-zero
+  - nfc-apdu-spy
+  - cyber-controller
+  - promptzero
+  - psa-certified
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

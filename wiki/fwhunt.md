@@ -8,11 +8,18 @@ url: "https://github.com/binarly-io/fwhunt-scan"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Scanner from Binarly that checks UEFI modules and whole firmware images against YAML rules describing known-vulnerable and backdoored components, built on Rizin and usable as a library."
+related:
+  - cve-binary-tool
+  - uefitool
+  - fwanalyzer-firmware-analyzer
+  - grype
+  - cert-uefi-parser
+  - dvid
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

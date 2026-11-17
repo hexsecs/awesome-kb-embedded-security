@@ -8,11 +8,18 @@ url: "https://llvm.org/docs/LibFuzzer.html"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "In-process, coverage-guided, evolutionary fuzzing engine integrated with LLVM."
+related:
+  - fuzzware
+  - honggfuzz
+  - afl
+  - safirefuzz
+  - z-fuzzer
+  - bettercap-ble
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

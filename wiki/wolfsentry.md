@@ -8,11 +8,17 @@ url: "https://github.com/wolfSSL/wolfsentry"
 status: unknown
 last_checked: 2026-11-04
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: 87ab521
 list_summary: "Embedded firewall and intrusion detection and prevention engine for RTOS and bare-metal targets, integrating with lwIP and configurable via JSON policies."
+related:
+  - frida
+  - wolfssh
+  - embedded-hacking
+  - emu
+  - firmlens
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-04

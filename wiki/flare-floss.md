@@ -8,11 +8,18 @@ url: "https://github.com/mandiant/flare-floss"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "FLARE Obfuscated String Solver that automatically extracts obfuscated, encoded, and stack strings from binaries for rapid firmware triage."
+related:
+  - satc
+  - argxtract
+  - checksec
+  - lief
+  - chipsec
+  - ubi-reader
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

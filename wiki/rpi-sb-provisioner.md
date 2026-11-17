@@ -8,11 +8,17 @@ url: "https://github.com/raspberrypi/rpi-sb-provisioner"
 status: unknown
 last_checked: 2026-11-14
 created: 2026-11-14
-updated: 2026-11-14
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: a71bc48
 list_summary: "Automated provisioning station that programs secure boot and storage encryption on Raspberry Pi devices over USB."
+related:
+  - meta-raspberrypi-secure
+  - mcuboot
+  - punchboot
+  - trusted-firmware-a
+  - matter
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-14

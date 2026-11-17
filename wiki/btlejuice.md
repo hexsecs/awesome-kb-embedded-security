@@ -8,11 +8,18 @@ url: "https://github.com/DigitalSecurity/btlejuice"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Bluetooth Low Energy MITM proxy framework for real-time interception and manipulation of BLE communications. Archived since 2018; see BtleJack or the WHAD Framework for maintained alternatives."
+related:
+  - ble-security-attack-defence
+  - nrf-sniffer-for-bluetooth-le
+  - whad-framework
+  - bluetoolkit
+  - akheron-proxy
+  - gattacker
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

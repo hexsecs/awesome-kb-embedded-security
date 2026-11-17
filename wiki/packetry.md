@@ -8,11 +8,18 @@ url: "https://github.com/greatscottgadgets/packetry"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Great Scott Gadgets' USB 2.0 protocol analysis application, decoding traffic captured live by Cynthion or loaded from pcap files."
+related:
+  - luna
+  - cynthion
+  - greatfet
+  - apollo
+  - usb-rea
+  - openvizsla
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

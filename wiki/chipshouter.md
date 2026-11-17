@@ -8,11 +8,18 @@ url: "https://github.com/newaetech/ChipSHOUTER"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Benchtop electromagnetic fault injection platform from NewAE with a documented Python API and published schematic; the hardware itself is not open, unlike the PicoEMP derived from it."
+related:
+  - faulty-cat
+  - picoemp
+  - picoglitcher
+  - chipwhisperer
+  - em-fault-it-yourself
+  - darkmoon
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

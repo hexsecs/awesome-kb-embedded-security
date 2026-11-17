@@ -8,11 +8,18 @@ url: "https://www.sdrpp.org/"
 status: unknown
 last_checked: 2026-11-08
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: 72bb336
 list_summary: "Cross-platform SDR receiver with a modular plugin architecture."
+related:
+  - maia-sdr
+  - gqrx
+  - usrp
+  - sdrangel
+  - bladerf
+  - limesdr
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-08

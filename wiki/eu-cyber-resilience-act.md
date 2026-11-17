@@ -8,11 +8,18 @@ url: "https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Regulation 2024/2847, setting security requirements and vulnerability reporting obligations for products with digital elements sold in the EU."
+related:
+  - rt-thread-security
+  - cyber-controller
+  - nist-ir-8259a
+  - common-criteria
+  - unece-r155
+  - isa-iec-62443
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

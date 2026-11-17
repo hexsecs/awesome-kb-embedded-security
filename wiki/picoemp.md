@@ -8,11 +8,18 @@ url: "https://github.com/newaetech/chipshouter-picoemp"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "NewAE's open hardware EMFI tool built on a Raspberry Pi Pico and photographic-flash transformer circuit; the community standard entry-level electromagnetic fault injection platform."
+related:
+  - faulty-cat
+  - chipshouter
+  - bluetag
+  - embedded-hacking
+  - logicanalyzer
+  - dewolf
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

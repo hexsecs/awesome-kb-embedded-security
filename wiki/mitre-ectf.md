@@ -8,11 +8,18 @@ url: "https://ectf.mitre.org/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Annual collegiate \"build-then-break\" competition where teams harden and then attack each other's firmware on real ARM Cortex-M microcontrollers; open source tooling and insecure reference designs published each year."
+related:
+  - pyocd
+  - pyecsca
+  - retdec
+  - afl-2
+  - argxtract
+  - intel-sgx-sdk
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

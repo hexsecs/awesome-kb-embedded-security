@@ -8,11 +8,17 @@ url: "https://www.bettercap.org/modules/ble/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "BLE scanning, enumeration, and characteristic read/write module integrated into the bettercap Swiss-army knife framework."
+related:
+  - ble-security-attack-defence
+  - gattacker
+  - libfuzzer
+  - pwnagotchi
+  - bleeding
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

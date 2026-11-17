@@ -8,11 +8,17 @@ url: "https://github.com/GainSec/anti-crime-ecosystem-research"
 status: unknown
 last_checked: 2026-11-07
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: e0ac2f7
 list_summary: "Independent white paper documenting 51 security findings, 22 with assigned CVEs, across gunshot detection systems, license plate readers, and compute modules."
+related:
+  - vulhunt
+  - fips-140-3
+  - wifisting
+  - bjorn
+  - libnfc
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-07

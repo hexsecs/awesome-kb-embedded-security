@@ -8,11 +8,18 @@ url: "https://github.com/danpage/scale"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Side-Channel Attack Lab Exercises providing educational material for learning power analysis attacks with low-cost hardware."
+related:
+  - chipwhisperer
+  - scaaml
+  - jlsca
+  - breaking-the-root-of-trust-practical-side-channel-key-extraction-from-a-tpm
+  - sgx-step
+  - daredevil
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

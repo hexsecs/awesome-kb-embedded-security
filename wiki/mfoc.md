@@ -8,11 +8,17 @@ url: "https://github.com/nfc-tools/mfoc"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Nested attack that recovers the remaining MIFARE Classic sector keys once one key is known; pairs with MFCUK."
+related:
+  - mfoc-hardnested
+  - mfcuk
+  - mifareclassictool
+  - mithril
+  - libnfc
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

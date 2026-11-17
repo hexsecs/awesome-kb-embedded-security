@@ -8,11 +8,18 @@ url: "https://github.com/rapid7/metasploit-framework"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Open source penetration testing framework (BSD licensed) maintained by Rapid7, with modules for exploiting vulnerabilities, scanning, and post-exploitation across embedded Linux and IoT targets."
+related:
+  - darkmoon
+  - expliot
+  - hardwareallthethings
+  - firmware-security-testing
+  - owasp-iot-security-testing-guide
+  - bjorn
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

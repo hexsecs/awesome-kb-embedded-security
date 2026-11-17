@@ -8,11 +8,18 @@ url: "https://github.com/newaetech/chipwhisperer"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "An open-source toolchain for side-channel power analysis and fault injection attacks with complete hardware and software stack."
+related:
+  - scale
+  - rainbow
+  - hardwareallthethings
+  - jlsca
+  - breaking-the-root-of-trust-practical-side-channel-key-extraction-from-a-tpm
+  - sgx-step
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

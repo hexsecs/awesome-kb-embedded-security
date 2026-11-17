@@ -8,11 +8,17 @@ url: "https://mender.io/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Over-the-air software updater for Linux IoT devices with atomic updates and rollback."
+related:
+  - fwupd
+  - matter
+  - punchboot
+  - unece-r156
+  - swupdate
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

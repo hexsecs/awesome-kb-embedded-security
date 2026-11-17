@@ -8,11 +8,17 @@ url: "https://limemicro.com/sdr/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Open-hardware full-duplex MIMO SDR with open drivers (LimeSuite, SoapySDR), widely used for LTE and 5G experimentation."
+related:
+  - bladerf
+  - sdr
+  - adalm-pluto-plutosdr
+  - saleae
+  - rtl-sdr
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

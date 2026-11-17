@@ -8,11 +8,18 @@ url: "https://github.com/capstone-engine/capstone"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Lightweight multi-platform, multi-architecture disassembly framework. Their target is to make Capstone the ultimate disassembly engine for binary analysis and reversing in the security community."
+related:
+  - keystone
+  - unicorn-engine
+  - angr
+  - angr-management
+  - ida-pro
+  - bindiff
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

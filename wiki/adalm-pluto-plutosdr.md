@@ -8,11 +8,17 @@ url: "https://www.analog.com/en/resources/evaluation-hardware-and-software/evalu
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Active learning module (PlutoSDR) used to explore software-defined radio, RF experimentation, and wireless communications."
+related:
+  - maia-sdr
+  - hackrf-one
+  - yard-stick-one
+  - limesdr
+  - usrp
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

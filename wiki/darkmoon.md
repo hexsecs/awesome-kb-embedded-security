@@ -8,11 +8,18 @@ url: "https://github.com/ASCIT31/Dark-Moon"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes surfaces; an LLM orchestrates specialist agents and offensive tools over MCP and proves each finding with a real exploit."
+related:
+  - firmware-analysis-and-comparison-tool-fact
+  - metasploit
+  - firmware-security-testing
+  - owasp-iot-security-testing-guide
+  - chipshouter
+  - fwanalyzer-firmware-analyzer
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

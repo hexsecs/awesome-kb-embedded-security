@@ -8,11 +8,18 @@ url: "https://github.com/fkie-cad/cwe_checker"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Binary analysis tool that checks ELF binaries for violations of Common Weakness Enumerations (CWEs) using abstract interpretation, with cross-architecture support."
+related:
+  - lief
+  - checksec
+  - ofrak
+  - sdr
+  - kernel-hardening-checker
+  - cve-binary-tool
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

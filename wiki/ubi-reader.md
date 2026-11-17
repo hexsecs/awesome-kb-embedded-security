@@ -8,11 +8,17 @@ url: "https://github.com/onekey-sec/ubi_reader"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-16
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Extracts UBI and UBIFS images, the raw-NAND filesystem format that generic carvers handle poorly."
+related:
+  - fwanalyzer-firmware-analyzer
+  - unblob
+  - firmadyne
+  - argxtract
+  - flare-floss
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01
