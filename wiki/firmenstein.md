@@ -8,7 +8,7 @@ url: "https://github.com/Firmenstein/Firmenstein"
 status: unknown
 last_checked: 2026-11-11
 created: 2026-11-11
-updated: 2026-11-16
+updated: 2026-11-17
 depth: stub
 source_list: awesome-embedded-security
 source_commit: f5d3358
@@ -17,8 +17,15 @@ related:
   - greenhouse
   - firmadyne
   - swupdate
-  - trusty-tee
   - firmsolo
+  - trusty-tee
+  - qiling
+related:
+  - greenhouse
+  - firmadyne
+  - swupdate
+  - firmsolo
+  - trusty-tee
   - qiling
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"

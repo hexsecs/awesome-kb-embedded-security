@@ -8,13 +8,19 @@ url: "https://developer.amd.com/sev/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-17
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Secure Encrypted Virtualization for encrypting VM memory with AMD-V hardware assistance."
 related:
   - amd-ftpm-security-guidance
+  - teaclave-trustzone-sdk
+  - meta-raspberrypi-secure
+  - em-fault-it-yourself
+related:
+  - amd-ftpm-security-guidance
+  - teaclave-trustzone-sdk
   - meta-raspberrypi-secure
   - em-fault-it-yourself
 sources:

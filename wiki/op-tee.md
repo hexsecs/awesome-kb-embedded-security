@@ -8,7 +8,7 @@ url: "https://optee.readthedocs.io/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-17
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -16,6 +16,14 @@ list_summary: "Open Source Trusted Execution Environment providing isolation for
 related:
   - trusted-firmware-m
   - trusted-firmware-a
+  - teaclave-trustzone-sdk
+  - trusty-tee
+  - ace-riscv
+  - mtower
+related:
+  - trusted-firmware-m
+  - trusted-firmware-a
+  - teaclave-trustzone-sdk
   - trusty-tee
   - ace-riscv
   - mtower

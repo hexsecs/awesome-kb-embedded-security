@@ -8,7 +8,7 @@ url: "https://www.rtl-sdr.com/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-17
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -19,7 +19,14 @@ related:
   - whad-framework
   - usb-rea
   - yard-stick-one
-  - limesdr
+  - suit
+related:
+  - rtl-433
+  - hackrf-one
+  - whad-framework
+  - usb-rea
+  - yard-stick-one
+  - suit
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

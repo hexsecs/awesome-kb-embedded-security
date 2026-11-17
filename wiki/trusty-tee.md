@@ -8,7 +8,7 @@ url: "https://source.android.com/docs/security/features/trusty"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-17
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -16,9 +16,16 @@ list_summary: "Trusted Execution Environment used in Android for secure services
 related:
   - op-tee
   - trusted-firmware-m
+  - teaclave-trustzone-sdk
   - ace-riscv
   - mtower
-  - trusted-firmware-a
+  - firmenstein
+related:
+  - op-tee
+  - trusted-firmware-m
+  - teaclave-trustzone-sdk
+  - ace-riscv
+  - mtower
   - firmenstein
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"

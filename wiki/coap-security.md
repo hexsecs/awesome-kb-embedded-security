@@ -8,7 +8,7 @@ url: "https://datatracker.ietf.org/doc/html/rfc7252"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-17
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -17,6 +17,13 @@ related:
   - cotopaxi
   - libcoap
   - packetry
+  - wolfssl
+  - mtower
+related:
+  - cotopaxi
+  - libcoap
+  - packetry
+  - wolfssl
   - mtower
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"

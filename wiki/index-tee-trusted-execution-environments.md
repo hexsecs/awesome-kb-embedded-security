@@ -7,5 +7,6 @@
 - [OP-TEE](op-tee.md) — Open Source Trusted Execution Environment providing isolation for secure world execution on ARM TrustZone processors.
 - [Samsung TrustZone Research Toolkit](samsung-trustzone-research-toolkit.md) — Quarkslab's RE toolkit for Samsung Kinibi TrustZone: Ghidra loader for MCLF trustlet binaries, Unicorn-based trustlet emulator for exploit development, and…
 - [sgx-step](sgx-step.md) — Framework for precise single-stepping of SGX enclaves to enable controlled-channel and side-channel attacks.
+- [Teaclave TrustZone SDK](teaclave-trustzone-sdk.md) — Rust SDK for developing ARM TrustZone trustlets on OP-TEE, with memory-safe APIs for secure-world services.
 - [Trusted Firmware-M](trusted-firmware-m.md) — Open-source secure firmware for Arm Cortex-M TrustZone systems, providing isolation, secure services, and PSA security APIs.
 - [Trusty TEE](trusty-tee.md) — Trusted Execution Environment used in Android for secure services and keystore.

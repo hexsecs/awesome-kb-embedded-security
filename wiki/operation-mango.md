@@ -8,7 +8,7 @@ url: "https://github.com/sefcom/operation-mango-public"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-17
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -17,8 +17,14 @@ related:
   - firmxray
   - emtaint
   - karonte
-  - greenhouse
   - patcherex2
+  - greenhouse
+related:
+  - firmxray
+  - emtaint
+  - karonte
+  - patcherex2
+  - greenhouse
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

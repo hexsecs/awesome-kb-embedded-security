@@ -15,10 +15,10 @@ Generated from page frontmatter by tools/ingest.py; do not edit by hand.
 - [Security Auditing Frameworks](wiki/index-security-auditing-frameworks.md) — 11 entries
 - [Firmware Taint Analysis](wiki/index-firmware-taint-analysis.md) — 4 entries
 - [RTOS Security](wiki/index-rtos-security.md) — 6 entries
-- [TEE/Trusted Execution Environments](wiki/index-tee-trusted-execution-environments.md) — 9 entries
+- [TEE/Trusted Execution Environments](wiki/index-tee-trusted-execution-environments.md) — 10 entries
 - [Root of Trust and TPM](wiki/index-root-of-trust-and-tpm.md) — 12 entries
 - [OTA Update Security](wiki/index-ota-update-security.md) — 7 entries
-- [IoT Protocol Security](wiki/index-iot-protocol-security.md) — 10 entries
+- [IoT Protocol Security](wiki/index-iot-protocol-security.md) — 11 entries
 - [Bluetooth and BLE Security](wiki/index-bluetooth-and-ble-security.md) — 12 entries
 - [Zigbee / Z-Wave Security](wiki/index-zigbee-z-wave-security.md) — 3 entries
 - [Baseband Security](wiki/index-baseband-security.md) — 6 entries

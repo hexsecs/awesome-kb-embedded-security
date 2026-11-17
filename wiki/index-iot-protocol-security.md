@@ -10,3 +10,4 @@
 - [Wireshark MQTT](wireshark-mqtt.md) — Protocol analyzer support for MQTT traffic inspection and security analysis.
 - [wolfMQTT](wolfmqtt.md) — MQTT client library with TLS support optimized for embedded systems.
 - [wolfSSH](wolfssh.md) — Small, fast, portable SSH library with SCP and SFTP support, built for embedded and RTOS targets.
+- [wolfSSL](wolfssl.md) — Small, fast, portable TLS implementation for embedded and RTOS targets, with support for TLS 1.3 and DTLS 1.3.

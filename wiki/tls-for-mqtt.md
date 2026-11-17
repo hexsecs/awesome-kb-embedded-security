@@ -8,7 +8,7 @@ url: "https://mqtt.org/faq/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-17
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -16,6 +16,14 @@ list_summary: "Overview of TLS implementation for MQTT brokers and clients."
 related:
   - freertos-security
   - wolfmqtt
+  - wolfssl
+  - wireshark-mqtt
+  - cotopaxi
+  - libcoap
+related:
+  - freertos-security
+  - wolfmqtt
+  - wolfssl
   - wireshark-mqtt
   - cotopaxi
   - libcoap

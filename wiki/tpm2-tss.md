@@ -8,7 +8,7 @@ url: "https://github.com/tpm2-software/tpm2-tss"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-17
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -18,7 +18,14 @@ related:
   - tpm2-algtest
   - caliptra
   - avb-android-verified-boot
-  - trusted-firmware-m
+  - trusted-firmware-a
+  - embark
+related:
+  - tpm-2-0-reference-implementation
+  - tpm2-algtest
+  - caliptra
+  - avb-android-verified-boot
+  - trusted-firmware-a
   - embark
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"

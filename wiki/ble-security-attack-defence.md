@@ -8,15 +8,22 @@ url: "https://github.com/Charmve/BLE-Security-Attack-Defence"
 status: unknown
 last_checked: 2026-11-09
 created: 2026-11-09
-updated: 2026-11-16
+updated: 2026-11-17
 depth: stub
 source_list: awesome-embedded-security
 source_commit: a1f2bc9
 list_summary: "Curated collection of Bluetooth Low Energy attack and defence research, covering tools, papers, and documented vulnerabilities in BLE stacks."
 related:
-  - bleeding
   - btlejuice
   - nrf-sniffer-for-bluetooth-le
+  - bleeding
+  - braktooth
+  - whad-framework
+  - bluetoolkit
+related:
+  - btlejuice
+  - nrf-sniffer-for-bluetooth-le
+  - bleeding
   - braktooth
   - whad-framework
   - bluetoolkit

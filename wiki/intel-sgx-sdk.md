@@ -8,17 +8,23 @@ url: "https://github.com/intel/confidential-computing.sgx"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-17
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Open-source Linux SDK and Platform Software for Intel Software Guard Extensions, providing the build/install toolchain for developing and deploying hardware-based memory enclave applications."
 related:
+  - teaclave-trustzone-sdk
   - sgx-step
   - qiling
   - honggfuzz
   - mitre-ectf
-  - suit
+related:
+  - teaclave-trustzone-sdk
+  - sgx-step
+  - qiling
+  - honggfuzz
+  - mitre-ectf
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01
