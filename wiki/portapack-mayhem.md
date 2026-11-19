@@ -8,7 +8,7 @@ url: "https://github.com/portapack-mayhem/mayhem-firmware"
 status: unknown
 last_checked: 2026-11-08
 created: 2026-11-08
-updated: 2026-11-16
+updated: 2026-11-19
 depth: stub
 source_list: awesome-embedded-security
 source_commit: 72bb336
@@ -19,7 +19,12 @@ related:
   - sigdigger
   - packetry
   - screaming-channels
-  - qcsuper
+related:
+  - hackrf-one
+  - gnu-radio
+  - sigdigger
+  - packetry
+  - screaming-channels
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-08

@@ -8,7 +8,7 @@ url: "https://github.com/CNK2100/VFuzz-public"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-19
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -17,6 +17,14 @@ related:
   - z-fuzzer
   - u-fuzz
   - boofuzz
+  - diagng
+  - qcsuper
+  - fuzzowski
+related:
+  - z-fuzzer
+  - u-fuzz
+  - boofuzz
+  - diagng
   - qcsuper
   - fuzzowski
 sources:
