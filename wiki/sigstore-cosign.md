@@ -8,7 +8,7 @@ url: "https://github.com/sigstore/cosign"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-21
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -16,9 +16,15 @@ list_summary: "Tooling for keyless signing and verification of firmware/containe
 related:
   - syft
   - rauc
+  - firmware-archaeology-toolset
   - onepct
   - in-toto
-  - swupdate
+related:
+  - syft
+  - rauc
+  - firmware-archaeology-toolset
+  - onepct
+  - in-toto
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

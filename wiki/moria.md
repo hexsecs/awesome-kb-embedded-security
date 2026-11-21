@@ -8,7 +8,7 @@ url: "https://github.com/nmatt0/moria"
 status: unknown
 last_checked: 2026-11-03
 created: 2026-11-03
-updated: 2026-11-16
+updated: 2026-11-21
 depth: stub
 source_list: awesome-embedded-security
 source_commit: 11620f7
@@ -17,9 +17,16 @@ related:
   - mithril
   - kaitai-struct
   - fwanalyzer-firmware-analyzer
+  - firmware-archaeology-toolset
   - dice
   - syft
-  - uefitool
+related:
+  - mithril
+  - kaitai-struct
+  - fwanalyzer-firmware-analyzer
+  - firmware-archaeology-toolset
+  - dice
+  - syft
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-03

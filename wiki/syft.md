@@ -8,7 +8,7 @@ url: "https://github.com/anchore/syft"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-21
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -17,8 +17,14 @@ related:
   - sigstore-cosign
   - moria
   - scout
+  - firmware-archaeology-toolset
   - grype
-  - isa-iec-62443
+related:
+  - sigstore-cosign
+  - moria
+  - scout
+  - firmware-archaeology-toolset
+  - grype
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

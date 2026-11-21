@@ -8,7 +8,7 @@ url: "https://media.defcon.org/DEF%20CON%2034/DEF%20CON%2034%20villages%20and%20
 status: unknown
 last_checked: 2026-11-12
 created: 2026-11-12
-updated: 2026-11-16
+updated: 2026-11-21
 depth: stub
 source_list: awesome-embedded-security
 source_commit: 41a4183
@@ -16,9 +16,15 @@ list_summary: "DEF CON 34 Biohacking Village talk by Marie Moe, Shayan Alinejad,
 related:
   - reverse-engineering-a-ledger-nano-x-hardware-implant
   - embedded-hacking
+  - firmware-archaeology-toolset
   - binwalk
   - barf
-  - ghidra
+related:
+  - reverse-engineering-a-ledger-nano-x-hardware-implant
+  - embedded-hacking
+  - firmware-archaeology-toolset
+  - binwalk
+  - barf
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-12

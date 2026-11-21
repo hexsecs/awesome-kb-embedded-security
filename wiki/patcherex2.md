@@ -8,7 +8,7 @@ url: "https://github.com/purseclab/Patcherex2"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-17
+updated: 2026-11-21
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -17,15 +17,22 @@ related:
   - gef
   - retdec
   - dvrf
-  - checksec
   - unicorn-engine
+  - checksec
   - internalblue
 related:
   - gef
   - retdec
   - dvrf
-  - checksec
   - unicorn-engine
+  - checksec
+  - internalblue
+related:
+  - gef
+  - retdec
+  - dvrf
+  - unicorn-engine
+  - checksec
   - internalblue
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"

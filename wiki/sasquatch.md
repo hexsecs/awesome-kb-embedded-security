@@ -8,7 +8,7 @@ url: "https://github.com/devttys0/sasquatch"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-21
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -17,8 +17,15 @@ related:
   - unblob
   - binwalk
   - dvrf
+  - firmware-archaeology-toolset
   - fwanalyzer-firmware-analyzer
-  - greenhouse
+  - etsi-en-303-645
+related:
+  - unblob
+  - binwalk
+  - dvrf
+  - firmware-archaeology-toolset
+  - fwanalyzer-firmware-analyzer
   - etsi-en-303-645
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
