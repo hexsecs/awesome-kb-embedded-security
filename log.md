@@ -37,3 +37,17 @@ The daily ingest sync now runs the miner after ingest so new stubs
 land linked and neighbours gain the reciprocal link in the same
 commit. Concept candidates are mined separately by
 tools/concept_scan.py and filed as gated issues, never auto-built.
+
+## [2026-11-23] scan | Weekly concept scan: no new candidates filed
+
+`tools/concept_scan.py --min-pages 5 --top 25` over 290 entity pages / 0
+existing concepts: 25 candidates, 0 filed, 25 declined. The five prior
+filings are still open (issues #2-#6: USB, board-level debug & bus
+interfaces, side-channel, TPM, SDR) and the rest were declined in issue
+#7 with revisit triggers — none met this week: arm 18 (was 17), ble 12
+(unchanged), cortex-m 8, esp32 8 / flipper zero 6 (combined
+commodity-hardware trigger not met — counts not roughly doubled), qemu 6
+(unchanged), x86 8, risc-v 7, mips 6, mifare 5, mqtt 5, gdb 5, fpga 5;
+new below-bar entries afl 5, cli 5, mcu 5 (single-tool families / generic
+vocabulary). No link pass in this job — links are maintained inside the
+daily ingest sync.
