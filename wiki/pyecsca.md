@@ -8,7 +8,7 @@ url: "https://github.com/J08nY/pyecsca"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-23
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -18,6 +18,14 @@ related:
   - scaaml
   - screaming-channels
   - reverse-engineering-a-ledger-nano-x-hardware-implant
+  - can-commander
+  - mitre-ectf
+related:
+  - jlsca
+  - scaaml
+  - screaming-channels
+  - reverse-engineering-a-ledger-nano-x-hardware-implant
+  - can-commander
   - mitre-ectf
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"

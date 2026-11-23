@@ -8,7 +8,7 @@ url: "https://github.com/xunholy/promptzero"
 status: unknown
 last_checked: 2026-11-06
 created: 2026-11-06
-updated: 2026-11-16
+updated: 2026-11-23
 depth: stub
 source_list: awesome-embedded-security
 source_commit: a105833
@@ -18,8 +18,15 @@ related:
   - flipper-zero
   - esp32-marauder
   - nfc-apdu-spy
+  - can-commander
   - rfcat
-  - awesome-flipper-zero
+related:
+  - cyber-controller
+  - flipper-zero
+  - esp32-marauder
+  - nfc-apdu-spy
+  - can-commander
+  - rfcat
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-06

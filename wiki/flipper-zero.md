@@ -8,7 +8,7 @@ url: "https://docs.flipper.net/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-23
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -17,9 +17,16 @@ related:
   - awesome-flipper-zero
   - cyber-controller
   - promptzero
+  - can-commander
   - nfc-apdu-spy
   - sdrangel
-  - yard-stick-one
+related:
+  - awesome-flipper-zero
+  - cyber-controller
+  - promptzero
+  - can-commander
+  - nfc-apdu-spy
+  - sdrangel
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

@@ -8,7 +8,7 @@ url: "https://www.psacertified.org/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-23
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -19,7 +19,14 @@ related:
   - caliptra
   - root-node
   - breaking-the-root-of-trust-practical-side-channel-key-extraction-from-a-tpm
-  - awesome-flipper-zero
+  - rt-thread-security
+related:
+  - opentitan
+  - freertos-security
+  - caliptra
+  - root-node
+  - breaking-the-root-of-trust-practical-side-channel-key-extraction-from-a-tpm
+  - rt-thread-security
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

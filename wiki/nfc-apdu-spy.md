@@ -8,17 +8,23 @@ url: "https://github.com/Menrix/NFC_Apdu_Spy"
 status: unknown
 last_checked: 2026-11-11
 created: 2026-11-11
-updated: 2026-11-16
+updated: 2026-11-23
 depth: stub
 source_list: awesome-embedded-security
 source_commit: f5d3358
 list_summary: "Flipper Zero app that emulates an ISO14443-4A tag and logs the APDUs exchanged with a reader, for reverse-engineering NFC device conversations."
 related:
+  - can-commander
   - libnfc
   - flipper-zero
   - promptzero
   - awesome-flipper-zero
-  - reverse-engineering-a-ledger-nano-x-hardware-implant
+related:
+  - can-commander
+  - libnfc
+  - flipper-zero
+  - promptzero
+  - awesome-flipper-zero
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-11

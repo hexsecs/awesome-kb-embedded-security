@@ -8,7 +8,7 @@ url: "https://github.com/LxveAce/cyber-controller"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-23
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -19,7 +19,14 @@ related:
   - ghostesp
   - flipper-zero
   - esp32-marauder
-  - awesome-flipper-zero
+  - can-commander
+related:
+  - promptzero
+  - bruce
+  - ghostesp
+  - flipper-zero
+  - esp32-marauder
+  - can-commander
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

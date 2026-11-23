@@ -8,23 +8,29 @@ url: "https://github.com/portapack-mayhem/mayhem-firmware"
 status: unknown
 last_checked: 2026-11-08
 created: 2026-11-08
-updated: 2026-11-19
+updated: 2026-11-23
 depth: stub
 source_list: awesome-embedded-security
 source_commit: 72bb336
 list_summary: "Community firmware for the HackRF PortaPack that turns the radio into a standalone handheld tool with apps for signal analysis, replay, and protocol decoding."
 related:
   - hackrf-one
+  - can-commander
   - gnu-radio
   - sigdigger
   - packetry
-  - screaming-channels
 related:
   - hackrf-one
+  - can-commander
   - gnu-radio
   - sigdigger
   - packetry
-  - screaming-channels
+related:
+  - hackrf-one
+  - can-commander
+  - gnu-radio
+  - sigdigger
+  - packetry
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-08

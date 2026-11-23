@@ -8,21 +8,28 @@ url: "https://uptane.org/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-17
+updated: 2026-11-23
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Secure software-update framework and standard for automotive systems, designed to resist compromised infrastructure and vehicle-network attacks."
 related:
-  - unece-r156
   - rauc
+  - unece-r156
   - matter
   - suit
   - swupdate
   - the-update-framework-tuf
 related:
-  - unece-r156
   - rauc
+  - unece-r156
+  - matter
+  - suit
+  - swupdate
+  - the-update-framework-tuf
+related:
+  - rauc
+  - unece-r156
   - matter
   - suit
   - swupdate

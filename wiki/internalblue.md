@@ -8,7 +8,7 @@ url: "https://github.com/seemoo-lab/internalblue"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-23
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -16,9 +16,15 @@ list_summary: "Bluetooth experimentation framework enabling binary patching, LMP
 related:
   - braktooth
   - patcherex2
+  - can-commander
   - sweyntooth
   - firmxray
-  - ghostesp
+related:
+  - braktooth
+  - patcherex2
+  - can-commander
+  - sweyntooth
+  - firmxray
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

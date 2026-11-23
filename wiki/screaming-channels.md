@@ -8,7 +8,7 @@ url: "https://github.com/eurecom-s3/screaming_channels"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-23
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -19,7 +19,14 @@ related:
   - rainbow
   - scared
   - scaaml
-  - portapack-mayhem
+  - daredevil
+related:
+  - pyecsca
+  - gnu-radio
+  - rainbow
+  - scared
+  - scaaml
+  - daredevil
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01
