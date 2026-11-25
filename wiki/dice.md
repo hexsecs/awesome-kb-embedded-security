@@ -8,7 +8,7 @@ url: "https://github.com/RiS3-Lab/DICE-DMA-Emulation"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-25
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -19,7 +19,14 @@ related:
   - halucinator
   - fuzzware
   - afl-2
-  - moria
+  - gdbfuzz
+related:
+  - emu
+  - caliptra
+  - halucinator
+  - fuzzware
+  - afl-2
+  - gdbfuzz
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

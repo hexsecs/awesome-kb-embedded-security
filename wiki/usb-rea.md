@@ -8,7 +8,7 @@ url: "https://github.com/emirmrkaljevic/usb-rea"
 status: unknown
 last_checked: 2026-11-02
 created: 2026-11-02
-updated: 2026-11-16
+updated: 2026-11-25
 depth: stub
 source_list: awesome-embedded-security
 source_commit: d678051
@@ -16,8 +16,15 @@ list_summary: "Infers a device's vendor USB protocol from labelled usbmon or USB
 related:
   - luna
   - rea
-  - packetry
   - cynthion
+  - packetry
+  - u-fuzz
+  - hydradancer
+related:
+  - luna
+  - rea
+  - cynthion
+  - packetry
   - u-fuzz
   - hydradancer
 sources:

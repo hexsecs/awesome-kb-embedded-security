@@ -8,7 +8,7 @@ url: "https://github.com/OWASP/IoT-Security-Verification-Standard-ISVS"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-25
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -17,8 +17,14 @@ related:
   - iotgoat
   - owasp-iot-security-testing-guide
   - greenhouse
+  - iotpwnbench
   - gsma-iot-security-guidelines
-  - expliot
+related:
+  - iotgoat
+  - owasp-iot-security-testing-guide
+  - greenhouse
+  - iotpwnbench
+  - gsma-iot-security-guidelines
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

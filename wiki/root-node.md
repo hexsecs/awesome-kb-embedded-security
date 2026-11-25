@@ -8,7 +8,7 @@ url: "https://github.com/LukedeMunk/root-node"
 status: unknown
 last_checked: 2026-11-07
 created: 2026-11-07
-updated: 2026-11-16
+updated: 2026-11-25
 depth: stub
 source_list: awesome-embedded-security
 source_commit: 57dfc7d
@@ -18,7 +18,14 @@ related:
   - dvid
   - dvrf
   - psa-certified
-  - esp32-bit-pirate
+  - iotpwnbench
+  - grandideastudio-com
+related:
+  - iotgoat
+  - dvid
+  - dvrf
+  - psa-certified
+  - iotpwnbench
   - grandideastudio-com
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"

@@ -8,7 +8,7 @@ url: "https://github.com/Menrix/NFC_Apdu_Spy"
 status: unknown
 last_checked: 2026-11-11
 created: 2026-11-11
-updated: 2026-11-23
+updated: 2026-11-25
 depth: stub
 source_list: awesome-embedded-security
 source_commit: f5d3358
@@ -18,12 +18,21 @@ related:
   - libnfc
   - flipper-zero
   - promptzero
+  - reverse-engineering-a-ledger-nano-x-hardware-implant
   - awesome-flipper-zero
 related:
   - can-commander
   - libnfc
   - flipper-zero
   - promptzero
+  - reverse-engineering-a-ledger-nano-x-hardware-implant
+  - awesome-flipper-zero
+related:
+  - can-commander
+  - libnfc
+  - flipper-zero
+  - promptzero
+  - reverse-engineering-a-ledger-nano-x-hardware-implant
   - awesome-flipper-zero
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"

@@ -8,7 +8,7 @@ url: "https://pypi.org/project/expliot/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-25
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -19,7 +19,12 @@ related:
   - u-fuzz
   - firmware-security-testing
   - fwanalyzer-firmware-analyzer
-  - owasp-iot-security-verification-standard
+related:
+  - owasp-iot-security-testing-guide
+  - metasploit
+  - u-fuzz
+  - firmware-security-testing
+  - fwanalyzer-firmware-analyzer
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

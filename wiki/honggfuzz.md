@@ -8,7 +8,7 @@ url: "https://github.com/google/honggfuzz"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-25
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -18,8 +18,15 @@ related:
   - z-fuzzer
   - libfuzzer
   - afl
-  - u-fuzz
   - peach
+  - intel-sgx-sdk
+related:
+  - icicle
+  - z-fuzzer
+  - libfuzzer
+  - afl
+  - peach
+  - intel-sgx-sdk
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

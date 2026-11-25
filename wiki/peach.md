@@ -8,15 +8,21 @@ url: "https://gitlab.com/peachtech/peach-fuzzer-community"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-25
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "A smart fuzzer supporting both generation-based and mutation-based fuzzing via Peach Pit definitions. Community edition is source-available; full product is commercial."
 related:
+  - honggfuzz
   - u-fuzz
   - z-fuzzer
+  - firmwire
+  - icicle
+related:
   - honggfuzz
+  - u-fuzz
+  - z-fuzzer
   - firmwire
   - icicle
 sources:
