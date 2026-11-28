@@ -8,7 +8,7 @@ url: "https://github.com/portapack-mayhem/mayhem-firmware"
 status: unknown
 last_checked: 2026-11-08
 created: 2026-11-08
-updated: 2026-11-23
+updated: 2026-11-28
 depth: stub
 source_list: awesome-embedded-security
 source_commit: 72bb336
@@ -18,19 +18,25 @@ related:
   - can-commander
   - gnu-radio
   - sigdigger
-  - packetry
+  - piraterf
 related:
   - hackrf-one
   - can-commander
   - gnu-radio
   - sigdigger
-  - packetry
+  - piraterf
 related:
   - hackrf-one
   - can-commander
   - gnu-radio
   - sigdigger
-  - packetry
+  - piraterf
+related:
+  - hackrf-one
+  - can-commander
+  - gnu-radio
+  - sigdigger
+  - piraterf
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-08

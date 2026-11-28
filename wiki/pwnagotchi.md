@@ -8,17 +8,23 @@ url: "https://pwnagotchi.ai/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-28
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "A2C-based “AI” powered by bettercap and running on a Raspberry Pi Zero W that learns from its surrounding WiFi environment in order to maximize the crackable WPA key material it captures."
 related:
   - cyber-controller
+  - piraterf
   - esp32-marauder
   - bettercap-ble
   - cutter
-  - daredevil
+related:
+  - cyber-controller
+  - piraterf
+  - esp32-marauder
+  - bettercap-ble
+  - cutter
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

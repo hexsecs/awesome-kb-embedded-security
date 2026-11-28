@@ -8,7 +8,7 @@ url: "https://www.nuand.com/bladerf-2-0-micro/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-28
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -16,8 +16,15 @@ list_summary: "Full-duplex 2x2 MIMO SDR tuning 47 MHz to 6 GHz, with an on-board
 related:
   - limesdr
   - hackrf-one
-  - gnu-radio
   - sdr
+  - gnu-radio
+  - future-sdr
+  - maia-sdr
+related:
+  - limesdr
+  - hackrf-one
+  - sdr
+  - gnu-radio
   - future-sdr
   - maia-sdr
 sources:
