@@ -8,7 +8,7 @@ url: "https://github.com/Mobile-IoT-Security-Lab/IoTPwnBench"
 status: unknown
 last_checked: 2026-11-25
 created: 2026-11-25
-updated: 2026-11-25
+updated: 2026-11-28
 depth: stub
 source_list: awesome-embedded-security
 source_commit: c9512c5
@@ -18,8 +18,15 @@ related:
   - root-node
   - fwhunt
   - meta-raspberrypi-secure
-  - owasp-iot-security-verification-standard
   - gattacker
+  - swtpm
+related:
+  - dvid
+  - root-node
+  - fwhunt
+  - meta-raspberrypi-secure
+  - gattacker
+  - swtpm
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-25

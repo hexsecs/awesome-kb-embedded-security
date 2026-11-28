@@ -8,18 +8,25 @@ url: "https://github.com/nfc-tools/libnfc"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-28
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Platform-independent NFC library covering ISO14443-A/B, FeliCa, and MIFARE, and the foundation most other NFC tooling builds on."
 related:
   - nfc-apdu-spy
+  - breakmeifyoucan-exploiting-keyspace-reduction-and-relay-attacks-in-3des-and-aes-protected-nfc-technologies
   - promptzero
   - gnu-radio
   - mfcuk
   - mfoc
-  - mfoc-hardnested
+related:
+  - nfc-apdu-spy
+  - breakmeifyoucan-exploiting-keyspace-reduction-and-relay-attacks-in-3des-and-aes-protected-nfc-technologies
+  - promptzero
+  - gnu-radio
+  - mfcuk
+  - mfoc
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

@@ -8,21 +8,27 @@ url: "https://pypi.org/project/expliot/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-25
+updated: 2026-11-28
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Framework for security testing and exploiting IoT products and IoT infrastructure. It provides a set of plugins (test cases) which are used to perform the assessment and can be extended easily with new ones."
 related:
   - owasp-iot-security-testing-guide
-  - metasploit
   - u-fuzz
+  - metasploit
   - firmware-security-testing
   - fwanalyzer-firmware-analyzer
 related:
   - owasp-iot-security-testing-guide
-  - metasploit
   - u-fuzz
+  - metasploit
+  - firmware-security-testing
+  - fwanalyzer-firmware-analyzer
+related:
+  - owasp-iot-security-testing-guide
+  - u-fuzz
+  - metasploit
   - firmware-security-testing
   - fwanalyzer-firmware-analyzer
 sources:

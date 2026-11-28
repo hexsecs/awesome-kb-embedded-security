@@ -8,7 +8,7 @@ url: "https://youtu.be/WNpW52x-EWY"
 status: unknown
 last_checked: 2026-11-14
 created: 2026-11-14
-updated: 2026-11-23
+updated: 2026-11-28
 depth: stub
 source_list: awesome-embedded-security
 source_commit: a71bc48
@@ -16,17 +16,24 @@ list_summary: "Hardwear.io USA 2026 talk by Joe Grand: reverse engineering a rea
 related:
   - hacking-hearts-by-reverse-engineering-pacemaker-firmware
   - breaking-the-root-of-trust-practical-side-channel-key-extraction-from-a-tpm
+  - breakmeifyoucan-exploiting-keyspace-reduction-and-relay-attacks-in-3des-and-aes-protected-nfc-technologies
   - miasm
   - barf
   - binwalk
-  - can-commander
 related:
   - hacking-hearts-by-reverse-engineering-pacemaker-firmware
   - breaking-the-root-of-trust-practical-side-channel-key-extraction-from-a-tpm
+  - breakmeifyoucan-exploiting-keyspace-reduction-and-relay-attacks-in-3des-and-aes-protected-nfc-technologies
   - miasm
   - barf
   - binwalk
-  - can-commander
+related:
+  - hacking-hearts-by-reverse-engineering-pacemaker-firmware
+  - breaking-the-root-of-trust-practical-side-channel-key-extraction-from-a-tpm
+  - breakmeifyoucan-exploiting-keyspace-reduction-and-relay-attacks-in-3des-and-aes-protected-nfc-technologies
+  - miasm
+  - barf
+  - binwalk
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-14

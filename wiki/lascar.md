@@ -8,7 +8,7 @@ url: "https://github.com/Ledger-Donjon/lascar"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-28
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -18,7 +18,13 @@ related:
   - scared
   - daredevil
   - unblob
-  - chipwhisperer
+  - breakmeifyoucan-exploiting-keyspace-reduction-and-relay-attacks-in-3des-and-aes-protected-nfc-technologies
+related:
+  - rainbow
+  - scared
+  - daredevil
+  - unblob
+  - breakmeifyoucan-exploiting-keyspace-reduction-and-relay-attacks-in-3des-and-aes-protected-nfc-technologies
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

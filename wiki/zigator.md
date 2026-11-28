@@ -8,13 +8,20 @@ url: "https://github.com/akestoridis/zigator"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-28
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Security analysis tool for Zigbee and Thread networks, supporting packet capture, selective jamming, and injection."
 related:
   - rt-thread-security
+  - minino
+  - z-fuzzer
+  - bleeding
+  - rea
+related:
+  - rt-thread-security
+  - minino
   - z-fuzzer
   - bleeding
   - rea

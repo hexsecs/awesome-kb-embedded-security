@@ -8,7 +8,7 @@ url: "https://bruce.computer/"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-28
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -18,7 +18,13 @@ related:
   - esp32-marauder
   - chameleonultra
   - wolftpm
-  - promptzero
+  - minino
+related:
+  - cyber-controller
+  - esp32-marauder
+  - chameleonultra
+  - wolftpm
+  - minino
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01

@@ -8,7 +8,7 @@ url: "https://www.gsma.com/solutions-and-impact/technologies/internet-of-things/
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-28
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
@@ -16,9 +16,16 @@ list_summary: "Industry guidance covering endpoint, network, and service securit
 related:
   - nist-sp-800-193
   - nist-ir-8259a
+  - wifisting
   - owasp-iot-security-testing-guide
   - owasp-iot-security-verification-standard
+  - rayhunter
+related:
+  - nist-sp-800-193
+  - nist-ir-8259a
   - wifisting
+  - owasp-iot-security-testing-guide
+  - owasp-iot-security-verification-standard
   - rayhunter
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"

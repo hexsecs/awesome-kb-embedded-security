@@ -8,17 +8,23 @@ url: "https://github.com/RT-Thread/rt-thread/security"
 status: unknown
 last_checked: 2026-11-01
 created: 2026-11-01
-updated: 2026-11-16
+updated: 2026-11-28
 depth: stub
 source_list: awesome-embedded-security
 source_commit: ca576ac
 list_summary: "Security resources and vulnerability reporting for RT-Thread IoT OS."
 related:
+  - minino
   - zigator
   - eu-cyber-resilience-act
   - psa-certified
   - firmae
-  - onepct
+related:
+  - minino
+  - zigator
+  - eu-cyber-resilience-act
+  - psa-certified
+  - firmae
 sources:
   - url: "https://github.com/hexsecs/awesome-embedded-security"
     retrieved: 2026-11-01
